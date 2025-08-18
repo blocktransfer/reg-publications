@@ -313,4 +313,20 @@ BlockTrans’ failure to establish a process to ensure that back-up files of the
 
 ## OFAC Searches
 
+C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
+
+BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
+
+
+
+Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
+
+The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals (“SDNs”), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
+Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
+
+Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
+
+BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
+
+
 
