@@ -202,3 +202,21 @@ As such, BlockTrans is not in compliance with Rule 17Ac2-1(c) under the Exchange
 
 
 
+
+## MSF Items
+
+
+B. Maintenance of Master Securityholder File
+
+Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transfer agent shall promptly and accurately post to the master securityholder file debit and credits containing minimumand appropriate certificate detail representing every security transferred, purchased, redeemed orissued
+
+[^can do a good usbsection here with IL and cede setup]
+
+
+Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its master securityholder file and subsidiary files must accuratelyrepresent all relevant debits and credits until the record differences is resolved. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
+
+The Staff discovered the following exceptions during its review of the Laylor Corporation (“Laylor”) master securityholder file for the period of September 2023 through April 2025:
+
+
+
+
