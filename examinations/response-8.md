@@ -178,7 +178,7 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 
 
-
+# Findings
 
 
 I. Deficiencies
@@ -208,9 +208,9 @@ As such, BlockTrans is not in compliance with Rule 17Ac2-1(c) under the Exchange
 
 B. Maintenance of Master Securityholder File
 
-Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transfer agent shall promptly and accurately post to the master securityholder file debit and credits containing minimumand appropriate certificate detail representing every security transferred, purchased, redeemed orissued
+Rule 17Ad-10(a)(1) under the Exchange Act states that every recordkeeping transfer agent shall promptly and accurately post to the master securityholder file debit and credits containing minimumand appropriate certificate detail representing every security transferred, purchased, redeemed orissued[^1]
 
-[^can do a good usbsection here with IL and cede setup]
+[^1]: can do a good usbsection here with IL and cede setup]
 
 
 Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer agent shall maintain and keep current an accurate master securityholder file and subsidiary files. If such transferagent has any record difference, its master securityholder file and subsidiary files must accuratelyrepresent all relevant debits and credits until the record differences is resolved. The recordkeeping transfer agent shall exercise diligent and continuous attention to resolve all record differences.
@@ -218,19 +218,30 @@ Rule 17Ad-10(b) under the Exchange Act states that every recordkeeping transfer 
 The Staff discovered the following exceptions during its review of the Laylor Corporation (“Laylor”) master securityholder file for the period of September 2023 through April 2025:
 
 
-1. First Last (“Investor A”): In an email dated September 28, 2023, Tammy Harris (“Harris”), Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File (“MSF”) for the issuance to this securityholder.
+1. First Last (“Investor A”): In an email dated September 28, 2023, Laylor’s President, authorized the issuance of 100,000 shares to Investor A. While some of the certificate detail required under Rule 17Ad-9(a)(2) and (5) under the Exchange Act appears in the Legacy Database, as evidenced in the excel spreadsheet of its output, BlockTrans did not post the credit of 100,000 shares to the blockchain portion of the Master Securityholder File (“MSF”) for the issuance to this securityholder.
 
 Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer agentsmust post credits containing minimum and appropriate certificate detail within 30 days after issuance. As the authorization for the issuance of Investor A’s shares is dated September 28, 2023, BlockTrans should have posted the credit of 100,000 shares to the MSF by October 28, 2023.
 
-In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the “from” column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.
+In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the “from” column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
 
-[^subsubsection with start of issue auth convo...]
+[^2]: subsubsection with start of issue auth convo...]
 
 
 
-2. First Last (“Investor B”): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Harris to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date (“aqAt”), reflected in “holdings” column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)
+2. First Last (“Investor B”): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date (“aqAt”), reflected in “holdings” column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
 
-[^DB design and good catch on the blockchain side..]
+[^3]: DB design and good catch on the blockchain side..]
+
+
+
+
+Therefore, BlockTrans is not in compliance with Rule 17Ad-10(a) under the Exchange Act for failing to post the credit of 100,000 shares to the blockchain for the issuance to Investor A within the 30-day time frame, as well as for posting inaccurate certificate detail to the MSF for both Investors A and B.
+
+Moreover, BlockTrans is not in compliance with Rule 17Ad-10(b) under the Exchange Act sincethese discrepancies caused BlockTrans’s MSF for Laylor to be inaccurate during the period of September 2023 through April 2025.
+
+
+
+
 
 
 
