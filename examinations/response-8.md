@@ -252,13 +252,16 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchan
 
 
 
+# II. Weaknesses in Internal Controls, Supervisory Procedures, and Operational
+Processes
+
+## A. Written Procedures
 
 
 
+## B. MSF Certificate Detail
 
 
-
-
-
+## OFAC Searches
 
 
