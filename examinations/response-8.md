@@ -289,21 +289,23 @@ Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent
 Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## B. MSF Certificate Detail
+
+
+### Securities  Cancellation Dates
+
+This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the “Stellar Accounts”) are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the “Distribution Account”, there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
+
+As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
+
+
+
+
+
+
+
+
+
 
 
 ## OFAC Searches
