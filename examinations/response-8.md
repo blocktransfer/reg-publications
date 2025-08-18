@@ -263,6 +263,23 @@ Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the us
 
  Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
 
+
+### Cancellation and Destruction of Securities Certificates
+
+BlockTrans does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates. Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## B. MSF Certificate Detail
 
 
