@@ -299,12 +299,15 @@ This information is required as part of the minimum certificate detail pursuant 
 As a result, BlockTrans does not maintain or have readily accessible the cancellation dates or share amounts for cancelled securities of securityholders allocating to the Distribution Account.
 
 
+### Deleted Certificate Detail
 
+#### backups in CRON and pen...
 
+For those securityholders who don’t maintain StellarAccounts, the Registrant will manually delete certificate detail for cancelled securities. At present, deleted certificate detail for these securityholders would be reflected in backup files maintained by BlockTrans. However, the Registrant does not have a process to back-up and maintain the certificate detail for these securityholders which resides in the Legacy Database.
 
+Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer agentshall retain a record of all certificate detail deleted from the master securityholder file for a period of six years from the date of deletion. In lieu of maintaining a hard copy, a recordkeeping transfer agent may comply with this paragraph by complying with §240.17Ad-7(f) or §240.17Ad-7(g).
 
-
-
+BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
 
 
 
