@@ -240,6 +240,23 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(a) under the Exchan
 Moreover, BlockTrans is not in compliance with Rule 17Ad-10(b) under the Exchange Act sincethese discrepancies caused BlockTrans’s MSF for Laylor to be inaccurate during the period of September 2023 through April 2025.
 
 
+## control book items
+
+C. Maintenance of Control Book
+
+Rule 17Ad-10(e) under the Exchange Act states that every recordkeeping transfer agent shallmaintain and keep current an accurate control book for each issue of securities. A change in the control book shall not be made except upon written authorization from a duly authorized agent of the issuer. Rule 17Ad-9(d) under the Exchange Act defines a control book as a record or other document that shows the total number of shares authorized and issued by the issuer.
+
+As noted above, the issuer's email of September 28, 2023, authorized the issuance of 100,000 shares to Investor A. The Registrant’s failure to post a credit for these shares to the blockchain portion of  the MSF resulted in understatement of Laylor’s issued share amount by 100,000 shares. Consequently, Laylor’s issued amount reflected on its Control Book was understated by 100,000 shares during the period of October 2023 through April 2025.
+
+Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchange Act for failing to maintain and keep current an accurate control book for Laylor.
+
+
+
+
+
+
+
+
 
 
 
