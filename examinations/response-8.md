@@ -257,7 +257,11 @@ Processes
 
 ## A. Written Procedures
 
+### chacnged / neww identity  provider
 
+Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currentlydocuments its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
+
+ Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
 
 ## B. MSF Certificate Detail
 
