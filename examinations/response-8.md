@@ -27,6 +27,24 @@ and then i dont think she dound much on the SDEX bc no 723 yet
 
 
 
+We  have direct-ish ask for SRO collab basis on resp 6 from https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf § III.C.
+
+
+
+
+
+_See also_ "the counterintuitiveness of compounding"
+
+in _The Psychology of Money_ by Morgan Housel:
+
+> The danger here is that when compounding isn’t intuitive we often ignore its potential and focus on solving problems through other means. Not because we’re overthinking, but because we rarely stop to consider compounding potential.
+> None of the 2,000 books picking apart Buffett’s success are titled _This Guy Has Been Investing Consistently for Three-Quarters of a Century_. But we know that’s the key to the majority of his success. It’s just hard to wrap your head around that math because it’s not intuitive.
+> 
+> There are books on economic cycles, trading strategies, and sector bets. But the most powerful and important book should be called _Shut Up And Wait_. It’s just one page with a long-term chart of economic growth.
+
+i mena theres som more too it but it's a nice sentiment laying out for the stretch 
+
+
 
 #  thesis
 
