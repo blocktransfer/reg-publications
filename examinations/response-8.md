@@ -1,14 +1,11 @@
 ```
-
 extends: Response #6
 publish: 15 Sep 2025
-to: NY Office
-
 ```
 
+#  --- folderstructure should idenitigy response type ---- #
 
-
-
+## ---- Standard Sydnciate letterhead  &extenion (not yet  linked to whydrs/documetns)  --- ##
 
 
 # Introduction
@@ -27,13 +24,28 @@ New York, NY 10004-2616
 
 <p align="right"><b>via secure email</b></p>
 
+## Content
+
+Dear Mr. Vitulano,
+
+loriepsum
+
+
+In  good faith,
+
+John  Wooten
+
+
+
+
 
 
 
 # TOC
+!!
+For PDF  when  rendering output
 
-
-# Content
+# Letter
 
 
 
