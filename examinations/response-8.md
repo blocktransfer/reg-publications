@@ -28,16 +28,42 @@ New York, NY 10004-2616
 
 Dear Mr. Vitulano,
 
-loriepsum
+[Acccolades  b/c this was aweesome]
+
+
+
+
+Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
+
+Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+
+
+
+
+
+basis
+
+#$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
+
+### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
+15 U.S.C. § 78q-1(f)
+
+
+#### singular pg.1 footnote:
 
 
 In  good faith,
 
 John  Wooten
 
+## Letterhead
 
+Our Document Request Response #6 ("PREV") incorporated by reference in toto.
 
+## Headings
 
+esclaeltion  on FAC
+\
 
 
 
@@ -49,9 +75,12 @@ For PDF  when  rendering output
 
 
 
-Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
-Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+
+
+
+
+
 
 
 
@@ -59,10 +88,6 @@ Existing work in 723 (later) extends to the investor protection points in re Acc
 we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
 
 and then i dont think she dound much on the SDEX bc no 723 yet
-
-
-
-
 
 
 
@@ -88,17 +113,7 @@ i mena theres som more too it but it's a nice sentiment laying out for the stret
 
 
 
-#  thesis
 
-esclaeltion  on FAC
-\
-
-basis
-
-#$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
-
-###  statutory basis (exemplifiexi n the iran implications  of OFACV)
-15 U.S.C. § 78q-1(f)
 
 _See also_ mateirla community insights backing up TAR § V ¶4 at https://x.com/6days1week/status/1930270725119615240
 
