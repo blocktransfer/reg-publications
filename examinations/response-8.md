@@ -1,9 +1,39 @@
 ```
 
-extends: Response 6
+extends: Response #6
+publish: 15 Sep 2025
 to: NY Office
 
 ```
+
+
+
+
+
+
+# Introduction
+
+## Addresee
+
+Steven C. Vitulano
+
+Assistant Director
+
+c/o U.S. Securities and Exchange Commission
+
+100 Pearl Street, Suite 20-100
+
+New York, NY 10004-2616
+
+<p align="right"><b>via secure email</b></p>
+
+
+
+
+# TOC
+
+
+# Content
 
 
 
