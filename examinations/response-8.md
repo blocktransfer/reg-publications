@@ -7,6 +7,25 @@ to: NY Office
 
 
 
+Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
+
+Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
+
+
+
+
+we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
+
+and then i dont think she dound much on the SDEX bc no 723 yet
+
+
+
+
+
+
+
+
+
 
 
 #  thesis
