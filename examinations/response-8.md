@@ -158,30 +158,9 @@ froim https://arxiv.org/pdf/1905.05931
 
 If they ask about the differetn WK assets, we have a basiss from the `2022_pegged_stablecoin_idea` :"before the bakruptyc or cessariotn of services for instututinos offering fiat rials such as Synapse Financial or Cricle Internet Financial" whih wis now an active working item with the Bur news made public
 
-## Addreseee
-
-Steven C. Vitulano
-
-Assistant Director
-
-c/o U.S. Securities and Exchange Commission
-
-100 Pearl Street, Suite 20-100
-
-New York, NY 10004-2616
-
-
-## Email Submission
-
-Hi Mr. Vitulano,
-
-attahced is reposne lol
 
 
 
-In good faith,
-
-John  Wooten
 
 ## Post-Header Intro Page (ccirca 3 paragrpahs for a good iftr, _See_  Response 3 for expected paragraph table size for 4 peoplel)
 
