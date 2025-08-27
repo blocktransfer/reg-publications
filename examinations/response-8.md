@@ -164,9 +164,7 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 
 ## Post-Header Intro Page (ccirca 3 paragrpahs for a good iftr, _See_  Response 3 for expected paragraph table size for 4 peoplel)
 
-We;ve introduced three major policcy directions, and I’d sinecerelyt apprecaite written public feedback so that we can all get on the same page:   
-* Autoomated Rule 144 rekeases   
-* Decentralized  exchange through TAs]   
+
 * Nonprofit DDAO governing  remediations   
   
   
