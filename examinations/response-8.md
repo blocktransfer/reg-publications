@@ -257,6 +257,28 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 
 
+
+
+##  Start  iof IC's § 2
+
+while i understand there's legislative basis in ~~Reg  S-P  and SCI~~ for intenral controls  of registratns
+
+xxxx
+
+do n ot  apply  to trasnger agents
+
+why i  think trusting individualit jsudfmenet effectives ly best option
+
+###  on   the policy choiuce of issueing  to account IDs
+
+_See_ _supra_ § I.B.1.a
+
+broadly we h ave here the  conectikonA to automating through software and backend autonous  signature  verfifications
+
+href EDGAR Letter § II.B.1.a
+^ p[rob needs  forma deifntional]
+
+
 # Findings
 
 
