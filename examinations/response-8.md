@@ -171,22 +171,16 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 **TODOs** 
 ---
 
-
 # we went to get into the FAC based on a direct webb supplement (intro)
 
-## i want to pull the 2 outstadning FOIA cards from https://github.com/JFWooten4/agenda/issues/9
 
 
-_See_ https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801#email
+  lets have  a supplement  for the physicalAddress interface_** 
 
 
 ---
 
 ---
-
-consent
-  
-Aaslo  lets have  a supplement  for the physicalAddress interface_** 
 
 
 
