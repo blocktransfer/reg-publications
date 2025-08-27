@@ -168,12 +168,11 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 * Nonprofit DDAO governing  remediations
 
 --- 
-**Table of Contents** 
+**TODOs** 
 ---
 
 
-
-# we went to get into the FAC based on a direct webb supplement
+# we went to get into the FAC based on a direct webb supplement (intro)
 
 ## i want to pull the 2 outstadning FOIA cards from https://github.com/JFWooten4/agenda/issues/9
 
@@ -181,9 +180,9 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 _See_ https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801#email
 
 
+---
 
-  
-## Repsonse
+---
 
 consent
   
