@@ -122,6 +122,15 @@ _See also_ mateirla community insights backing up TAR § V ¶4 at https://x.com/
 _needs to hreg sfvegas 21 with profitt in parallell to taking stock 18 1% story timestampped_
 
 
+
+
+
+
+
+WE know fraud not becuase we 've seen itfirsthand  through industry and law pratcice, but becuase we livei n the trenches of public discourse and markets. We don't examine and enforce rules on legcy intermediatires, but we feel the  painstaking reality off manipulation firsthand. There are so manyn like myself who knowe the intimates of unjust prqadctices and wholyl  dedicate themselves into ongoing oversight.
+
+
+
 ###  TA12  address change items
 -0  basis  fo  examination  jurisdiciton
 - e xpertise of staff  in  other options  for  new addresing?>[^1]
