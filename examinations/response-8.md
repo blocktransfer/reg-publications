@@ -409,3 +409,8 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 
 
 
+#  Stretch
+
+## SRO as core of market and invvestor  ptoections
+
+although seemed more interested during all the  meetingsi n funcitnal operations rather than investor rights
