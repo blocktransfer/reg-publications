@@ -138,10 +138,34 @@ WE know fraud not becuase we 've seen itfirsthand  through industry and law prat
 (others r crypto secuirtyh   impls below)
 
 
-
+the policy  is material bescause https://physicaladdress.com/subscriber-agreement/ § 12 indemnifies them from Sydnmciate damages
 
 [^1]: huint at williing t o move  for benst expertise
 
+i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
+direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
+
+askin to  the prooposed interleave scheme  of Response §  , I sould be happy to let them use it with the limited permission applic cable in the `DOC _ HERE _ NONPUBLIC _ POLICY _ OPTIONS`:
+
+User Permissions:
+-  Update Company
+-  Update Users
+-  Update Senders
+**-  View Envelope**
+-  Archive Envelope
+-  Move Envelope
+-  Delete Envelope
+-  Forward Envelope
+-  Scan Contents
+-  Billing
+-  Block Sender
+-  Folder Manage
+
+* User Name:
+SEC Audits
+* E-Mail Verify:
+sec.audits@blocktransfer.io
+Status: New UserLast Access: 2022/10/06 08:02 EDT
 
 
 > The problem of ‘too central to fail’ can be addressed
