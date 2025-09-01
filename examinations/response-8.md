@@ -77,6 +77,11 @@ For PDF  when  rendering output
 
 ### TA-1 Principe Office Address
 
+I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
+
+I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. And morenlie quality requires tranpsrency
+
+Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. 
 
 updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
 
@@ -238,18 +243,17 @@ A.
 
 ## physical address not  current
 
-Form TA-1 - Application for Registration of Transfer Agents
 
-Rule 17Ac2-1(a) under the Exchange Act states that an application for registration, pursuant tosection 17A(c) of the [Exchange] Act, of a transfer agent for which the Commission is theappropriate regulatory agency, as defined in section 3(a)(34)(B) of the Act, shall be filed with theCommission on Form TA-1, in accordance with the instructions contained therein.
+The instructions for Form TA-1 disclose that a filer should “State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed.”
 
-Rule 17Ac2-1(c) under the Exchange Act requires that a registrant file an amendment to FormTA-1 within sixty days following the date on which the information in the submitted Form TA-1becomes inaccurate, misleading, or incomplete.
+BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of
+99 Wall Street #4640, New York, NY 10005 (“99 Wall Street”)
 
-The instructions for Form TA-1 disclose that a filer should “State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed.”BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of99 Wall Street #4640, New York, NY 10005 (“99 Wall Street”). The Staff’s discussions with theRegistrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com (“PhysicalAddress”), that receives/handles mail for clients.
+The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com (“PhysicalAddress”), that receives/handles mail for clients.
 BlockTrans does not maintain any personnel at that location. Likewise, it does not appear thatBlockTrans performs any transfer agent activities at that location.
 
-Consequently, it appears that BlockTrans’s Form TA-1/A dated September 25, 2023, contained inaccurate information as to the Registrant’s principal office and the Registrant failed to file an amendment within the timeframe specified by the Rule.
+BlockTrans’s Form TA-1/A dated September 25, 2023, contained inaccurate information
 
-As such, BlockTrans is not in compliance with Rule 17Ac2-1(c) under the Exchange Act
 
 
 
