@@ -225,45 +225,6 @@ Aa  dfein Resp 2 and first  disussion
 
 
 
-# Misc hrefs related to logging
-
-
-https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf
-ant te direct callout  from distinction  from https://stai.org/page/guidelines
-
-# menaingufl internal href into attchments folder
-
-https://drive.blocktransfer.com/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/cxghka6d40c183fa149d397b87e4f5f7bf261/folders/vecoi48005e08ebd747348b9621f6097c16a4
-
-https://drive.blocktransfer.com/folder/vecoi48005e08ebd747348b9621f6097c16a4
-
-# log of past additions
-
-https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
-
-
-
-
-See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding
- See  team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}
-Retro comp @ agenda#13 is why iu asked about paymetns in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
-
-WEANT THIS ON THE PUBLIC PAGE FOR INCOMING PROCEDURESD (TEAM)
-Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release “The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership.” as related  to shreedding  use
-^ quote I s  _Id._ serc https://archive.org/details/fsec00unit  at   § III.A.3.F.
-Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD “may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist” according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
-Criticallythis  was  the introduction  of  the in IHS via  “ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities” (from  study name)(
-
-## other items outstanding
-
-https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
-https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
-(from response 5)
-https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
-
-
-
-
 
 
 
@@ -417,6 +378,47 @@ Further, based on the Staff’s conversations with BlockTrans, it appears that t
 Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
 
 BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
+
+
+
+---
+
+
+# Misc hrefs related to logging
+
+
+https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf
+ant te direct callout  from distinction  from https://stai.org/page/guidelines
+
+# menaingufl internal href into attchments folder
+
+https://drive.blocktransfer.com/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/cxghka6d40c183fa149d397b87e4f5f7bf261/folders/vecoi48005e08ebd747348b9621f6097c16a4
+
+https://drive.blocktransfer.com/folder/vecoi48005e08ebd747348b9621f6097c16a4
+
+# log of past additions
+
+https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
+
+
+
+
+See also https://blocktransfer.com/compliance/team/legacy-investor-onboarding
+ See  team portal setup prior mockup exhibit in FTIN thing from item 1 which is {n.28}
+Retro comp @ agenda#13 is why iu asked about paymetns in https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=68 ¶ 23
+
+WEANT THIS ON THE PUBLIC PAGE FOR INCOMING PROCEDURESD (TEAM)
+Backline Response 1 note  10 introducitn https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository  with qutoe  from SEC release “The transfer agent depository ("TAD") would replace the certificate with computerized stockowner lists... which would serve as both the issuer's stock records and the shareowner's evidence of ownership.” as related  to shreedding  use
+^ quote I s  _Id._ serc https://archive.org/details/fsec00unit  at   § III.A.3.F.
+Adnthen we  can  Id. That  for the trifecta,  cuitiung the follwing  from 42:  a TAD “may have some long run promise, but it would seem to presuppose a highly integrated national computerized ‘book entry’ system which simply doesn't yet exist” according  to one of  the 145 banks  resposning to  staff and Congressikonal inquirtt.
+Criticallythis  was  the introduction  of  the in IHS via  “ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities” (from  study name)(
+
+## other items outstanding
+
+https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
+https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
+(from response 5)
+https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 
 
