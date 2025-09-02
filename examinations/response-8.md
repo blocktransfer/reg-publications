@@ -55,6 +55,7 @@ basis
 In  good faith,
 
 John  Wooten
+[req "signed cover letter" which prob just "/s/" but lol we have the good electroic one to drop like cmmnt]
 
 ## Letterhead
 
@@ -73,19 +74,29 @@ For PDF  when  rendering output
 
 # Letter
 
+
+
+
+
+
 ## Deficiency Responses
 
-### TA-1 Principe Office Address
 
-I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
+'d lketo start wit a big thank o staff for their throgouh inolvment throghou this eview. I sincrely appreciate all the finding in teh 14 Aug 2025 Defficinecy Letter within Appendix A (the "Findings"). Although I understand hte exam began as a check on our frst lost investors, it grew to be so much mre.
 
-I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. And morenlie quality requires tranpsrency
+This wouldn't have been possible without the express deicated efforts of yourself, Ms. Gallagher, and Mr. Martin; oall of whom I understnad worked  tirelessly to understand the account systems I developed. For all the silent effot the team of staff within the examination put in, thank you. The technical learnings amazed.
 
-Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. 
-
-updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
+I deveoped much of TAD3[^tad3?]
 
 
+[^tad3?]: _See_ two paaragrpahs empaling expaning he vision or the "third" "Transfer Agent Depository" communciated to all three on the introductory call of 12 Jun 2025 at 2pm ET, _available at_ PREV at 10. 
+
+
+I did not consider the full colletion of then-proprietary systens coplete until months of additional development with 
+
+https://web.archive.org/web/20250612221938/https://www.blocktransfer.com/blog/post/introducing-transfer-agent-depository
+
+Response 1 n.10
 
 
 
@@ -100,6 +111,8 @@ and then i dont think she dound much on the SDEX bc no 723 yet
 
 
 We  have direct-ish ask for SRO collab basis on resp 6 from https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf § III.C.
+
+^hch is now _supra_ note ?TAD3?
 
 
 
@@ -136,54 +149,6 @@ WE know fraud not becuase we 've seen itfirsthand  through industry and law prat
 
 
 
-###  TA12  address change items
--0  basis  fo  examination  jurisdiciton
-- e xpertise of staff  in  other options  for  new addresing?>[^1]
-- continuing relationshiups and basically  if based o n mailing or  the  principle office
-(others r crypto secuirtyh   impls below)
-
-
-the policy  is material bescause https://physicaladdress.com/subscriber-agreement/ § 12 indemnifies them from Sydnmciate damages
-
-[^1]: huint at williing t o move  for benst expertise
-
-i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
-direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
-
-askin to  the prooposed interleave scheme  of Response §  , I sould be happy to let them use it with the limited permission applic cable in the `DOC _ HERE _ NONPUBLIC _ POLICY _ OPTIONS`:
-
-User Permissions:
--  Update Company
--  Update Users
--  Update Senders
-**-  View Envelope**
--  Archive Envelope
--  Move Envelope
--  Delete Envelope
--  Forward Envelope
--  Scan Contents
--  Billing
--  Block Sender
--  Folder Manage
-
-* User Name:
-SEC Audits
-* E-Mail Verify:
-sec.audits@blocktransfer.io
-Status: New UserLast Access: 2022/10/06 08:02 EDT
-
-
-> The problem of ‘too central to fail’ can be addressed
-by reorganizing the underlying network topologies, while the problem of ‘too large to fail’ remains, at least
-to a certain extent. It is reasonable to conclude that for systemic risk-efficient allocations (i.e. the optimized
-networks) the individual systemic risk becomes more proportional to liabilities
-
-
-froim https://arxiv.org/pdf/1905.05931
-
-
-
-
 
 If they ask about the differetn WK assets, we have a basiss from the `2022_pegged_stablecoin_idea` :"before the bakruptyc or cessariotn of services for instututinos offering fiat rials such as Synapse Financial or Cricle Internet Financial" whih wis now an active working item with the Bur news made public
 
@@ -210,24 +175,6 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 ---
 
 ---
-
-
-
-## XX. Early Working Arrangements
-
-I remember talling my p artenr[^1]]  last novemebr  that I was  going  ot need some space  to work extremely  hard compiling my TAR comment.[^2]  She eotred  that everytign  would jsut be normal beccause that;s about the  speed I always work.  found it humenrous and drew direct parellles form  **_Fred Brooks’_**  sentiments in  **_The Mythical Man-Month_** **_ _** that you can’t fry an egg faster by adding more cooks   
-I Nitsm ost  literalt interepreation,    
-  
-Aa  dfein Resp 2 and first  disussion   
-  
-  
-  
-  [^1]: Ms. Melton was disucssed in our  first  meeting in relation to her patrticipatikon in the filing  of Form ID for our first  client, as more thotrhoruhgly communitcated in the EDGAR  letter at §§ I.B,  I.C.1. Th eltter goes on to express concerns over the cnetrlaization of notary services, including  online, I’ve seen ddespute help from my partenr without written contract.
-  
-  
-
-[^2]: See draft migration to open-source codebasse  after nearly a  year o f ccontemplation, _available at_ https://github.com/WhyDRS/SEC-Comments/commit/47a54e2240418632588831e0f54a40845e5cdd9e . This  work ultiumately matured into Response 1  note  20 gioven the severity  of  our present situation which  I’ve touched  briefly  in  PREV §§  0.B, II.B.2.a.
-
 
 
 
@@ -387,6 +334,110 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 
 ---
 
+# § 3 - re Findings § I.A.1
+
+
+
+
+
+
+
+
+
+
+### TA-1 Principe Office Address
+
+I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
+
+I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. And morenlie quality requires tranpsrency
+
+Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. 
+
+updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
+
+
+
+
+###  TA12  address change items
+-0  basis  fo  examination  jurisdiciton
+- e xpertise of staff  in  other options  for  new addresing?>[^1]
+- continuing relationshiups and basically  if based o n mailing or  the  principle office
+(others r crypto secuirtyh   impls below)
+
+
+the policy  is material bescause https://physicaladdress.com/subscriber-agreement/ § 12 indemnifies them from Sydnmciate damages
+
+[^1]: huint at williing t o move  for benst expertise
+
+i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
+direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
+
+askin to  the prooposed interleave scheme  of Response §  , I sould be happy to let them use it with the limited permission applic cable in the `DOC _ HERE _ NONPUBLIC _ POLICY _ OPTIONS`:
+
+User Permissions:
+-  Update Company
+-  Update Users
+-  Update Senders
+**-  View Envelope**
+-  Archive Envelope
+-  Move Envelope
+-  Delete Envelope
+-  Forward Envelope
+-  Scan Contents
+-  Billing
+-  Block Sender
+-  Folder Manage
+
+* User Name:
+SEC Audits
+* E-Mail Verify:
+sec.audits@blocktransfer.io
+Status: New UserLast Access: 2022/10/06 08:02 EDT
+
+---
+
+
+> The problem of ‘too central to fail’ can be addressed
+by reorganizing the underlying network topologies, while the problem of ‘too large to fail’ remains, at least
+to a certain extent. It is reasonable to conclude that for systemic risk-efficient allocations (i.e. the optimized
+networks) the individual systemic risk becomes more proportional to liabilities
+
+
+froim https://arxiv.org/pdf/1905.05931
+
+
+---
+!!
+
+
+
+
+## XX. Early Working Arrangements
+
+I remember talling my p artenr[^1]]  last novemebr  that I was  going  ot need some space  to work extremely  hard compiling my TAR comment.[^2]  She eotred  that everytign  would jsut be normal beccause that;s about the  speed I always work.  found it humenrous and drew direct parellles form  **_Fred Brooks’_**  sentiments in  **_The Mythical Man-Month_** **_ _** that you can’t fry an egg faster by adding more cooks   
+I Nitsm ost  literalt interepreation,    
+  
+Aa  dfein Resp 2 and first  disussion   
+  
+  
+  
+  [^1]: Ms. Melton was disucssed in our  first  meeting in relation to her patrticipatikon in the filing  of Form ID for our first  client, as more thotrhoruhgly communitcated in the EDGAR  letter at §§ I.B,  I.C.1. Th eltter goes on to express concerns over the cnetrlaization of notary services, including  online, I’ve seen ddespute help from my partenr without written contract.
+  
+  
+
+[^2]: See draft migration to open-source codebasse  after nearly a  year o f ccontemplation, _available at_ https://github.com/WhyDRS/SEC-Comments/commit/47a54e2240418632588831e0f54a40845e5cdd9e . This  work ultiumately matured into Response 1  note  20 gioven the severity  of  our present situation which  I’ve touched  briefly  in  PREV §§  0.B, II.B.2.a.
+
+
+
+
+
+
+
+
+
+
+
+# § 4
 
 # Misc hrefs related to logging
 
