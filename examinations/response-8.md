@@ -3,6 +3,9 @@ extends: Response #6 <-- actually important for the cross-ref refferal to backli
 publish: 15 Sep 2025
 ```
 
+> [!NOTE]
+> They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
+
 #  --- folderstructure should idenitigy response type ---- #
 
 ## ---- Standard Sydnciate letterhead  &extenion (not yet  linked to whydrs/documetns)  --- ##
