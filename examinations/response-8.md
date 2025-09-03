@@ -6,6 +6,8 @@ publish: 15 Sep 2025
 > [!NOTE]
 > They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
 
+for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
+
 #  --- folderstructure should idenitigy response type ---- #
 
 ## ---- Standard Sydnciate letterhead  &extenion (not yet  linked to whydrs/documetns)  --- ##
