@@ -7,4 +7,15 @@ THIs fule  has  the  CONT'D  Didciont i n  the  title  file name  for now baecau
 #  suggested  WhyDRS classification
 Educational or Non-Commercial Scientific
 
-https://zopen.to/qiYR9dqDjr0DXpftBmwu
+
+
+
+submission email docs:
+
+- 1: https://zopen.to/l3tdxhcPJHMKYcJks1aL
+" FOIA-pa: please see the FOIA request made in footnote 120."
+
+- 2drs: https://zopen.to/qiYR9dqDjr0DXpftBmwu
+" FOIA Services,
+
+Please see our request in note 141 at 50."
