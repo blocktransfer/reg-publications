@@ -8,6 +8,27 @@ publish: 15 Sep 2025
 
 for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
 
+
+### {{NAME}}  gameplan
+
+we can intro as basis for more indsitutional instrets
+
+DAO  Vvote  appriving  as of  — 07-Jan-25 11:31 AM
+(CHIVES SAYS)
+> I think I'd say yes. Naturally we'd rather see issuers seek to provide a custody first best-of-all-worlds solution, but taking a step towards blockchain and public auditability even if firmly in the old ways (TAD2) is still a step in the right direction. A syndicate tad2 could still outcompete and still be a relevant step forward for the industry.
+
+want to  set precedent for  expandin ops after  ocmpleting agenda items
+
+use with internal deference to Bur on basis o f  decentrlaized comms
+^ (unrelated)
+
+then  CRITICALLY: I  want it  framed  as  a teardown to other 3643 arragnements
+https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association
+
+the `outstanding`  count modifications hsouldd frame around this probelm 1st and fiormenetst
+
+then we can come in and save hte solution with new decentralizedd asttestations
+
 #  --- folderstructure should idenitigy response type ---- #
 
 ## ---- Standard Sydnciate letterhead  &extenion (not yet  linked to whydrs/documetns)  --- ##
