@@ -426,10 +426,11 @@ Aa  dfein Resp 2 and first  disussion
 [^2]: See draft migration to open-source codebasse  after nearly a  year o f ccontemplation, _available at_ https://github.com/WhyDRS/SEC-Comments/commit/47a54e2240418632588831e0f54a40845e5cdd9e . This  work ultiumately matured into Response 1  note  20 gioven the severity  of  our present situation which  I’ve touched  briefly  in  PREV §§  0.B, II.B.2.a.
 
 
+- https://github.com/blocktransfer/investor-app
+- https://expo.gatech.edu/prod1/portal/portal.jsp?c=17462&p=413142918&g=413665329&id=416518489
+- https://www.flickr.com/photos/gatechengineers/52546254100/in/photostream
 
-
-
-
+admittedly  the immediate future with _IL_ will jsut need total reworking/refactor
 
 
 
