@@ -180,7 +180,7 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 
 
 
-
+us
 # Findings
 
 
@@ -189,18 +189,6 @@ I. Deficiencies
 A. 
 
 ## physical address not  current
-
-
-The instructions for Form TA-1 disclose that a filer should “State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed.”
-
-BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of
-99 Wall Street #4640, New York, NY 10005 (“99 Wall Street”)
-
-The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com (“PhysicalAddress”), that receives/handles mail for clients.
-BlockTrans does not maintain any personnel at that location. Likewise, it does not appear thatBlockTrans performs any transfer agent activities at that location.
-
-BlockTrans’s Form TA-1/A dated September 25, 2023, contained inaccurate information
-
 
 
 
@@ -338,6 +326,16 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 
 
 
+
+```quote
+The instructions for Form TA-1 disclose that a filer should “State in Question 3.c. the full address ofthe registrant’s principal office where transfer agent activities are, or will be, performed.”
+
+BlockTrans’s current Form TA-1/A, dated September 25, 2023, reflects a principal office address of 99 Wall Street #4640, New York, NY 10005 (“99 Wall Street”)
+
+The Staff’s discussions with the Registrant revealed that the 99 Wall Street address is the location of a virtual business addressservice, PhysicalAddress.com (“PhysicalAddress”), that receives/handles mail for clients.
+
+BlockTrans does not maintain any personnel at that location. Likewise, it does not appear that BlockTrans performs any transfer agent activities at that location.
+```
 
 
 
