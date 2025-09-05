@@ -224,9 +224,9 @@ https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278
 as differnet  parts  of szad10
 
 
-[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). tHE FINDINGS CITE SUBPART 1  which  has the specific diction between  differnt rifile records explored  _infra_ § {{SUBSEC for the subsidiary file}}.  XYZ_3_here
+[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). tHE FINDINGS CITE SUBPART (1)  which  has the specific diction between  differnt rifile records explored  _infra_ § {{SUBSEC for the subsidiary file}}.  I trhink our open systems alleviate coordination  concerrns between  interlinked service companiesd through a unidfied ledger.
 
-[^ad10-2]: _Id._ at subpart 2. WHile our status was communivated  in Response 1  {{SECTOIN §  for when we write EXEMPT AGENT}}, I find  the  idffernet processing  times intellectuazlly  interesting. Whikle outside the scope of this review, IU contest the batch  procesting systems  systems  and differntiation of fund agents (in  this an  d other cirucmstances) froim standard agents (including those handling SPACs) of subparagrph ii and clause B.
+[^ad10-2]: _Id._ at subpart (2). WHile our status was communivated  in Response 1 § XII, I find  the  idffernet processing  times intellectuazlly  interesting. Whikle outside the scope of this review, IU contest the batch  procesting systems  systems  and differntiation of fund agents (in  this an  d other cirucmstances) froim standard agents (including those handling SPACs) of subparagrph (ii) and clause (B).
 
 
 
@@ -253,7 +253,7 @@ f0or the record difference part (setup in the last subsec), we have deviance for
 subsubsec on MSDF as master ledger records - big  win
 
 then we can into the API changes
-
+https://api.blocktransfer.com/assets/1984803ORD/outstanding <-- from Resp.  1  note  16
 
 
 ### Towo thigns (tbd on how we do this)
