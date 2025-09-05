@@ -128,6 +128,8 @@ Response 1 n.10
 
 
 we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
+https://x.com/i/spaces/1BRKjgprZkQGw and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
+
 
 and then i dont think she dound much on the SDEX bc no 723 yet
 
@@ -203,23 +205,82 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 ---
 
 
+## Master Securityholder File Maintenance
 
 
 
-us
+
+
+###  Promot Certificate Detial Posting
+
+During  out second meeting, staff kindly reminded me of the acccurate  debit a nd ctredit update requirements[^ad10-1]
+
+
+
+Mozooz src to
+
+https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278
+
+as differnet  parts  of szad10
+
+
+[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). tHE FINDINGS CITE SUBPART (1)  which  has the specific diction between  differnt rifile records explored  _infra_ § {{SUBSEC for the subsidiary file}}.  
+
+
+
+
+I appraccie tthat the rule applies equally to all agents  while prviding the flexbility of additional information 17Ad-9(a)(8)
+
+17 CFR § 240.17Ad-9
+^ should have a fn forthhis as static ref
+https://www.law.cornell.edu/cfr/text/17/240.17Ad-9
+
+
+
+
+
+
+
+
+### Segmenting Legacy  Subscidairy Files
+
+they actualyl use  the proper diction in  the second meeting (off emmeeory, i don't have these things recorded on the grounds of staff [preference in TAR1  n.176)
+^ 176 is good for TAR2, not so much here outside R5 suppl;1
+
+f0or the record difference part (setup in the last subsec), we have deviance form legaccy to Stellar
+
+subsubsec on MSDF as master ledger records - big  win
+
+then we can into the API changes
+
+
+
+### Towo thigns (tbd on how we do this)
+
+for  tiemm 1:
+
+for itme 2:
+this is where we  can cite ad9(a)(5–6) databse creatioon adjsutments as reccomended in  meeting 2
+
+
+
+### subpart C
+
+titling nad buldup as needed, akin  to earlier _supras_
+
+
+
+
+
 # Findings
 
 
-I. Deficiencies
-
-A. 
-
-## physical address not  current
-
-
-
-
 ## MSF Items
+
+
+
+
+
 
 
 B. Maintenance of Master Securityholder File
