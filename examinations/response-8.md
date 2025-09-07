@@ -291,6 +291,23 @@ https://stellar.expert/explorer/public/tx/24a054a5f885875732ac1732c93e6172721ffa
 
 
 
+#### Adjusting  Legacy "From"  Blame
+
+In ym beta system  for legacyt sahrolder mgirations,  ~~i elected  to use claimable balance IDs as  the internation documentation  of certificate detail. ~~
+
+go from haash of issuance email --> tx hash  with memo as hass h of issuancce basis
+
+ensures that  sharess are actually  ooutstanding iff/when added  to the  legacy holdings
+
+simple to streamline interop instead  of  the m anul input  at  https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27-L40C27
+
+impls at l egacyAdd  investor API proccess  in  gateway
+
+and  then  it is phreased  to be inthe import tx anysway,m and I just  haven't integrated it insto the issuances
+d
+would presumable  be  a non-tiems with the reuqierment for new issues to  AccountIDs
+
+
 
 
 
