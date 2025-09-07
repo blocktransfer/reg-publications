@@ -266,7 +266,8 @@ for  tiemm 1:
 https://stellar.expert/explorer/public/tx/079e1406fd0068e80c45f27a73205212e5774d88668bc4660cd89010d34fdf36
 
 
-
+https://www.issuers.info/1984803/ (annual  c11-5 ouitstanding)
+^ I think don't change this because it is the historic difference and archived state for AC11 ATS rules (fn introducing that), and then it also is the ongoing record difference which is not aged (can intro here).
 
 
 
@@ -424,7 +425,7 @@ identifiers
 
 
 
-### Mail Handling (Safeguarding of Securities) 
+### Handling MailSecurities) 
 
 The Staff’s discussions with BlockTransdisclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
 
@@ -435,19 +436,29 @@ Although the Registrant has not received any physical certificates at the 99 Wal
 
 
 
-#### 
+#### Extendign Safeguarding  Interpretive proxy
+
+Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] 
+
+we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
+and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
+n https://www.sec.gov/files/rules/final/2025/33-11377.pdf
+
+2023 proposed amendments to Reg SCI would not have applied to transfer agents
 
 
+[^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
+
+[^pierce]: _See_ Pierce statment "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
+, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126
+Profitt story at  https://lnns.co/rswev9D3A1n/4848  <!-- TAR letter note 119 -->
 
 
+reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
 
-
-
-
-
-
-
+> The S-P and SCI points are really material because their using "safehandling" as an interpretive proxy for specific programs
+— https://github.com/JFWooten4/agenda/issues/15#issuecomment-3239149051
 
 
 
@@ -613,6 +624,9 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 
 # § 4
 
+s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
+
+
 # Misc hrefs related to logging
 
 
@@ -629,6 +643,7 @@ https://drive.blocktransfer.com/folder/vecoi48005e08ebd747348b9621f6097c16a4
 
 https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
 
+https://github.com/blocktransfer/syndicate-api/blob/782f524f836a4ccf7825a2e2cb6c5834a471a8fe/legacy/importFinalAccs.py#L46
 
 
 
@@ -649,5 +664,9 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
+
+
+
+# end (fold)
 
 
