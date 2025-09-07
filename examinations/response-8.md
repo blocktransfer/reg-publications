@@ -7,7 +7,7 @@ publish: 15 Sep 2025
 > They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
 
 for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
-
+^ lets do this in the main asset page rather than subdt /outstanding
 
 ### {{NAME}}  gameplan
 
@@ -26,6 +26,7 @@ then  CRITICALLY: I  want it  framed  as  a teardown to other 3643 arragnements
 https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association
 
 the `outstanding`  count modifications hsouldd frame around this probelm 1st and fiormenetst
+      (I have also removed teh `PENDING ` flag in re "digging a deeper hole" senitments form Meeting 2)
 
 then we can come in and save hte solution with new decentralizedd asttestations
 
@@ -225,6 +226,8 @@ as differnet  parts  of szad10
 
 
 [^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). tHE FINDINGS CITE SUBPART (1)  which  has the specific diction between  differnt rifile records explored  _infra_ § {{SUBSEC for the subsidiary file}}.  I trhink our open systems alleviate coordination  concerrns between  interlinked service companiesd through a unidfied ledger.
+^
+see if we can get a citation on this TODO
 
 [^ad10-2]: _Id._ at subpart (2). WHile our status was communivated  in Response 1 § XII, I find  the  idffernet processing  times intellectuazlly  interesting. Whikle outside the scope of this review, IU contest the batch  procesting systems  systems  and differntiation of fund agents (in  this an  d other cirucmstances) froim standard agents (including those handling SPACs) of subparagrph (ii) and clause (B).
 
@@ -254,14 +257,40 @@ subsubsec on MSDF as master ledger records - big  win
 
 then we can into the API changes
 https://api.blocktransfer.com/assets/1984803ORD/outstanding <-- from Resp.  1  note  16
-
+the fn of the written remarks on oral corrresponddancce  is Exhibit 
 
 ### Towo thigns (tbd on how we do this)
 
 for  tiemm 1:
 
+https://stellar.expert/explorer/public/tx/079e1406fd0068e80c45f27a73205212e5774d88668bc4660cd89010d34fdf36
+
+
+
+
+
+
+noted the hash duplicate discrepency at https://github.com/JFWooten4/agenda/issues/15#issuecomment-3090379988 based on physical  notes***
+
+***FN  or more
+::
+expansion of this as  to Digitization policy in re decentralized MNPI
+
+
+
 for itme 2:
 this is where we  can cite ad9(a)(5–6) databse creatioon adjsutments as reccomended in  meeting 2
+
+tyey delay on reissuance after the extennded search period yayayata (avery messy here)  should href the delayed reissue per legacy config at https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d
+
+the full dive here will  aly out the framework to improve with CRON checks on nonissuances per item1
+https://stellar.expert/explorer/public/tx/24a054a5f885875732ac1732c93e6172721ffaa061816f74130722063e5e291e
+
+
+
+
+
+
 
 
 
@@ -357,6 +386,27 @@ Consequently, BlockTrans’s written procedures did not appear to be adequately 
 identifiers
 
 
+#### Idenitifaciton of Minors ../.
+
+
+
+
+#### HASH duplicate on 4 --  promulgation of investor ffrom coming of age earlier in year
+
+
+
+
+#### Basis for Chives on --Retirement Accoutn s
+
+
+
+
+
+
+
+
+
+
 ### Mail Handling (Safeguarding of Securities) 
 
 The Staff’s discussions with BlockTransdisclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
@@ -365,6 +415,26 @@ Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent
 
 
 Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
+
+
+
+#### 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## B. MSF Certificate Detail
