@@ -296,7 +296,7 @@ https://stellar.expert/explorer/public/tx/24a054a5f885875732ac1732c93e6172721ffa
 
 In ym beta system  for legacyt sahrolder mgirations,  ~~i elected  to use claimable balance IDs as  the internation documentation  of certificate detail. ~~
 
-go from haash of issuance email --> tx hash  with memo as hass h of issuancce basis
+go from haash of issuance email --> tx hash  with memo as hass h of issuancce basis[^commerce]
 
 ensures that  sharess are actually  ooutstanding iff/when added  to the  legacy holdings
 
@@ -308,6 +308,7 @@ and  then  it is phreased  to be inthe import tx anysway,m and I just  haven't i
 d
 would presumable  be  a non-tiems with the reuqierment for new issues to  AccountIDs
 
+[^commerce]: Mirrors https://stellar.expert/explorer/public/tx/251986873717821440 at https://www.commerce.gov/news/press-releases/2025/08/department-commerce-posts-2nd-quarter-gross-domestic-product-blockchain (ref'ing tx not file)
 
 
 
