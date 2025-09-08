@@ -208,7 +208,7 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 
 ## Master Securityholder File Maintenance
 
-
+i nee to get across the lac o centraal contros over balance mmaintence/records
 
 
 
@@ -385,9 +385,27 @@ Processes
 
 ### chacnged / neww identity  provider
 
+
+
+re open source KYC we can frame as  the most trivial  thing to do b/c
+(a) no fortnend so kskillz lol (matching) and
+(b) story of 10k propriretary tooling usined at  Vstock (cold outreach basis)
+
+
+
+
+
+
+
+
 Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currentlydocuments its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
 
  Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
+
+
+
+
+
 
 
 ### Cancellation and Destruction of Securities Certificates
@@ -500,6 +518,18 @@ _See also_ re outstanding ledger state Horizon cript repo at https://github.com/
 
 ## OFAC Searches
 
+_DC_ form reposnsse 5  note 7 goal
+conflicts with ofac  snctioning an entire country
+
+
+
+
+
+
+
+
+
+
 C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
 
 BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
@@ -520,8 +550,16 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 ---
 
 # § 3 - re Findings § I.A.1
+hysical address org ijmplementaions
+setup notsl:
+
+"onyl employee" now while my own interpretaion may not ven be a fair one given all of us "paid" $0 from the Sndicate as actor re  lack  of prior incoome at https://wooten.link/taxes
+
+org  design is  "not  a p hrase" re Russell meeting (conference) csentiments and _See also_ plan  for  share donations in TAR Letter at 66 syaing i wiill " donate my shares in the company to WhyDRS,"
 
 
+
+gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cross COOuntry methpsors
 
 
 ```quote
@@ -634,6 +672,9 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 
 
 # § 4
+bass protecs  for SRO
+
+
 
 s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
@@ -644,13 +685,36 @@ MNPI and PII as "top  concerns" as gateway into friendhip
 
 
 
-Use hackathon founding partner Matthew piublic pitcch href {{2020 MMNA upcdate supplemnet with PII  from 18 Dec 2019 }}
+Use hackathon founding partner ~~Matthew~~ piublic pitcch href {{2020 MMNA upcdate supplemnet with PII  from 18 Dec 2019 }}
+aas basis  for introdcuiing new team
 
+And tghen we have the GT Capstone CS est'd (_See_   report  form PREV)
+then we can suggest  there  would be  totla trust  & seperation of working agendas among physical locations 9Matthew e.g.  50/50  split  avg.  netween apartmenmts/dorms/house etc) which goes (directly_ into the "ffrtee  software" **infomral** working arrangmenets 
+
+^ E xemplifyt  this with a https://wooten.link/723  fn detailing "lack of  any  fomral employment or contractor agreement 
 to  begin this work."
 
 wjhoicj ;ead tp _ZERO_ leadine enforcement (_See_ "when ready" comment)
 
 Wehn I needed some "time off  to work on the TAR letter"
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a73b9f0a2da817148abc7ca51c2
+
+
+
+
 
 
 
@@ -694,7 +758,16 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
 Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^
 
+and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
+
+```
+re Laylor easy afforming account ID 
+users  didn't  expect the pace  infer IDss b/c they hav basically always away shame but nt so mcuh us to contrinuee/structure HREF to the dovelopment advertising promo with distrbtor acount 
+(repeat Response X good shoahrhelder intent)
+
+```
 
 # end (fold)
+
 
 
