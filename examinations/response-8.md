@@ -391,7 +391,7 @@ re open source KYC we can frame as  the most trivial  thing to do b/c
 (a) no fortnend so kskillz lol (matching) and
 (b) story of 10k propriretary tooling usined at  Vstock (cold outreach basis)
 
-
+https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api
 
 
 
