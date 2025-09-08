@@ -457,7 +457,7 @@ Although the Registrant has not received any physical certificates at the 99 Wal
 
 #### Extendign Safeguarding  Interpretive proxy
 
-Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] 
+Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under EO 14192, as the XYZ_EXISTINGLAW_POLITICS
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
 and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
@@ -471,7 +471,9 @@ n https://www.sec.gov/files/rules/final/2025/33-11377.pdf
 [^pierce]: _See_ Pierce statment "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
 , _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126
 Profitt story at  https://lnns.co/rswev9D3A1n/4848  <!-- TAR letter note 119 -->
-
+I want an Id. taking a direct shot at https://github.com/airswap/airswap-protocols
+No public order book or matching engine
+_See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
 
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
@@ -575,7 +577,7 @@ BlockTrans does not maintain any personnel at that location. Likewise, it does n
 
 
 
-
+"far be it _fo me_ to guess at internal _agency_ processings," but it ttook  the Commission over three times  asd long to process this TA/1  as did  the 2023  update referenced in the  Defficicicny letter.f
 
 
 ### TA-1 Principe Office Address
@@ -583,6 +585,11 @@ BlockTrans does not maintain any personnel at that location. Likewise, it does n
 I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
 
 I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. And morenlie quality requires tranpsrency
+"senior policy making authority"
+
+
+we have alsol
+
 
 Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. 
 
