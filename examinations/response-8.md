@@ -485,6 +485,16 @@ Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer 
 
 BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
 
+---
+
+subsubsec on legacy backups and ledger cachinege
+
+_See also_ re outstanding ledger state Horizon cript repo at https://github.com/blocktransfer/record-dates
+
+
+
+
+
 
 
 ## OFAC Searches
@@ -626,6 +636,22 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 
 s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
+##  standin 'Frinedhsip' shection
+
+MNPI and PII as "top  concerns" as gateway into friendhip
+
+
+
+
+Use hackathon founding partner Matthew piublic pitcch href {{2020 MMNA upcdate supplemnet with PII  from 18 Dec 2019 }}
+
+to  begin this work."
+
+wjhoicj ;ead tp _ZERO_ leadine enforcement (_See_ "when ready" comment)
+
+Wehn I needed some "time off  to work on the TAR letter"
+
+
 
 # Misc hrefs related to logging
 
@@ -633,13 +659,13 @@ s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf
 ant te direct callout  from distinction  from https://stai.org/page/guidelines
 
-# menaingufl internal href into attchments folder
+## menaingufl internal href into attchments folder
 
 https://drive.blocktransfer.com/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/cxghka6d40c183fa149d397b87e4f5f7bf261/folders/vecoi48005e08ebd747348b9621f6097c16a4
 
 https://drive.blocktransfer.com/folder/vecoi48005e08ebd747348b9621f6097c16a4
 
-# log of past additions
+## log of past additions
 
 https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
 
@@ -664,7 +690,8 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
-
+defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
+Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^
 
 
 # end (fold)
