@@ -559,6 +559,10 @@ setup notsl:
 
 org  design is  "not  a p hrase" re Russell meeting (conference) csentiments and _See also_ plan  for  share donations in TAR Letter at 66 syaing i wiill " donate my shares in the company to WhyDRS,"
 
+^ dofllow up with 2024 Annual Meeting of Stakeholders at https://youtu.be/3uwH2jfLCNE?t=956
+
+haven't  setup the i ssuer  ccom  agreement  ("standard  template") just  yet  and os we will be doing that as  the revamp
+
 
 
 gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cross COOuntry methpsors
