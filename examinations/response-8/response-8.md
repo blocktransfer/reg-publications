@@ -595,10 +595,24 @@ I appreciate that teh Commission's used to aplying its laws to centralized organ
 we have alsol
 
 
+
+
+
+adddress  photo removing ddelegated hierrarchila decisions
+
+
+<img width="450" alt="street-shot" src="imgs/new-york.png">
+
+
+
+
+
+
+
 Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. 
 
 updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
-
+--> 
 
 
 
