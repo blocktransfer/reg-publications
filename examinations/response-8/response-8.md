@@ -76,6 +76,10 @@ basis
 15 U.S.C. § 78q-1(f)
 
 
+
+I wnant _singular mention_ of "covered securities"
+
+
 #### singular pg.1 footnote:
 
 
@@ -699,7 +703,7 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 # § 4
 bass protecs  for SRO
 
-
+Yndicat aas trasnfer agent  is  merely  a  "fihgter jet" operating on  the  "nucleoat  bomb" of the  Stellar DEX and payment netwreok.  o we awant a jursidictional review  of  the contents,  not the b ody. and hensece the staturoty turnaround b e y the end of march  for april perep
 
 s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
@@ -725,21 +729,33 @@ Wehn I needed some "time off  to work on the TAR letter"
 * which was backed up by https://github.com/JFWooten4/JFWooten4/commit/7176023f0f06b6e9bd0a4bae4906f698df65a38a
 
 
+https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189
+
+hisotry  >  "Initial Filing -  See  Filing ID" date Jul 2  2024, a day  after  the  law  went into effect  per https://writer.zohopublic.com/writer/published/rv8kf8a32d7aea50748aab282ed1c5344d57b
 
 
 
+proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
 
 
 
-
-
-
+https://github.com/WhyDRS/Taking-Stock/issues/35
 
 https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a73b9f0a2da817148abc7ca51c2
 
 
 
+idk if here but somehwere we have deference as to https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md?plain=1
 
+I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
+
+They have done  so bmuch bad. And we  are j ust starting  to understand their wrongs {fn https://x.com/JFWooten4/status/1965650137058783396}. Please give us a chancce  to heal  what will become such calamity.
 
 
 
