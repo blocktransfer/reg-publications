@@ -543,7 +543,7 @@ and  then droopping TA  cybersecuriyty
 
 [^notad]: Nobody understood what a TAD was, and  it was too  mcuh  effort with the scarse public documentation back  then  to  satisfactory  convince them of  the need  for such  a new  system. Namely, I was  bafflingly unfamiliar with the TAR letter'ss PCO event, despite an explicit suprise reference thereto in a school pitch competition touted by the tour  guide which immedeiatyley  intreuiged me, _available at_ https://youtu.be/S75IvkicWD8. 
 
-[^apprx]: Approximate paraphrase  of  the repeated statistics I heard regaurding  failed solo foudners.  Ex. 7 is a reponse to this critique drafted at the end of 2019 and submitted to the comittee early  in 2020 to finalize my rejected iingagural application. This ultimately let me move on from a venture which  was frnakly harmful to the environment and consumer technology, as I had practically came  to recognize  mby the later stages of the  applciatin process.  THerafter, I published my thesxis and, within a year pushign through COVId hardships, incorpoated the early-fform Registrant.
+[^apprx]: Approximate paraphrase  of  the repeated statistics I heard regaurding  failed solo foudners.  Ex. 8.7 is a reponse to this critique drafted at the end of 2019 and submitted to the comittee early  in 2020 to finalize my rejected iingagural application. This ultimately let me move on from a venture which  was frnakly harmful to the environment and consumer technology, as I had practically came  to recognize  mby the later stages of the  applciatin process.  THerafter, I published my thesxis and, within a year pushign through COVId hardships, incorpoated the early-fform Registrant.
 
 
 
