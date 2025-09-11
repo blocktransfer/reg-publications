@@ -57,13 +57,14 @@ Dear Mr. Vitulano,
 
 [Acccolades  b/c this was aweesome]
 
-
-
+Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in Response  6 § II.B.2.d.
+"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
 
 Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
 Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
 
+becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
@@ -429,7 +430,7 @@ identifiers
 
 #### Idenitifaciton of Minors ../.
 
-
+will also require further expansion of lsot investo searhcing on basis of neice./nephew level  age from notes form call after second meeting  as communcated and sidussed  (small biz implciation) on third call /s
 
 
 #### HASH duplicate on 4 --  promulgation of investor ffrom coming of age earlier in year
@@ -439,9 +440,11 @@ identifiers
 
 #### Basis for Chives on --Retirement Accoutn s
 
+from the 'investor  communityt" dir definied in Response 1 § XVII.A.1 subsec  "Legacy Expectations v. Federal Minimums" whic h asks "Are physical addresses still relevant for a transfer agent which does not offer hard certificates?"
 
+And then we can start section four with Foobs' commenting { https://github.com/JFWooten4/agenda/issues/15#issuecomment-3246300539 } around ex-parte clearing collateral in direct opposition to the TAR letter at note 21 en toto
 
-
+if "Gary Gensler, Clearinghouses Are the Answer", WALL ST. J. (Apr. 21, 2010) then lol r we  gonna listn
 
 
 
@@ -630,6 +633,7 @@ updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
 the policy  is material bescause https://physicaladdress.com/subscriber-agreement/ § 12 indemnifies them from Sydnmciate damages
 
 [^1]: huint at williing t o move  for benst expertise
+^ but also  cite exmpty  duplex partner option for off
 
 i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
 direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
@@ -733,6 +737,13 @@ https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=09222016112307016404716
 
 hisotry  >  "Initial Filing -  See  Filing ID" date Jul 2  2024, a day  after  the  law  went into effect  per https://writer.zohopublic.com/writer/published/rv8kf8a32d7aea50748aab282ed1c5344d57b
 
+no central locale in Article II "
+The Association shall operate on a decentralized basis with no principal physical office.​
+
+The Association shall adopt a remote-first operating model, ensuring that all essential functions and activities can be performed virtually. Meetings, communications, and decision-making processes shall primarily be conducted through online platforms, ensuring accessibility and participation from all members regardless of their physical location.
+"
+17f2FN:(as a subclass E parent entity)
+
 
 
 proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
@@ -807,8 +818,32 @@ users  didn't  expect the pace  infer IDss b/c they hav basically always away sh
 (repeat Response X good shoahrhelder intent)
 
 ```
+\
+### imgs
+
+for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
+ Direct cite as Amtrak to Connersville, with FN setup for Congress
+
+we have strong basois on the minor intro with binance 
+iimage from when i was 17.18yr old. 
+^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
+(id verif f self  in photos susbsuppls 1–3)
+
+
+DEX as nuceleuar bomb in the fuel tank has basis in Erik V comments from ccrypto  grountable highterd in Resposne 3 note 2
+^ "in my grandpas decades in the air force," he flow the F-111
+pllane designed andd trained  to  carry nuccleaar  weapons
+the law requires more than n&c because 78q iS MORE nei
+I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
+
+
+https://discord.com/channels/@me/1399830854385274991/1415471113609154631
+
+
+
 
 # end (fold)
+
 
 
 
