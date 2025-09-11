@@ -473,11 +473,23 @@ Firstr o f all,  I would like to commend the Commission for bringing transfer ag
 
 NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol] ssystem  designed  to encompass all U.S. assets.[^pprev-psure] Unlike other Proposed urlemaking, 3235-AL55 has a single congressional authority.[^dtmnd]
 
+I  find this single public-policy  rrpecedence Judiciously relevant  on  the basis of limited past TA operational controls , especialyl  those droppped from June 12th's "regulatyr reset."[^rr-osc] fro time, I'll elaborate on two of  the policy choices impliccated in meeting remarks over ta ijtnenral protections. In contemplating these ideas, I have  to  ask myself, :"might clear, public rules on GitHub Solicit trust?"
+
+##### SCI
 
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
-and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
-n https://www.sec.gov/files/rules/final/2025/33-11377.pdf
+and  then droopping TA  cybersecuriyty 
+
+
+
+##### ATSA alternate venues
+
+ *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
+
+
+
+n 
 
 2023 proposed amendments to Reg SCI would not have applied to transfer agents
 
@@ -485,6 +497,7 @@ Department of Government Efficiency cuts
 ^ sole regernce, only aded with a fn
 
 proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+^^ATSNN^^
 
 offer through  a decentralized frmaework  for  decentralized market
 
@@ -530,6 +543,7 @@ _See_ _supra_ note [^totla-ccontrol]
 
 
 
+[^rr-osc]: This has b een one colloquial refernce  ot the 14 dropped rule changes within online p rofessional circles, refering the derefulatory staff actions at, _available at_ https://www.sec.gov/files/rules/final/2025/33-11377.pdf. _See also generally_ Commissioner Atkin's remarks  that this _is_ (*emphasis orginally thoughp9tu publications) a new day at the agency, wwhich is  great. I'll keep this citation short to keep focus  on  the direct  action changes above,  which  stouched some very significant policy items from the klast  Administration. Extraordinary  cmmitment to free markets.
 
 
 
