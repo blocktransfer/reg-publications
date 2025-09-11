@@ -467,9 +467,9 @@ Although the Registrant has not received any physical certificates at the 99 Wal
 
 #### Extendign Safeguarding  Interpretive proxy
 
-Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under EO 14192. If I might say so, transfer agents offer the perfect outdated regulatory regime to update with the leeway given  by any defregulations.
+Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under E.O. 14192. If I might say so, transfer agents offer the perfect outdated regulatory regime to update with the leeway given  by any defregulations.
 
-NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol]
+NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol] ssystem  designed  to encompass all U.S. assets.[^pprev-psure]
 
 , as the XYZ_EXISTINGLAW_POLITICS
 
@@ -507,7 +507,7 @@ _See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd237
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
 
-[^totla-ccontrol]: I commented extensively on the horendous central control implicit in DTCC Digital Assets ("DA")'s design, _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
+[^totla-ccontrol]: I commented extensively on the horendous unilateral authority implicit in the design of DTCC Digital Assets ("DA"), _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
 
 proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
 
@@ -519,6 +519,8 @@ while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn
 
 
 
+
+[^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 45, 106, and 143–145.
 
 
 
@@ -882,7 +884,6 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 
 
 # end (fold)
-
 
 
 
