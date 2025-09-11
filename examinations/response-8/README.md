@@ -542,17 +542,24 @@ ONe year after m ,eeting Jerry in _supra_ note {{notad}}, he began teaching grad
 
 The reform  agenda  changes dropped rulemaking propsing new cyberseucity o versights  for trasnfer agents and an expansion of Regulation SCI to  systemic infrastrucure in clduing swaps dat arepositories. LArge b rokers (including those rtunning an ATS) and the uncovered clearing agencies are the backbone of markets, making up the critical NSCC participant-base.  Staff identied  this and sought to  regulate awayt risks.
 
-In  a podcast on X with other CISOs,  Jerry remakred that:
+> [C]losed-source software is just awful, riddled with bugs. It would not stand a day if it was open and bug-bountied, but it has the advantage that no one's looking. And I'm saying that because, if it's open-source, people find the bugs immediately, and people even fix the bugs immediately and it moves a lot faster.
+>
+> [C]losed-source software is just kind of living a lie with its head in the sand.
 
 
-at 48:21 in https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode :
-> closed-source software is just aweful, riddled with bugs. it would not stand a day if it was open and bug-bountied, but it has the advantage that noone's looking. And I'm saying that becuase, if it's open-source, people find the bugs immediately, and people even fix the bugs immediately and it moves a lot faster.
-so i basically say
-open-source software is attacked a lot more, it's a lot more resliant, but closed-source softawre is just kind of  living a lie with its head in the sand.
-"
- 
+IO share this uqote  from Jerry's podcast[^aadversarial] befcause I eblievve wholehearely that we can achieve the due andnecccesary increased cyber protections America so dearly needs[^edar-cryber]
 
 
+
+
+
+
+[^aadversarial]: _See_ rountbale disussion withh vwterab ccybersecurity executivies acting in c-suite roles largely  involved  in financial  services  or  data lakes, _available at_ https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode.  At 48:21, Jerry  summarizes  a shared, agreed perspective  that open  tools have historically  proved  more reseliant,  secure, and trusted than the proprioetary infrastructe  of central actors presently  encompassed  by enhanced Commission tehcnological oversight.   
+
+
+
+
+[^edar-cryber]: _See_ the  EDGAR  letter at nn. 
 
 
 
@@ -957,6 +964,4 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
-
-
 
