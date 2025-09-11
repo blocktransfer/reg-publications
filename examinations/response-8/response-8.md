@@ -507,7 +507,7 @@ _See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd237
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
 
-[^totla-ccontrol]: 
+[^totla-ccontrol]: I commented extensively on the horendous central control implicit in DTCC Digital Assets ("DA")'s design, _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
 
 proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
 
