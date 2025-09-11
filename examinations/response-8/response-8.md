@@ -74,9 +74,11 @@ basis
 #$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
 
 ### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
-15 U.S.C. § 78q-1(f)
+15 U.S.C. § 78q-1 (the "NMS Statute")
+subsection (f)
 
-
+Federal Advisory  Committee ("FAC")
+ which  ma y be at any "such times[] as the Commission may determine"  in (f)(4)
 
 I wnant _singular mention_ of "covered securities"
 
@@ -356,7 +358,7 @@ Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer
 In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the “from” column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
 
 [^2]: subsubsection with start of issue auth convo...]
-
+for excel _See_ TAR n.45
 
 
 2. First Last (“Investor B”): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date (“aqAt”), reflected in “holdings” column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
@@ -469,9 +471,9 @@ Although the Registrant has not received any physical certificates at the 99 Wal
 
 Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under E.O. 14192. If I might say so, transfer agents offer the perfect outdated regulatory regime to update with the leeway given  by any defregulations.
 
-NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol] ssystem  designed  to encompass all U.S. assets.[^pprev-psure]
+NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol] ssystem  designed  to encompass all U.S. assets.[^pprev-psure] Unlike other Proposed urlemaking, 3235-AL55 has a single congressional authority.[^dtmnd]
 
-, as the XYZ_EXISTINGLAW_POLITICS
+
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
 and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
@@ -515,17 +517,16 @@ offer through  a decentralized frmaework  for  decentralized market
 
 purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
 
-while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
+while  supporting, endorsing, and integrating  DTCC-DA's central  control 
+_See_ _supra_ note [^totla-ccontrol]
 
 
 
 
-[^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 45, 106, and 143–145.
+[^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 51, 106, and 143–145.
 
 
-
-
-
+[^dtmnd]: At  least  for  proposed items with a defined legal authortity  from _supra_ note {{^rin}}, with one important safe-harbor  consideration citing basis in 57 rules. _See also_ the specific trasnsf-eragnet  item, _available at_ https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AL55. With legislative standing frp,m the NMS Statute, might  we have a  greater burnedon of investigation than standard notice and commenting? Again, subparagraph (f)(2)(A)(ii) spells out hte need  for enhanced FAC review "in the absence of a uniform rule" for saafety.;
 
 
 
