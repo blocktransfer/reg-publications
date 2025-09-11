@@ -460,6 +460,7 @@ Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent
 
 Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
 
+(start subsubsection  on cert  policing)
 
 
 #### Extendign Safeguarding  Interpretive proxy
