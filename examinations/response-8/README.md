@@ -477,9 +477,9 @@ I  find this single public-policy  rrpecedence Judiciously relevant  on  the bas
 
 
 
-[^totla-ccontrol]: I commented extensively on the horendous unilateral authority implicit in the design of DTCC Digital Assets ("DA"), _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
 
-proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+proponenets o f DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
 
 offer through  a decentralized frmaework  for  decentralized market
 
@@ -495,6 +495,8 @@ _See_ _supra_ note [^totla-ccontrol]
 
 [^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
 
+[^totla-ccontrol]: I commented extensively on the horendous unilateral authority implicit in the design of DTCC Digital Assets ("DA"), _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
+
 [^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 51, 106, and 143–145.
 
 
@@ -508,7 +510,7 @@ _See_ _supra_ note [^totla-ccontrol]
 
 
 
-##### SCI
+##### SCI and Cybersecutity Protections
 
 When I toured Geoprgia Tech in high school, thje student guide made  great efforts  to point out hte Klaus Advanced Computing Building, one of the  more striking buildigs o n ccampuswhere I  attended  many graduate  cryptogrpahy classes.  chris Klaus also happened to  be a  leading donor proponent of CREATE-X,  the  euntrperneeur incubation and promotion program discussed in our first two meetings.[^createx] The guidde tol us about how Klaus dropped out to persue his cybersecurity  startup, which sold  to IBM for over $2,000,000,000.[^inflation]
 
@@ -517,20 +519,6 @@ In my  early-action appliation top Tech, I explicitly mentioned the program in t
 This began years of wresting with otheer peoples' vision  for how I should run a transgfer agency,[^notad]  since  "most  startups fail without a cofounder."[^apprx]  Whiel I apprecciate thos entiments, I found the discipline to  patiently wait for the right opportunity in  the unforgiving Indifferencce of market quiet. This approach paidd off four  yeras later when I encountered the excpetional partner cited in PREV  § III.
 
 ONe year after m ,eeting Jerry in _supra_ note {{notad}}, he began teaching graduate cyberseucrty  classes. They introduced me  to the  immense centralized  risks  of concerntring market PII and MNPI ,[^intro-frens] exmeplified  in Ex . 8.8,  a report  on the Equifax data breach. Throughout the semester, we'd walk after lecturees disucssing market  structure and contemplateions on ssecuring a self-custody blockchain TAD.
-
-
-
-
-
-we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
-and  then droopping TA  cybersecuriyty 
-
-
-###### [mmove[ connecting "priepritary" to "custodial"
-
-
-<img width="600" alt="exchange-types" src="imgs/software-license.png">
-
 
 
 [^createx]: THe program itemslf acted as a typical startup  incubator  with experienced  indsutry mentors. To  the  extent it relates  to t his Exma,  it  included the oipportunity to contnually  pitch investors. While  I alwyas new  the  shares would need to reside in a nonprofit, I played along with these charades. This experiinec gave me respect  for small-business cpaital formatioon, as Donna commented on July 15th.
@@ -548,6 +536,37 @@ and  then droopping TA  cybersecuriyty
 
 
 [^intro-frens]: These two  fdeadly  acronyms have  been tmy  top concenrns  in open0-sourcing  Syndicate  ifnrastructure  over the last years. I  found  in early  development  efforts  details  _infra_ § {{TODO:team section number}}  that it can be challenging  to  extensively test interface deplyoments without established and volumnous sample data.  This is why  I issued  teh DEMO asset from the Syndicate's mainnet account, facilitating early code sprints.  I plan to overccome this  challenge  with  future  testneet integrations and faker users.
+
+
+###### Exchange Software LIcenccing Decision
+
+The reform  agenda  changes dropped rulemaking propsing new cyberseucity o versights  for trasnfer agents and an expansion of Regulation SCI to  systemic infrastrucure in clduing swaps dat arepositories. LArge b rokers (including those rtunning an ATS) and the uncovered clearing agencies are the backbone of markets, making up the critical NSCC participant-base.  Staff identied  this and sought to  regulate awayt risks.
+
+In  a podcast on X with other CISOs,  Jerry remakred that:
+
+
+at 48:21 in https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode :
+> closed-source software is just aweful, riddled with bugs. it would not stand a day if it was open and bug-bountied, but it has the advantage that noone's looking. And I'm saying that becuase, if it's open-source, people find the bugs immediately, and people even fix the bugs immediately and it moves a lot faster.
+so i basically say
+open-source software is attacked a lot more, it's a lot more resliant, but closed-source softawre is just kind of  living a lie with its head in the sand.
+"
+ 
+
+
+
+
+
+
+we  havce now  a complex override  of a lot including Reg SCI changes
+ emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies.
+and  then droopping TA  cybersecuriyty 
+
+
+###### [mmove[ connecting "priepritary" to "custodial"
+
+
+<img width="600" alt="exchange-types" src="imgs/software-license.png">
+
 
 
 
@@ -935,12 +954,6 @@ I d on't think  we need perosnal substantiation, but if i need a  refresher  dur
 
 https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 
-also idk where we cite the perullo timestamp {first introduction} with basis as post-class walks on market structure, ut the href is stmaped at 48:21 in https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode :
-> closed-source software is just aweful, riddled with bugs. it would not stand a day if it was open and bug-bountied, but it has the advantage that noone's looking. And I'm saying that becuase, if it's open-source, people find the bugs immediately, and people even fix the bugs immediately and it moves a lot faster.
-so i basically say
-open-source software is attacked a lot more, it's a lot more resliant, but closed-source softawre is just kind of  living a lie with its head in the sand.
-"
-^ throw everythign at this and finally play  the perusllo card :3 uwu
 # end (fold)
 
 nove  in parts should be here  at the  close
