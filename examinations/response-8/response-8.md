@@ -7,7 +7,7 @@ publish: 15 Sep 2025
 > They have  properly  identified  `1legacy`  as a  subsidiaryu file and  then  we  have  sledger  as  the  MSF  -  just need to affirm and ink  that  down form Ad-9
 
 for the outstanding API modivfiicaiton and update for  legacy internal comparison, we can have also idneditfiier seperations between  the "street naem" custodian shares of clearing agenccyies with specified on-chain accounts as per 6days interest i n https://discord.com/channels/@me/1399830854385274991/1412802278737580073
-
+^ lets do this in the main asset page rather than subdt /outstanding
 
 ### {{NAME}}  gameplan
 
@@ -26,6 +26,7 @@ then  CRITICALLY: I  want it  framed  as  a teardown to other 3643 arragnements
 https://www.dtcc.com/news/2025/march/20/dtcc-joins-erc3643-association
 
 the `outstanding`  count modifications hsouldd frame around this probelm 1st and fiormenetst
+      (I have also removed teh `PENDING ` flag in re "digging a deeper hole" senitments form Meeting 2)
 
 then we can come in and save hte solution with new decentralizedd asttestations
 
@@ -56,13 +57,14 @@ Dear Mr. Vitulano,
 
 [Acccolades  b/c this was aweesome]
 
-
-
+Basically, after _EXTENSIVE SSETUP BEFORE THIS POINT_, I want to ask them to `move  in`  so to speak as proposed but overlooked in Response  6 § II.B.2.d.
+"API to access our PII." (with tbale leave  & `think about it lol` sentiments)
 
 Narrative starts with FAC as basiss for review on sentiments of possible sudden weather changes
 
 Existing work in 723 (later) extends to the investor protection points in re Acccount Recoveryt 
 
+becuase like lol ultimatley the goal  is creating  this awesome predicatbale pbeurcoracy o n our side that interlinks with the berorcratic investpr protections needed for relaible sagfertty
 
 
 
@@ -73,6 +75,10 @@ basis
 
 ### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
 15 U.S.C. § 78q-1(f)
+
+
+
+I wnant _singular mention_ of "covered securities"
 
 
 #### singular pg.1 footnote:
@@ -128,6 +134,8 @@ Response 1 n.10
 
 
 we can do a fn deference  to the other staff outside the review committee who exmained :blockkchain TA" for any DEX insights (this should be used carefully with an _Id._ ,to the X space at [timestamp politicking ask])
+https://x.com/i/spaces/1BRKjgprZkQGw and some leftovers at https://github.com/WhyDRS/Taking-Stock/issues/35
+
 
 and then i dont think she dound much on the SDEX bc no 723 yet
 
@@ -203,23 +211,130 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 ---
 
 
+## Master Securityholder File Maintenance
+
+i nee to get across the lac o centraal contros over balance mmaintence/records
 
 
 
-us
+###  Promot Certificate Detial Posting
+
+During  out second meeting, staff kindly reminded me of the acccurate  debit a nd ctredit update requirements[^ad10-1] ewith agent-bnased turnaround times.[^ad10-2]
+
+
+
+Mozooz src to
+
+https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278
+
+as differnet  parts  of szad10
+
+
+[^ad10-1]: _See_ 17 CFR § 240.17Ad-10(a). tHE FINDINGS CITE SUBPART (1)  which  has the specific diction between  differnt rifile records explored  _infra_ § {{SUBSEC for the subsidiary file}}.  I trhink our open systems alleviate coordination  concerrns between  interlinked service companiesd through a unidfied ledger.
+^
+see if we can get a citation on this TODO
+
+[^ad10-2]: _Id._ at subpart (2). WHile our status was communivated  in Response 1 § XII, I find  the  idffernet processing  times intellectuazlly  interesting. Whikle outside the scope of this review, IU contest the batch  procesting systems  systems  and differntiation of fund agents (in  this an  d other cirucmstances) froim standard agents (including those handling SPACs) of subparagrph (ii) and clause (B).
+
+
+
+I appraccie tthat the rule applies equally to all agents  while prviding the flexbility of additional information 17Ad-9(a)(8)
+
+17 CFR § 240.17Ad-9
+^ should have a fn forthhis as static ref
+https://www.law.cornell.edu/cfr/text/17/240.17Ad-9
+
+
+
+
+
+
+
+
+### Segmenting Legacy  Subscidairy Files
+
+they actualyl use  the proper diction in  the second meeting (off emmeeory, i don't have these things recorded on the grounds of staff [preference in TAR1  n.176)
+^ 176 is good for TAR2, not so much here outside R5 suppl;1
+
+f0or the record difference part (setup in the last subsec), we have deviance form legaccy to Stellar
+
+subsubsec on MSDF as master ledger records - big  win
+
+then we can into the API changes
+https://api.blocktransfer.com/assets/1984803ORD/outstanding <-- from Resp.  1  note  16
+the fn of the written remarks on oral corrresponddancce  is Exhibit 
+
+### Towo thigns (tbd on how we do this)
+
+for  tiemm 1:
+
+https://stellar.expert/explorer/public/tx/079e1406fd0068e80c45f27a73205212e5774d88668bc4660cd89010d34fdf36
+
+
+https://www.issuers.info/1984803/ (annual  c11-5 ouitstanding)
+^ I think don't change this because it is the historic difference and archived state for AC11 ATS rules (fn introducing that), and then it also is the ongoing record difference which is not aged (can intro here).
+
+
+
+noted the hash duplicate discrepency at https://github.com/JFWooten4/agenda/issues/15#issuecomment-3090379988 based on physical  notes***
+
+***FN  or more
+::
+expansion of this as  to Digitization policy in re decentralized MNPI
+
+
+
+for itme 2:
+this is where we  can cite ad9(a)(5–6) databse creatioon adjsutments as reccomended in  meeting 2
+
+tyey delay on reissuance after the extennded search period yayayata (avery messy here)  should href the delayed reissue per legacy config at https://stellar.expert/explorer/public/tx/bc2af326fc2f76f551ce2bc44eb48c0ccff1339ea8114ed21d2dc728dd35247d
+
+the full dive here will  aly out the framework to improve with CRON checks on nonissuances per item1
+https://stellar.expert/explorer/public/tx/24a054a5f885875732ac1732c93e6172721ffaa061816f74130722063e5e291e
+
+
+
+
+
+
+#### Adjusting  Legacy "From"  Blame
+
+In ym beta system  for legacyt sahrolder mgirations,  ~~i elected  to use claimable balance IDs as  the internation documentation  of certificate detail. ~~
+
+go from haash of issuance email --> tx hash  with memo as hass h of issuancce basis[^commerce]
+
+ensures that  sharess are actually  ooutstanding iff/when added  to the  legacy holdings
+
+simple to streamline interop instead  of  the m anul input  at  https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/legacy/importLegacyAccount.py#L40C27-L40C27
+
+impls at l egacyAdd  investor API proccess  in  gateway
+
+and  then  it is phreased  to be inthe import tx anysway,m and I just  haven't integrated it insto the issuances
+d
+would presumable  be  a non-tiems with the reuqierment for new issues to  AccountIDs
+
+[^commerce]: Mirrors https://stellar.expert/explorer/public/tx/251986873717821440 at https://www.commerce.gov/news/press-releases/2025/08/department-commerce-posts-2nd-quarter-gross-domestic-product-blockchain (ref'ing tx not file)
+
+
+
+
+### subpart C
+
+titling nad buldup as needed, akin  to earlier _supras_
+
+
+
+
+
 # Findings
 
 
-I. Deficiencies
-
-A. 
-
-## physical address not  current
-
-
-
-
 ## MSF Items
+
+
+
+
+
 
 
 B. Maintenance of Master Securityholder File
@@ -275,9 +390,27 @@ Processes
 
 ### chacnged / neww identity  provider
 
+
+
+re open source KYC we can frame as  the most trivial  thing to do b/c
+(a) no fortnend so kskillz lol (matching) and
+(b) story of 10k propriretary tooling usined at  Vstock (cold outreach basis)
+
+https://developers.stellar.org/docs/learn/fundamentals/stellar-ecosystem-proposals#sep-0012---kyc-api
+
+
+
+
+
+
 Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the use ofthe Persona platform in its Client Identity Verification process. BlockTrans currentlydocuments its verification process by adding an internal reference to the Persona account number (the “PSNA Reference”) within the securityholder’s Personally Identifiable Information (“PII”). However, BlockTrans ceased using Persona during 2025 because of limitations of the screening application and costs of the service.
 
  Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
+
+
+
+
+
 
 
 ### Cancellation and Destruction of Securities Certificates
@@ -295,7 +428,30 @@ Consequently, BlockTrans’s written procedures did not appear to be adequately 
 identifiers
 
 
-### Mail Handling (Safeguarding of Securities) 
+#### Idenitifaciton of Minors ../.
+
+will also require further expansion of lsot investo searhcing on basis of neice./nephew level  age from notes form call after second meeting  as communcated and sidussed  (small biz implciation) on third call /s
+
+
+#### HASH duplicate on 4 --  promulgation of investor ffrom coming of age earlier in year
+
+
+
+
+#### Basis for Chives on --Retirement Accoutn s
+
+from the 'investor  communityt" dir definied in Response 1 § XVII.A.1 subsec  "Legacy Expectations v. Federal Minimums" whic h asks "Are physical addresses still relevant for a transfer agent which does not offer hard certificates?"
+
+And then we can start section four with Foobs' commenting { https://github.com/JFWooten4/agenda/issues/15#issuecomment-3246300539 } around ex-parte clearing collateral in direct opposition to the TAR letter at note 21 en toto
+
+if "Gary Gensler, Clearinghouses Are the Answer", WALL ST. J. (Apr. 21, 2010) then lol r we  gonna listn
+
+
+
+
+
+
+### Handling MailSecurities) 
 
 The Staff’s discussions with BlockTransdisclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
 
@@ -303,6 +459,38 @@ Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent
 
 
 Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
+
+
+
+#### Extendign Safeguarding  Interpretive proxy
+
+Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under EO 14192, as the XYZ_EXISTINGLAW_POLITICS
+
+we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
+and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
+n https://www.sec.gov/files/rules/final/2025/33-11377.pdf
+
+2023 proposed amendments to Reg SCI would not have applied to transfer agents
+
+
+[^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
+
+[^pierce]: _See_ Pierce statment "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
+, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126
+Profitt story at  https://lnns.co/rswev9D3A1n/4848  <!-- TAR letter note 119 -->
+I want an Id. taking a direct shot at https://github.com/airswap/airswap-protocols
+No public order book or matching engine
+_See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
+
+reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
+
+
+> The S-P and SCI points are really material because their using "safehandling" as an interpretive proxy for specific programs
+— https://github.com/JFWooten4/agenda/issues/15#issuecomment-3239149051
+
+
+
+
 
 
 ## B. MSF Certificate Detail
@@ -325,9 +513,31 @@ Rule 17Ad-10(f) under the Exchange Act states that every recordkeeping transfer 
 
 BlockTrans’ failure to establish a process to ensure that back-up files of the Legacy Database are maintained is an internal control weakness, as such process could ensure that BlockTrans maintains a record of certificate detail deleted from the MSF as required by Rule 17Ad-10(f) under the Exchange Act.
 
+---
+
+subsubsec on legacy backups and ledger cachinege
+
+_See also_ re outstanding ledger state Horizon cript repo at https://github.com/blocktransfer/record-dates
+
+
+
+
+
 
 
 ## OFAC Searches
+
+_DC_ form reposnsse 5  note 7 goal
+conflicts with ofac  snctioning an entire country
+
+
+
+
+
+
+
+
+
 
 C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
 
@@ -349,8 +559,20 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 ---
 
 # § 3 - re Findings § I.A.1
+hysical address org ijmplementaions
+setup notsl:
+
+"onyl employee" now while my own interpretaion may not ven be a fair one given all of us "paid" $0 from the Sndicate as actor re  lack  of prior incoome at https://wooten.link/taxes
+
+org  design is  "not  a p hrase" re Russell meeting (conference) csentiments and _See also_ plan  for  share donations in TAR Letter at 66 syaing i wiill " donate my shares in the company to WhyDRS,"
+
+^ dofllow up with 2024 Annual Meeting of Stakeholders at https://youtu.be/3uwH2jfLCNE?t=956
+
+haven't  setup the i ssuer  ccom  agreement  ("standard  template") just  yet  and os we will be doing that as  the revamp
 
 
+
+gets also iunto  dev tooling (circa  subsubsec elsehwere)  for Football comp. Cross COOuntry methpsors
 
 
 ```quote
@@ -366,7 +588,7 @@ BlockTrans does not maintain any personnel at that location. Likewise, it does n
 
 
 
-
+"far be it _fo me_ to guess at internal _agency_ processings," but it ttook  the Commission over three times  asd long to process this TA/1  as did  the 2023  update referenced in the  Defficicicny letter.f
 
 
 ### TA-1 Principe Office Address
@@ -374,11 +596,30 @@ BlockTrans does not maintain any personnel at that location. Likewise, it does n
 I started blockc Tranfer to address clear problems present in legacy market infrastrucre. We disuccssed exeicig nfair exhangefees, and reforaocats have doumete structural flaws for ecades. Central control created tshse problems as clearing and esettlemnt developed inot the pyramid of middlemne weknow 
 
 I appreciate that teh Commission's used to aplying its laws to centralized organizaaions with principal ffices and hierarchal organiztion reporting. But i beliecve many of these legacy tools liit brilliant contribots' abiltiy to make the best local decisions. And morenlie quality requires tranpsrency
+"senior policy making authority"
+
+
+we have alsol
+
+
+
+
+
+adddress  photo removing ddelegated hierrarchila decisions
+
+
+<img width="450" alt="street-shot" src="imgs/new-york.png">
+
+
+
+
+
+
 
 Out apprach revolves around using a transprency public blockchain as the issuer's masterledger. THis ledger uses a cedentralized consensus mechaism and a distirbuted data retention stanard deployed globally. 
 
 updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
-
+--> 
 
 
 
@@ -392,6 +633,7 @@ updated o n Aug  26 in ssubmission accession number  0001846058-25-000004
 the policy  is material bescause https://physicaladdress.com/subscriber-agreement/ § 12 indemnifies them from Sydnmciate damages
 
 [^1]: huint at williing t o move  for benst expertise
+^ but also  cite exmpty  duplex partner option for off
 
 i specifcialyl  wnat a fn  on the reccomendation provided to make TA-1  line 3 the address "to which  yoiu would forward  packages" 
 direct screenshopts on  the aimplmentaion page at  https://physicaladdress.com/virtualizedmail/settings#deleteforwardconfirm
@@ -463,6 +705,70 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 
 
 # § 4
+bass protecs  for SRO
+
+Yndicat aas trasnfer agent  is  merely  a  "fihgter jet" operating on  the  "nucleoat  bomb" of the  Stellar DEX and payment netwreok.  o we awant a jursidictional review  of  the contents,  not the b ody. and hensece the staturoty turnaround b e y the end of march  for april perep
+
+s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
+
+##  standin 'Frinedhsip' shection
+
+MNPI and PII as "top  concerns" as gateway into friendhip
+
+
+
+
+Use hackathon founding partner ~~Matthew~~ piublic pitcch href {{2020 MMNA upcdate supplemnet with PII  from 18 Dec 2019 }}
+aas basis  for introdcuiing new team
+
+And tghen we have the GT Capstone CS est'd (_See_   report  form PREV)
+then we can suggest  there  would be  totla trust  & seperation of working agendas among physical locations 9Matthew e.g.  50/50  split  avg.  netween apartmenmts/dorms/house etc) which goes (directly_ into the "ffrtee  software" **infomral** working arrangmenets 
+
+^ E xemplifyt  this with a https://wooten.link/723  fn detailing "lack of  any  fomral employment or contractor agreement 
+to  begin this work."
+
+wjhoicj ;ead tp _ZERO_ leadine enforcement (_See_ "when ready" comment)
+
+Wehn I needed some "time off  to work on the TAR letter"
+* which was backed up by https://github.com/JFWooten4/JFWooten4/commit/7176023f0f06b6e9bd0a4bae4906f698df65a38a
+
+
+https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=092220161123070164047165092135019155094110144189
+
+hisotry  >  "Initial Filing -  See  Filing ID" date Jul 2  2024, a day  after  the  law  went into effect  per https://writer.zohopublic.com/writer/published/rv8kf8a32d7aea50748aab282ed1c5344d57b
+
+no central locale in Article II "
+The Association shall operate on a decentralized basis with no principal physical office.​
+
+The Association shall adopt a remote-first operating model, ensuring that all essential functions and activities can be performed virtually. Meetings, communications, and decision-making processes shall primarily be conducted through online platforms, ensuring accessibility and participation from all members regardless of their physical location.
+"
+17f2FN:(as a subclass E parent entity)
+
+
+
+proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
+
+
+
+https://github.com/WhyDRS/Taking-Stock/issues/35
+
+https://stellar.expert/explorer/public/tx/16763d4ed2ac25dfe69656c6bf0b83e6d5a11a73b9f0a2da817148abc7ca51c2
+
+
+
+idk if here but somehwere we have deference as to https://github.com/JFWooten4/free-markets/blob/d80c385d1644eb2e1e01ed41623ba3f2c1c598bf/micro/2025/Jun/24.md?plain=1
+
+I care vvery deeepoly  about  investing. It is  my7  interpretaion  of perosnal  infromation that it is the chiegf aact I was  put on this planet to  do.  But I cannot do  my  job without the gatekept  unreconcilable  centralized perssimmion  of Wall Street.
+
+They have done  so bmuch bad. And we  are j ust starting  to understand their wrongs {fn https://x.com/JFWooten4/status/1965650137058783396}. Please give us a chancce  to heal  what will become such calamity.
+
+
 
 # Misc hrefs related to logging
 
@@ -470,16 +776,17 @@ admittedly  the immediate future with _IL_ will jsut need total reworking/refact
 https://cdn.ymaws.com/stai.org/resource/resmgr/guidelines/sta_conversion_guidelines_ja.pdf
 ant te direct callout  from distinction  from https://stai.org/page/guidelines
 
-# menaingufl internal href into attchments folder
+## menaingufl internal href into attchments folder
 
 https://drive.blocktransfer.com/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/cxghka6d40c183fa149d397b87e4f5f7bf261/folders/vecoi48005e08ebd747348b9621f6097c16a4
 
 https://drive.blocktransfer.com/folder/vecoi48005e08ebd747348b9621f6097c16a4
 
-# log of past additions
+## log of past additions
 
 https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#logsV2:log-groups/log-group/$252Faws$252Flambda$252FlegacyAddInvestor
 
+https://github.com/blocktransfer/syndicate-api/blob/782f524f836a4ccf7825a2e2cb6c5834a471a8fe/legacy/importFinalAccs.py#L46
 
 
 
@@ -499,6 +806,44 @@ https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
+
+defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
+Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^
+
+and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
+
+```
+re Laylor easy afforming account ID 
+users  didn't  expect the pace  infer IDss b/c they hav basically always away shame but nt so mcuh us to contrinuee/structure HREF to the dovelopment advertising promo with distrbtor acount 
+(repeat Response X good shoahrhelder intent)
+
+```
+\
+### imgs
+
+for the split  / riptrack  (no  comment on bessemer  exparol;tikons  from transfer table  ):
+ Direct cite as Amtrak to Connersville, with FN setup for Congress
+
+we have strong basois on the minor intro with binance 
+iimage from when i was 17.18yr old. 
+^ the _SHIRT_ basis  here  omes from Exhbibt  2.9.7
+(id verif f self  in photos susbsuppls 1–3)
+
+
+DEX as nuceleuar bomb in the fuel tank has basis in Erik V comments from ccrypto  grountable highterd in Resposne 3 note 2
+^ "in my grandpas decades in the air force," he flow the F-111
+pllane designed andd trained  to  carry nuccleaar  weapons
+the law requires more than n&c because 78q iS MORE nei
+I d on't think  we need perosnal substantiation, but if i need a  refresher  during  drafting we have  a direct citation in https://github.com/JFWooten4/gratitude-journal/blob/main/2025/Jul/4.md
+
+
+https://discord.com/channels/@me/1399830854385274991/1415471113609154631
+
+
+
+
+# end (fold)
+
 
 
 
