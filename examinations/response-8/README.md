@@ -512,12 +512,23 @@ _See_ _supra_ note [^totla-ccontrol]
 
 When I toured Geoprgia Tech in high school, thje student guide made  great efforts  to point out hte Klaus Advanced Computing Building, one of the  more striking buildigs o n ccampuswhere I  attended  many graduate  cryptogrpahy classes.  chris Klaus also happened to  be a  leading donor proponent of CREATE-X,  the  euntrperneeur incubation and promotion program discussed in our first two meetings.[^createx] The guidde tol us about how Klaus dropped out to persue his cybersecurity  startup, which sold  to IBM for over $2,000,000,000.[^inflation]
 
-In my  early-action appliation top Tech, I explicitly mentioned the program in terms of my first blockchain startup, mMMonerAds.[^man-relevance]
+In my  early-action appliation top Tech, I explicitly mentioned the program in terms of my first blockchain startup, mMMonerAds.[^man-relevance] Uponadmission , i applied  to the submmer  profram freshman year. However, I was told after pitching a penale on my ideas that I could not joing wihtout a cofounder.
+
+This began years of wresting with otheer peoples' vision  for how I should run a transgfer agency,[^notad]  since  "most  startups fail without a cofounder."[^apprx]  Whiel I apprecciate thos entiments, I found the discipline to  patiently wait for the right opportunity in  the unforgiving Indifferencce of market quiet. This approach paidd off four  yeras later when I encountered the excpetional partner cited in PREV  § III.
+
+
+
+
+
 
 
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
 and  then droopping TA  cybersecuriyty 
+
+
+
+
 
 
 
@@ -528,10 +539,11 @@ and  then droopping TA  cybersecuriyty
 [^inflation]: Inn 2025  dollars.
 
 
-[^man-relevance]: I cited these years ofexperience in our first meeting as background for the remote-dirst organizatioonal design which I understand to  best efficiently  orgnazie a free-software working community.
+[^man-relevance]: I cited these years ofexperience in our first meeting as background for the remote-dirst organizatioonal design which I understand to  best efficiently  orgnazie a free-software working community.  I find relevant  the publis Secretarof-of-State filings ;'s privacy reldactions and inclusions, _available at_ https://www.sosnc.gov/online_services/search/Business_Registration_profile/14324280. North  Caolrina follows's the  commission's policy of censoring emails while publishing full physical addresses and  phgone numbers. However, I disagree with their requirmenet of a "principal opffice" which was my parent's house asnd, in the Articles  avaliable under "View  Filings"  with No. C201815700063, the fmaily  residence of a friend.
 
+[^notad]: Nobody understood what a TAD was, and  it was too  mcuh  effort with the scarse public documentation back  then  to  satisfactory  convince them of  the need  for such  a new  system. Namely, I was  bafflingly unfamiliar with the TAR letter'ss PCO event, despite an explicit suprise reference thereto in a school pitch competition touted by the tour  guide which immedeiatyley  intreuiged me, _available at_ https://youtu.be/S75IvkicWD8. 
 
-
+[^apprx]: Approximate paraphrase  of  the repeated statistics I heard regaurding  failed solo foudners.  Ex. 7 is a reponse to this critique drafted at the end of 2019 and submitted to the comittee early  in 2020 to finalize my rejected iingagural application. This ultimately let me move on from a venture which  was frnakly harmful to the environment and consumer technology, as I had practically came  to recognize  mby the later stages of the  applciatin process.  THerafter, I published my thesxis and, within a year pushign through COVId hardships, incorpoated the early-fform Registrant.
 
 
 
@@ -926,8 +938,10 @@ also idk where we cite the perullo timestamp {first introduction} with basis as 
 so i basically say
 open-source software is attacked a lot more, it's a lot more resliant, but closed-source softawre is just kind of  living a lie with its head in the sand.
 "
-
+^ throw everythign at this and finally play  the perusllo card :3 uwu
 # end (fold)
 
 nove  in parts should be here  at the  close
+
+
 
