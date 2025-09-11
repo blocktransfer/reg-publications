@@ -475,11 +475,65 @@ NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  co
 
 I  find this single public-policy  rrpecedence Judiciously relevant  on  the basis of limited past TA operational controls , especialyl  those droppped from June 12th's "regulatyr reset."[^rr-osc] fro time, I'll elaborate on two of  the policy choices impliccated in meeting remarks over ta ijtnenral protections. In contemplating these ideas, I have  to  ask myself, :"might clear, public rules on GitHub Solicit trust?"
 
+
+
+[^totla-ccontrol]: I commented extensively on the horendous unilateral authority implicit in the design of DTCC Digital Assets ("DA"), _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
+
+proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control 
+_See_ _supra_ note [^totla-ccontrol]
+
+
+
+
+
+
+[^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
+
+[^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 51, 106, and 143–145.
+
+
+[^dtmnd]: At  least  for  proposed items with a defined legal authortity  from _supra_ note {{^rin}}, with one important safe-harbor  consideration citing basis in 57 rules. _See also_ the specific trasnsf-eragnet  item, _available at_ https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AL55. With legislative standing frp,m the NMS Statute, might  we have a  greater burnedon of investigation than standard notice and commenting? Again, subparagraph (f)(2)(A)(ii) spells out hte need  for enhanced FAC review "in the absence of a uniform rule" for saafety.;
+
+
+
+[^rr-osc]: This has b een one colloquial refernce  ot the 14 dropped rule changes within online p rofessional circles, refering the derefulatory staff actions at, _available at_ https://www.sec.gov/files/rules/final/2025/33-11377.pdf. _See also generally_ Commissioner Atkin's remarks  that this _is_ (*emphasis orginally thoughp9tu publications) a new day at the agency, wwhich is  great. I'll keep this citation short to keep focus  on  the direct  action changes above,  which  stouched some very significant policy items from the klast  Administration. Extraordinary  cmmitment to free markets.
+
+
+
+
+
 ##### SCI
+
+When I toured Geoprgia Tech in high school, thje student guide made  great efforts  to point out hte Klaus Advanced Computing Building, one of the  more striking buildigs o n ccampuswhere I  attended  many graduate  cryptogrpahy classes.  chris Klaus also happened to  be a  leading donor proponent of CREATE-X,  the  euntrperneeur incubation and promotion program discussed in our first two meetings.[^createx] The guidde tol us about how Klaus dropped out to persue his cybersecurity  startup, which sold  to IBM for over $2,000,000,000.[^inflation]
+
+In my  early-action appliation top Tech, I explicitly mentioned the program in terms of my first blockchain startup, mMMonerAds.[^man-relevance]
+
 
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
 and  then droopping TA  cybersecuriyty 
+
+
+
+
+[^createx]: THe program itemslf acted as a typical startup  incubator  with experienced  indsutry mentors. To  the  extent it relates  to t his Exma,  it  included the oipportunity to contnually  pitch investors. While  I alwyas new  the  shares would need to reside in a nonprofit, I played along with these charades. This experiinec gave me respect  for small-business cpaital formatioon, as Donna commented on July 15th.
+
+
+[^inflation]: Inn 2025  dollars.
+
+
+[^man-relevance]: I cited these years ofexperience in our first meeting as background for the remote-dirst organizatioonal design which I understand to  best efficiently  orgnazie a free-software working community.
+
+
+
+
+
 
 
 
@@ -508,10 +562,6 @@ while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn
 
 
 
-
-
-[^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
-
 [^pierce]: _See_ Pierce statment "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
 , _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126
 Profitt story at  https://lnns.co/rswev9D3A1n/4848  <!-- TAR letter note 119 -->
@@ -520,32 +570,6 @@ No public order book or matching engine
 _See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
 
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
-
-
-[^totla-ccontrol]: I commented extensively on the horendous unilateral authority implicit in the design of DTCC Digital Assets ("DA"), _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
-
-proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
-
-while  supporting, endorsing, and integrating  DTCC-DA's central  control 
-_See_ _supra_ note [^totla-ccontrol]
-
-
-
-
-[^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 51, 106, and 143–145.
-
-
-[^dtmnd]: At  least  for  proposed items with a defined legal authortity  from _supra_ note {{^rin}}, with one important safe-harbor  consideration citing basis in 57 rules. _See also_ the specific trasnsf-eragnet  item, _available at_ https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AL55. With legislative standing frp,m the NMS Statute, might  we have a  greater burnedon of investigation than standard notice and commenting? Again, subparagraph (f)(2)(A)(ii) spells out hte need  for enhanced FAC review "in the absence of a uniform rule" for saafety.;
-
-
-
-[^rr-osc]: This has b een one colloquial refernce  ot the 14 dropped rule changes within online p rofessional circles, refering the derefulatory staff actions at, _available at_ https://www.sec.gov/files/rules/final/2025/33-11377.pdf. _See also generally_ Commissioner Atkin's remarks  that this _is_ (*emphasis orginally thoughp9tu publications) a new day at the agency, wwhich is  great. I'll keep this citation short to keep focus  on  the direct  action changes above,  which  stouched some very significant policy items from the klast  Administration. Extraordinary  cmmitment to free markets.
-
-
 
 
 
@@ -858,6 +882,8 @@ Criticallythis  was  the introduction  of  the in IHS via  “ownership of secur
 
 ## other items outstanding
 
+e sixz months pending future for the dealing work 6 months we have "docn not work welll with centralized deadlines" per Response X postfcript (cover eltter ) and so then downto `bvlocking` diction explantion in swe
+
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
@@ -900,5 +926,5 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 
 # end (fold)
 
-
+nove  in parts should be here  at the  close
 
