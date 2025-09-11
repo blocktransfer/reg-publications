@@ -519,17 +519,18 @@ This began years of wresting with otheer peoples' vision  for how I should run a
 
 
 
-
-
+8.8 is equivfacx rbreach case study  
+class is one year after the i ntroduction in _supra_ note
 
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
 and  then droopping TA  cybersecuriyty 
 
 
+###### [mmove[ connecting "priepritary" to "custodial"
 
 
-
+<img width="600" alt="exchange-types" src="imgs/software-license.png">
 
 
 
@@ -541,10 +542,9 @@ and  then droopping TA  cybersecuriyty
 
 [^man-relevance]: I cited these years ofexperience in our first meeting as background for the remote-dirst organizatioonal design which I understand to  best efficiently  orgnazie a free-software working community.  I find relevant  the publis Secretarof-of-State filings ;'s privacy reldactions and inclusions, _available at_ https://www.sosnc.gov/online_services/search/Business_Registration_profile/14324280. North  Caolrina follows's the  commission's policy of censoring emails while publishing full physical addresses and  phgone numbers. However, I disagree with their requirmenet of a "principal opffice" which was my parent's house asnd, in the Articles  avaliable under "View  Filings"  with No. C201815700063, the fmaily  residence of a friend.
 
-[^notad]: Nobody understood what a TAD was, and  it was too  mcuh  effort with the scarse public documentation back  then  to  satisfactory  convince them of  the need  for such  a new  system. Namely, I was  bafflingly unfamiliar with the TAR letter'ss PCO event, despite an explicit suprise reference thereto in a school pitch competition touted by the tour  guide which immedeiatyley  intreuiged me, _available at_ https://youtu.be/S75IvkicWD8. 
+[^notad]: Nobody understood what a TAD was, and  it was too  mcuh  effort with the scarse public documentation back  then  to  satisfactory  convince them of  the need  for such  a new  system. Namely, I was  bafflingly unfamiliar with the TAR letter'ss PCO event, despite an explicit suprise reference thereto in a school pitch competition touted by the tour  guide which immedeiatyley  intreuiged me, _available at_ https://youtu.be/S75IvkicWD8. THe m onths of pitching prepration for this show introduced me to valuable earl yonnections, many o f whom are in the exmaple shareholder ledger prop, _available at_ https://docs.google.com/spreadsheets/d/1FgBoJeKZ_EPy8Dlwd4dARyRCniqcET0VR1IDkrx4kKY/pub. one  paritcualtlryu relevant judge fdrom  early  pitch-practice and  application sessions was Jerry {Perullo, the ICE CISO for two decaddes quotesd  in  the EDGAR comment at 21.
 
-[^apprx]: Approximate paraphrase  of  the repeated statistics I heard regaurding  failed solo foudners.  Ex. 8.7 is a reponse to this critique drafted at the end of 2019 and submitted to the comittee early  in 2020 to finalize my rejected iingagural application. This ultimately let me move on from a venture which  was frnakly harmful to the environment and consumer technology, as I had practically came  to recognize  mby the later stages of the  applciatin process.  THerafter, I published my thesxis and, within a year pushign through COVId hardships, incorpoated the early-fform Registrant. https://docs.google.com/spreadsheets/d/1FgBoJeKZ_EPy8Dlwd4dARyRCniqcET0VR1IDkrx4kKY/edit
-
+[^apprx]: Approximate paraphrase  of  the repeated statistics I heard regaurding  failed solo foudners.  Ex. 8.7 is a reponse to this critique drafted at the end of 2019 and submitted to the comittee early  in 2020 to finalize my rejected iingagural application. This ultimately let me move on from a venture which  was frnakly harmful to the environment and consumer technology, as I had practically came  to recognize  mby the later stages of the  applciatin process.  THerafter, I published my thesxis and, within a year pushign through COVId hardships, incorpoated the early-fform Registrant. 
 
 
 
