@@ -921,8 +921,11 @@ I d on't think  we need perosnal substantiation, but if i need a  refresher  dur
 
 https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 
-
-
+also idk where we cite the perullo timestamp {first introduction} with basis as post-class walks on market structure, ut the href is stmaped at 48:21 in https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode :
+> closed-source software is just aweful, riddled with bugs. it would not stand a day if it was open and bug-bountied, but it has the advantage that noone's looking. And I'm saying that becuase, if it's open-source, people find the bugs immediately, and people even fix the bugs immediately and it moves a lot faster.
+so i basically say
+open-source software is attacked a lot more, it's a lot more resliant, but closed-source softawre is just kind of  living a lie with its head in the sand.
+"
 
 # end (fold)
 
