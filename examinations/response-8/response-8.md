@@ -453,25 +453,46 @@ if "Gary Gensler, Clearinghouses Are the Answer", WALL ST. J. (Apr. 21, 2010) th
 
 ### Handling MailSecurities) 
 
-The Staff’s discussions with BlockTransdisclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
+The Staff’s discussions with BlockTrans disclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
 
 Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent that hascustody or possession of any funds or securities related to its transfer agent activities shall assure that (1) all such securities are held in safekeeping and handled, in light of all facts and circumstances, in a manner reasonably free from risk of theft, loss or destruction. As noted above, securityholders had been instructed to mail physical stock certificates to BlockTrans.
 
 
 Although the Registrant has not received any physical certificates at the 99 Wall Street address, BlockTrans’ failure to have a documented methodology for handling different categories/types of mail received at a virtual business address appears to be an internal control weakness.
 
+
+
 (start subsubsection  on cert  policing)
 
 
 #### Extendign Safeguarding  Interpretive proxy
 
-Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under EO 14192, as the XYZ_EXISTINGLAW_POLITICS
+Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under EO 14192. If I might say so, transfer agents offer the perfect outdated regulatory regime to update with the leeway given  by any defregulations.
+
+NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol]
+
+, as the XYZ_EXISTINGLAW_POLITICS
 
 we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
 and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
 n https://www.sec.gov/files/rules/final/2025/33-11377.pdf
 
 2023 proposed amendments to Reg SCI would not have applied to transfer agents
+
+Department of Government Efficiency cuts
+^ sole regernce, only aded with a fn
+
+proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
+
+
+
+
 
 
 [^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
@@ -484,6 +505,31 @@ No public order book or matching engine
 _See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
 
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
+
+
+[^totla-ccontrol]: 
+
+proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 > The S-P and SCI points are really material because their using "safehandling" as an interpretive proxy for specific programs
@@ -746,14 +792,6 @@ The Association shall adopt a remote-first operating model, ensuring that all es
 17f2FN:(as a subclass E parent entity)
 
 
-
-proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
-
-while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
 
 
 
