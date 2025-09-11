@@ -547,7 +547,7 @@ and  then droopping TA  cybersecuriyty
 
 
 
-[^intro-frens]: 
+[^intro-frens]: These two  fdeadly  acronyms have  been tmy  top concenrns  in open0-sourcing  Syndicate  ifnrastructure  over the last years. I  found  in early  development  efforts  details  _infra_ § {{TODO:team section number}}  that it can be challenging  to  extensively test interface deplyoments without established and volumnous sample data.  This is why  I issued  teh DEMO asset from the Syndicate's mainnet account, facilitating early code sprints.  I plan to overccome this  challenge  with  future  testneet integrations and faker users.
 
 
 
@@ -816,7 +816,6 @@ s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
 ##  standin 'Frinedhsip' shection
 
-MNPI and PII as "top  concerns" as gateway into friendhip
 
 
 
