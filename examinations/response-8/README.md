@@ -599,9 +599,25 @@ i  years of exploration into ATS regulations, history,  and operations, much of 
 
 based on BTc as world's largest bug bnouinmty
 
+Laslt,y the  dropped ruelmmakign dismmissed  the 2022 anebdnebts ti  the defintion of an exchange, as was so fevsoulky  subject  to comment by the crypto inddustyrt.[^pierce]
+
+[^fine-fn]:  _See_ suit  intiaed by the  cCommission  after the treading platform ceased operations and withdrew registration  at ¶  13 of the settled ccase, _available at_ https://www.sec.gov/files/litigation/complaints/2023/comp25799.pdf. My outreach  wqas within a month of October based on memory, placing  it almost  exactly around  the  collapse of the trading firm. Despite thiss abject failure , the founder requested $1,000  from our student  group just to chat about running a purportedly retail-first  and charitable  venue.  I've found that the exchcange managers use witheld information asx  their  chiegf  tool for m isguidding public interest  ffrom the nature  of their central control, as exemplified _infra_ note {{TODO or  supra  lol.... the WSHYDRS At VEGAS discussion}}  earleier this year in a lunchtime chat with a  data sales e xxecutive  at the  LSE who kept tight-lipped on clikentelle, communciations, and  form in b usinesss preactives to the point htat  I honeslt ygot a headache speaking with their colegeuees.
 
 
-[^fine-fn]:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+I've found witholding infromatino  this approach  common among feellow ~~crony capitlists~~  n 
 
 
 
@@ -621,7 +637,7 @@ missing brick on the Falcon
 disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
 
 
- *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
+ *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS
 
 
 
