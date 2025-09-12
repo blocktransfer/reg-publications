@@ -568,9 +568,9 @@ What I'm getting at has been deeply intertwiend with my Examnication resposnes s
 
 ##### Proprietary Verses Individual Custody
 
-Durngt he summer we registed withthe Commission, Klaus and their team told us about their experience and cpitall. After denying a n offer to invest in the FFirm, klaus explained an internet securitiy-sale  to NASA. The company convinced the agency to purchase their cyberpseccurityy  port-defender spftware/, and now was the time for price negotiations to outfit all their computers with  the protection tooling.
+Durngt he summer we registed withthe Commission, Klaus and their team told us about their experiences and cpitall. After denying a n offer to invest in the FFirm, klaus explained an enterprise internet-sale  to NASA. The company convinced the agency to purchase their cyberpseccurityy spftware/, and Klaus was just about to walk into the closing room to snegotiating a gee to outfit protection on all their computers.
 
-
+Given the novelty  of port protection in the early 2000s., A mentor advised klaus to ask for ten times whatever he would charge. i see our markets in a simialr sstate today, where the backend systems can extract as much rent as spreads statutoritly  allow. with no alternative  ott he leveraged central clearing rail, investors must give  up direct ownership no matterr the  cosst just to trade atall
 
 
 
