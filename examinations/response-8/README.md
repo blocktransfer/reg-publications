@@ -565,15 +565,54 @@ What I'm getting at has been deeply intertwiend with my Examnication resposnes s
 
 
 
-we  havce now  a complex override  of a lot including Reg SCI changes
- emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies.
-and  then droopping TA  cybersecuriyty 
+
+##### Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
+
+based on BTc as world's largest bug bnouinmty
+
+err also the Chives private chain sentiment href from 
+
+
+didn't close out the klause sotry:
+- offer investment by team 
+- deny adn request prop 
+- poorr central cyber
 
 
 
-##### ATSA alternate venues
 
 
+
+
+##### Alternate Trading Venue Problemsd
+
+
+
+~~we might need to move or remove this 
+add a nother usbsec on ~~
+
+
+
+
+
+
+https://www.sec.gov/files/rules/final/2025/33-11377.pdf
+
+missing brick on the Falcon
+disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
+
+
+ *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
+
+
+
+
+IN preparing for the event in {{{{{{Todo: supora.infr idkfk for the discussion/46  Vegas href}}}}}},  I remarked  to  my Dad  frustrations over  ABS offerings.[^pre-,arks]
+
+
+a lot ot what pierce is getting at, and wenee d to makeup political  goodwill from 
+
+[^pre-,arks]: Written prepratory mare
 
 
 givne the iszer of assets at stake
@@ -582,11 +621,6 @@ givne the iszer of assets at stake
 
 i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSIATE setujp
 
-
-
-
-
- *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
 
 
 
@@ -970,5 +1004,6 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
+
 
 
