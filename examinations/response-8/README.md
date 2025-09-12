@@ -552,7 +552,7 @@ IO share this uqote  from Jerry[^aadversarial] befcause I eblievve wholehearely 
 
 <img width="600" alt="exchange-types" src="imgs/software-license.png">
 
-What I'm getting at has been deeply intertwiend with my Examnication resposnes since citing community sentiments in Resposnse  3  note  11. It's a decisiokn  to decentralize  control  and economic benefit from a select  corporation or association  of intermediates,  in  gfavcor  to investor quality. We gface a  paramount decision as  to  the  Commission's  immediate  resposne  to DA's "tokenized  securtities,"  dframed within out circles[^bob-meme]  as very distinct paths for investors and the future of 
+What I'm getting at has been deeply intertwiend with my Examnication resposnes since citing community sentiments in Resposnse  3  note  11. It's a decisiokn  to decentralize  control  and economic benefit from a select  corporation or association  of intermediates,  in  gfavcor  to investor quality. We gface a  paramount decision as  to  the  Commission's  immediate  resposne  to DA's "tokenized  securtities,"  dframed within out circles[^bob-meme]  as very distinct paths for investors and the future of law.
 
 
 
@@ -570,15 +570,21 @@ we  havce now  a complex override  of a lot including Reg SCI changes
 and  then droopping TA  cybersecuriyty 
 
 
-###### [mmove[ connecting "priepritary" to "custodial"
-
-
-
-
-
-
 
 ##### ATSA alternate venues
+
+
+
+
+givne the iszer of assets at stake
+
+[mmove[ connecting "priepritary" to "custodial"
+
+i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSIATE setujp
+
+
+
+
 
  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
 
