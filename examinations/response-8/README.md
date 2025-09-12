@@ -574,24 +574,9 @@ Given the novelty  of port protection in the early 2000s., A mentor told him to 
 
 We onyl  had so muh past technology to deal with The flaws of central  closed instuttiional registration.[^paperowrk-crisis] As society  forced costs down  through  infrastrucutre innovation, we unntentionaly centralized legal registers into a single electronc record, akin to a select compoerx service vendor.[^mom-fidl] But today Wall Street sells a product trivially replced by  distriubtedlrdgers for free.
 
-NASA paid th e xorbitatnt rate because there weren't modern decentralized open0sourced  solutions  putting everyone on the same playing field, just as most investors  hadnd untold billions into plumbing enabled by indirect beneficial ownership. In reflectig on CISO reference materials and observation of managed cyber platforms'  growht,[^awscollege] I've concluded the most efficent  systems allows the flexability of decen talized  open  implementaions  with imrpovements  returned to the shared project l.[^agpl-setns] 
+NASA paid th e xorbitatnt rate because there weren't modern decentralized open0sourced  solutions  putting everyone on the same playing field, just as most investors  hadnd untold billions into plumbing enabled by indirect beneficial ownership. In reflectig on CISO reference materials and observation of managed cyber platforms'  growht,[^awscollege] I've concluded the most efficent  systems allows the flexability of decen talized  open  implementaions  with imrpovements  returned to the shared project l.[^agpl-setns] I want to bring this decentralized  self-custod y  ethos  from  indepndent code ownership into the market with a DEX.
 
 
-
-
-Just  as wee caan now run shared secuirrtyy tools, 
-- poorr central cyber
-
-
-But in a system  of direct excchange with  self-custody wallets,  markets  
-
-Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
-
-based on BTc as world's largest bug bnouinmty
-
-err also the Chives private chain sentiment href from 
-
-- deny adn request prop 
 
 
 [^paperowrk-crisis]: _See_ study  commintcated from the  Commission  to Congress  two  years before DTC's formation, examinging ddecades-long  sturcutral changes  to teh capital markets, _available at_ https://www.sechistorical.org/collection/papers/1970/1971_0310_SECInstitutionalInvestor_01.pdf. Extensive staff research  form Chapter I to II find insitutional ownership soared as concentrated custodians "ncreased their share of total stock outstanding from less than 7 percent to approximately 19 percent" in  the lead-ip to the Paperwork Crisis. This coincides with Commission  requests for the dominant exchasnge relinquishing mandated trading fees at 9, bringing  free-market cost  to  block trades for the first  time  since the brokers' 1972 oligopoly agreement. Do we have enough mass-market participants again?
@@ -608,6 +593,16 @@ err also the Chives private chain sentiment href from
 
 
 ##### Alternate Trading Venue Problemsd
+
+i  years of exploration into ATS regulations, history,  and operations, much of my interperation  came  from a brief exmail excchangewith Anthony Weeresinghe about one year  before the Commission  brought  action against  Ustocktrade . In just a brief rejection of bonaddfide help to  our ccollege Design team, thousands of pages  of legislative history crystalized into  my view undderstanding these broker-dealers as relentleslyl self-interested firms with profits solely  derived through intermediating trade.[^fine-fn] I mu h prrfer public blcokahisn which in their own  continuing operations prove themselves  as secure with no need for central 
+
+
+based on BTc as world's largest bug bnouinmty
+
+
+
+[^fine-fn]:  
+
 
 
 
@@ -1028,6 +1023,7 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
+
 
 
 
