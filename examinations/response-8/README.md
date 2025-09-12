@@ -594,10 +594,7 @@ NASA paid th e xorbitatnt rate because there weren't modern decentralized open0s
 
 ##### Alternate Trading Venue Problemsd
 
-i  years of exploration into ATS regulations, history,  and operations, much of my interperation  came  from a brief exmail excchangewith Anthony Weeresinghe about one year  before the Commission  brought  action against  Ustocktrade . In just a brief rejection of bonaddfide help to  our ccollege Design team, thousands of pages  of legislative history crystalized into  my view undderstanding these broker-dealers as relentleslyl self-interested firms with profits solely  derived through intermediating trade.[^fine-fn] I mu h prrfer public blcokahisn which in their own  continuing operations prove themselves  as secure with no need for central 
-
-
-based on BTc as world's largest bug bnouinmty
+i  years of exploration into ATS regulations, history,  and operations, much of my interperation  came  from a brief exmail excchangewith Anthony Weeresinghe about one year  before the Commission  brought  action against  Ustocktrade . In just a brief rejection of bonaddfide help to  our ccollege Design team, thousands of pages  of legislative history crystalized into  my view undderstanding these broker-dealers as relentleslyl self-interested firms with profits solely  derived through intermediating trade.[^fine-fn] I mu h prrfer public blcokahisn which in their own  continuing operations prove themselves  as secure with no need for central attestation   based on p orportietyr principles, as adopted in an ecosystem mantra  that Bitcoi nis the world's largest  bug bountry since any vvulnerabilities can make you a fortne.
 
 Laslt,y the  dropped ruelmmakign dismmissed  the 2022 anebdnebts ti  the defintion of an exchange, as was so fevsoulky  subject  to comment by the crypto inddustyrt.[^pierce]
 
@@ -640,6 +637,28 @@ i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSI
 
 [^fine-fn]:  _See_ suit  intiaed by the  cCommission  after the treading platform ceased operations and withdrew registration  at ¶  13 of the settled ccase, _available at_ https://www.sec.gov/files/litigation/complaints/2023/comp25799.pdf. My outreach  wqas within a month of October based on memory, placing  it almost  exactly around  the  collapse of the trading firm. Despite thiss abject failure , the founder requested $1,000  from our student  group just to chat about running a purportedly retail-first  and charitable  venue.  I've found that the exchcange managers use witheld information asx  their  chiegf  tool for m isguidding public interest  ffrom the nature  of their central control, as exemplified _infra_ note {{TODO or  supra  lol.... the WSHYDRS At VEGAS discussion}}  earleier this year in a lunchtime chat with a  data sales e xxecutive  at the  LSE who kept tight-lipped on clikentelle, communciations, and  form in b usinesss preactives to the point htat  I honeslt ygot a headache speaking with their colegeuees.
 
+[^pierce]: _See_ orginal dissenting statment from Commissioner Pierce disdaining "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
+, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Pierce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
+, _available at_ https://youtu.be/kl7omhTtERE?t=1427.
+
+[^fuk-ur=ats]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Berofre migrating operations  to a registered ATS server,mm  this  communciation protocol trivially acted as  a centrall off-chain  matching venue  for serviced securities. I'v4e ecerted significant efforts  differntiationg deccentralized trading systems into execution venue  categoies because the disintermediation of order matching  is the oly way to automate debited clearing, as mentioned  in  our third exit interview  and supported by TAR letter n.95 as evidenced by  Ex  8.9.
+
+No public order book or matching engine
+
+_See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
+
+
+
+
+
+
+
+
+
+
+
+
+reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
 
 
@@ -664,15 +683,7 @@ while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn
 
 
 
-[^pierce]: _See_ Pierce statment "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
-, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126
-Profitt story at  https://lnns.co/rswev9D3A1n/4848  <!-- TAR letter note 119 -->
-I want an Id. taking a direct shot at https://github.com/airswap/airswap-protocols
-No public order book or matching engine
-_See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
-
-reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
-
+---
 
 
 > The S-P and SCI points are really material because their using "safehandling" as an interpretive proxy for specific programs
