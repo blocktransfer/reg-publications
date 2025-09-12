@@ -570,10 +570,11 @@ What I'm getting at has been deeply intertwiend with my Examnication resposnes s
 
 Durngt he summer we registed withthe Commission, Klaus and their team told us about their experiences and cpitall. After denying a n offer to invest in the FFirm, klaus explained an enterprise internet-sale  to NASA. The company convinced the agency to purchase their cyberpseccurityy spftware/, and Klaus was just about to walk into the closing room to snegotiating a gee to outfit protection on all their computers.
 
-Given the novelty  of port protection in the early 2000s., A mentor advised klaus to ask for ten times whatever he would charge. i see our markets in a simialr sstate today, where the backend systems can extract as much rent as spreads statutoritly  allow. with no alternative  ott he leveraged central clearing rail, investors must give  up direct ownership no matterr the  cosst just to trade atall
+Given the novelty  of port protection in the early 2000s., A mentor told him to ask for ten times whatever he would charge. i see our markets in a simialr sstate today, where the backend systems can extract as much rent as spreads statutoritly  allow. with no alternative  ott he leveraged central clearing rail, investors must give  up direct ownership no matterr the  cosst just to trade atall
 
 We onyl  had so muh past technology to deal with The flaws of central  closed instuttiional registration.[^paperowrk-crisis] As society  forced costs down  through  infrastrucutre innovation, we unntentionaly centralized legal registers into a single electronc record, akin to a select compoerx service vendor.[^mom-fidl] But today Wall Street sells a product trivially replced by  distriubtedlrdgers for free.
 
+NASA paid th e xorbitatnt rate because there weren't modern decentralized open0sourced  solutions  putting everyone on the same playing field, just as most investors  hadnd untold billions into plumbing enabled by indirect beneficial ownership.  But in a system  of direct excchange with  self-custody wallets,  markets  
 
 Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
 
@@ -604,6 +605,7 @@ add a nother usbsec on ~~
 
 
 
+I na  last-ditch effort ot buy part of Block Transfr at the end of the program "demo day," Klaus directly ogfered "any help I may need" under the clear and later-verified implication of direcyt economic benefit. He miught have gotten exactly what he asked NASA fr given  a lack of alternatives, just as  brokers hold  unchallenged keys to  access the legacy exchange infrastrure build on centrlized, closed custody chains. 
 
 https://www.sec.gov/files/rules/final/2025/33-11377.pdf
 
