@@ -594,14 +594,11 @@ NASA paid th e xorbitatnt rate because there weren't modern decentralized open0s
 
 ##### Alternate Trading Venue Problemsd
 
-i  years of exploration into ATS regulations, history,  and operations, much of my interperation  came  from a brief exmail excchangewith Anthony Weeresinghe about one year  before the Commission  brought  action against  Ustocktrade . In just a brief rejection of bonaddfide help to  our ccollege Design team, thousands of pages  of legislative history crystalized into  my view undderstanding these broker-dealers as relentleslyl self-interested firms with profits solely  derived through intermediating trade.[^fine-fn] I mu h prrfer public blcokahisn which in their own  continuing operations prove themselves  as secure with no need for central attestation   based on p orportietyr principles, as adopted in an ecosystem mantra  that Bitcoi nis the world's largest  bug bountry since any vvulnerabilities can make you a fortne.
 
-Laslt,y the  dropped ruelmmakign dismmissed  the 2022 anebdnebts ti  the defintion of an exchange, as was so fevsoulky  subject  to comment by the crypto inddustyrt.[^pierce]
+Lastly, the dropped rulemaking dismissed the 2022 amendments to the definition of an exchange, as was so famously subject to comment by the crypto industry.[^pierce] While such a large market-structure change should not be tucked away in a proposal for Treasuries, the fact remains that proponents of central exchanges view blockchain systems as silos of liquidity devoid of protection.[^venue-prot] I strongly disagree with this farce of a defense supporting entrenched interests, as my constituents have executed exemplary fraud investigations using nothing more than block explorers thanks to the public transparency afforded by distributed ledgers using legitimate consensus.
 
+In years of exploration into ATS regulations, history, and operations, much of my interpretation came from a brief email exchange with Anthony Weeresinghe about one year before the Commission brought action against Ustocktrade. In just a brief rejection of bona fide help to our college Design team, thousands of pages of legislative history crystallized into my view understanding these broker-dealers as relentlessly self-interested firms with profits solely derived through intermediating trade.[^fine-fn] I much prefer public blockchains which in their own continuing operations prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune.
 
-
-
-pg 2 on the pirece
 
 
 
@@ -609,11 +606,11 @@ I na  last-ditch effort ot buy part of Block Transfr at the end of the program "
 
 https://www.sec.gov/files/rules/final/2025/33-11377.pdf
 
-missing brick on the Falcon
-disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
+missing brick on the Falcon - millenium out of  place  
+aps  disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
 
 
- *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS
+
 
 
 
@@ -641,11 +638,7 @@ i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSI
 , _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Pierce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
 , _available at_ https://youtu.be/kl7omhTtERE?t=1427.
 
-[^fuk-ur=ats]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Berofre migrating operations  to a registered ATS server,mm  this  communciation protocol trivially acted as  a centrall off-chain  matching venue  for serviced securities. I'v4e ecerted significant efforts  differntiationg deccentralized trading systems into execution venue  categoies because the disintermediation of order matching  is the oly way to automate debited clearing, as mentioned  in  our third exit interview  and supported by TAR letter n.95 as evidenced by  Ex  8.9.
-
-No public order book or matching engine
-
-_See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
+[^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  Response  6  § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
 
 
 
@@ -695,6 +688,12 @@ while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn
 
 
 ## B. MSF Certificate Detail
+core objective to  facilitate ddecentrlaied exhcange  is PREV  § II.B.2.
+
+
+
+<img width="560" alt="test-rigging" src="imgs/first-release.png">
+
 
 
 ### Securities  Cancellation Dates
