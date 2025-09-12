@@ -572,7 +572,7 @@ Durngt he summer we registed withthe Commission, Klaus and their team told us ab
 
 Given the novelty  of port protection in the early 2000s., A mentor advised klaus to ask for ten times whatever he would charge. i see our markets in a simialr sstate today, where the backend systems can extract as much rent as spreads statutoritly  allow. with no alternative  ott he leveraged central clearing rail, investors must give  up direct ownership no matterr the  cosst just to trade atall
 
-
+We onyl  had so muh past technology to deal with The flaws of central  closed instuttiional registration.[^paperowrk-crisis] As society  forced costs down  through  infrastrucutre innovation, we unntentionaly centralized legal registers into a single electronc record, akin to a select compoerx service vendor.[^mom-fidl] But today Wall Street sells a product trivially replced by  distriubtedlrdgers for free.
 
 
 Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
@@ -588,10 +588,10 @@ didn't close out the klause sotry:
 - poorr central cyber
 
 
+[^paperowrk-crisis]: _See_ study  commintcated from the  Commission  to Congress  two  years before DTC's formation, examinging ddecades-long  sturcutral changes  to teh capital markets, _available at_ https://www.sechistorical.org/collection/papers/1970/1971_0310_SECInstitutionalInvestor_01.pdf. Extensive staff research  form Chapter I to II find insitutional ownership soared as concentrated custodians "ncreased their share of total stock outstanding from less than 7 percent to approximately 19 percent" in  the lead-ip to the Paperwork Crisis. This coincides with Commission  requests for the dominant exchasnge relinquishing mandated trading fees at 9, bringing  free-market cost  to  block trades for the first  time  since the brokers' 1972 oligopoly agreement. Do we have enough mass-market participants again?
 
 
-
-
+[^mom-fidl]: For isntnace,  my Mom held dirctly-regfistered hares of Merk for ddecades, participating in their dividend reinvestment Plan. Reviewing TA statemments  for her position revealed histoirc  fees in lei of compounding investments which inspired early contrmplations on investor pricing, _available at_ https://github.com/JFWooten4/DRIP-fee-impact. Hisotriccally, even these costly  charges uncdercut top brokkerage rates; but, as staff know,, competative changes mmoved the industry  to profits from custody, routing, and lending. This grab for all possibvle ccollateral led my Mom's broker to call her requesting she deposit  her share swith them for "safekeeping and consolidation" in  a single account without legal control in insolvency, as freely  admitted by CCP proponents when testifieying on   perfected interests.
 
 ##### Alternate Trading Venue Problemsd
 
