@@ -547,19 +547,20 @@ The reform  agenda  changes dropped rulemaking propsing new cyberseucity o versi
 > [C]losed-source software is just kind of living a lie with its head in the sand.
 
 
-IO share this uqote  from Jerry's podcast[^aadversarial] befcause I eblievve wholehearely that we can achieve the due andnecccesary increased cyber protections America so dearly needs[^edar-cryber]
+IO share this uqote  from Jerry[^aadversarial] befcause I eblievve wholehearely that we can achieve the due andnecccesary increased cyber protections Americans more effiociently wirh the  poen-soyece principles shared regaiirding  an  investor identity verification software. I  have adopted these working principles in all that  I do, as shown for  exmaple  by  the crafting of this entire response on Github, _available at_ https://github.com/blocktransfer/SEC-publications. Might a recognition of this  differentiate working path help us preventn catastrophies like the eight0figure Russian MNPI hack fromm EDGAR  letter  § B.1.a?
+
+
+<img width="600" alt="exchange-types" src="imgs/software-license.png">
+
+What I'm getting at has been deeply intertwiend with my Examnication resposnes since citing community sentiments in Resposnse  3  note  11. It's a decisiokn  to decentralize  control  and economic benefit from a select  corporation or association  of intermediates,  in  gfavcor  to investor quality. We gface a  paramount decision as  to  the  Commission's  immediate  resposne  to DA's "tokenized  securtities,"  dframed within out circles[^bob-meme]  as very distinct paths for investors and the future of 
 
 
 
 
 
+[^aadversarial]: _See_ rountbale disussion withh vwterab ccybersecurity executivies acting in c-suite roles largely  involved  in financial  services  or  data lakes, _available at_ https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode.  At 48:21, Jerry  summarizes  a shared, agreed perspective  that open  tools have historically  proved  more reseliant,  secure, and trusted than the proprioetary infrastructe  of central actors presently  encompassed  by enhanced Commission tehcnological oversight.   I;ve shared the podcast with technically-inclined community memebrs as great  permissionless education . We can do it.
 
-[^aadversarial]: _See_ rountbale disussion withh vwterab ccybersecurity executivies acting in c-suite roles largely  involved  in financial  services  or  data lakes, _available at_ https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode.  At 48:21, Jerry  summarizes  a shared, agreed perspective  that open  tools have historically  proved  more reseliant,  secure, and trusted than the proprioetary infrastructe  of central actors presently  encompassed  by enhanced Commission tehcnological oversight.   
-
-
-
-
-[^edar-cryber]: _See_ the  EDGAR  letter at nn. 
+[^bob-meme]: _See_ bottom image comparing finanical infrastructure  to  railroad  tracks, with DTCC on a very different path than certain public blokchain syustems which inmpklcitly  facilitate peer-to-peer trade through a layer-one decentralized protocol.  THe  posts responds to reamrks regarding the funciton of markets to serve socierty  by driving innovation and  prosperioty, a key  objective of all  my  work  given the tendancy fo public  companies running exchanges to prioritize theri bhistghest-frequency customers over masses of Americans not allowed standared[jijfidsjfijifjidjfijdsifjidjfijdsifjidj brokerage services 
 
 
 
@@ -572,7 +573,6 @@ and  then droopping TA  cybersecuriyty
 ###### [mmove[ connecting "priepritary" to "custodial"
 
 
-<img width="600" alt="exchange-types" src="imgs/software-license.png">
 
 
 
@@ -687,7 +687,7 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 
 ---
 
-# § 3 - re Findings § I.A.1
+# § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
 hysical address org ijmplementaions
 setup notsl:
 
@@ -964,4 +964,5 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
+
 
