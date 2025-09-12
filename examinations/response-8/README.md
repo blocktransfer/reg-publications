@@ -566,7 +566,7 @@ What I'm getting at has been deeply intertwiend with my Examnication resposnes s
 
 
 
-##### Proprietary Verses Individual Custody
+###### Proprietary Verses Individual Custody
 
 Durngt he summer we registed withthe Commission, Klaus and their team told us about their experiences and cpitall. After denying a n offer to invest in the FFirm, klaus explained an enterprise internet-sale  to NASA. The company convinced the agency to purchase their cyberpseccurityy spftware/, and Klaus was just about to walk into the closing room to snegotiating a gee to outfit protection on all their computers.
 
@@ -592,19 +592,16 @@ NASA paid th e xorbitatnt rate because there weren't modern decentralized open0s
 
 
 
-##### Alternate Trading Venue Problemsd
+###### Alternate Trading Venue Problemsd
 
 
-Lastly, the dropped rulemaking dismissed the 2022 amendments to the definition of an exchange, as was so famously subject to comment by the crypto industry.[^pierce] While such a large market-structure change should not be tucked away in a proposal for Treasuries, the fact remains that proponents of central exchanges view blockchain systems as silos of liquidity devoid of protection.[^venue-prot] I strongly disagree with this farce of a defense supporting entrenched interests, as my constituents have executed exemplary fraud investigations using nothing more than block explorers thanks to the public transparency afforded by distributed ledgers using legitimate consensus.
+Lastly, the dropped rulemaking dismissed the 2022 amendments to the definition of an exchange, as was so famously subject to comment by the crypto industry.[^pierce] I care  most intimately about the qualiryt of excchange infrasture in the public  markets, bassed on the immense transaction costs Wall Street's taken from me and my mfamily over and over again.[^enda-sewlf] While such a large market-structure change should not be tucked away in a proposal for Treasuries, the fact remains that proponents of central exchanges can view some blockchain systems as silos of liquidity devoid of protection  given inagural implementations which skirted the line between centrally-cntrolled d unregulated exchanges.[^venue-prot] 
 
-In years of exploration into ATS regulations, history, and operations, much of my interpretation came from a brief email exchange with Anthony Weeresinghe about one year before the Commission brought action against Ustocktrade. In just a brief rejection of bona fide help to our college Design team, thousands of pages of legislative history crystallized into my view understanding these broker-dealers as relentlessly self-interested firms with profits solely derived through intermediating trade.[^fine-fn] I much prefer public blockchains which in their own continuing operations prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune.
-
-
+In years of exploration into ATS regulations, history, and operations, much of my interpretation came from a brief email exchange with Anthony Weeresinghe about one year before the Commission brought action against Ustocktrade. In just a brief rejection of bona fide help to our college Design team, thousands of pages of legislative history crystallized into my view understanding these broker-dealers as relentlessly self-interested firms with profits solely derived through intermediating trade.[^fine-fn] Comparatively, my constituents use blockchain market-makers for exemplary fraud investigations using nothing more than block explorers thanks to the public transparency afforded by distributed ledgers using legitimate consensus, a form of indepdenndet decentralized stability not afforded to shahreolders transsacting on central servers.
 
 
-I na  last-ditch effort ot buy part of Block Transfr at the end of the program "demo day," Klaus directly ogfered "any help I may need" under the clear and later-verified implication of direcyt economic benefit. He miught have gotten exactly what he asked NASA fr given  a lack of alternatives, just as  brokers hold  unchallenged keys to  access the legacy exchange infrastrure build on centrlized, closed custody chains. 
+I prefer public blockchains which, in their own continuing operations, prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune. As laid out in the TAR letter n.149, I've seen  this ethods direcltry imrpove our own udnerslying infrastrucure, and I I kknow that we  cna  get the rollout o DDEXes right  over time.  
 
-https://www.sec.gov/files/rules/final/2025/33-11377.pdf
 
 missing brick on the Falcon - millenium out of  place  
 aps  disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
@@ -623,14 +620,9 @@ a lot ot what pierce is getting at, and wenee d to makeup political  goodwill fr
 [^pre-,arks]: Written prepratory mare
 
 
-givne the iszer of assets at stake
-
-[mmove[ connecting "priepritary" to "custodial"
-
-i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSIATE setujp
 
 
-
+[^enda-sewlf]: I na  last-ditch effort ot buy part of Block Transfr at the end of the program "demo day," Klaus directly ogfered "any help I may need" under the clear and later-verified implication of direcyt economic benefit, a tradeoff I find unnaceptable vassed  on perosnal sentiments well explained in TAR letter n.175  en t oto. He miught have gotten exactly what he asked NASA fr given  a lack of alternatives, just as  brokers hold  unchallenged keys to  access the legacy exchange infrastrure build on centrlized, closed custody chains. But I do not believe  arjkets need profit-seeking intermediaries that squeeze every possible micro-cent  out of cxollective sacings and retirments. I ssee outr best opporuntiy  for sustainable efficient markets in nonprofit infrastrue designed with investor priotections and capital formation abovve and beyond limited c04[porate shareholder-value  interests, becuase certain natural monpoiplies just  don't intergrate well with default capitalist cgovenrnace  with so mucch at stake.
 
 [^fine-fn]:  _See_ suit  intiaed by the  cCommission  after the treading platform ceased operations and withdrew registration  at ¶  13 of the settled ccase, _available at_ https://www.sec.gov/files/litigation/complaints/2023/comp25799.pdf. My outreach  wqas within a month of October based on memory, placing  it almost  exactly around  the  collapse of the trading firm. Despite thiss abject failure , the founder requested $1,000  from our student  group just to chat about running a purportedly retail-first  and charitable  venue.  I've found that the exchcange managers use witheld information asx  their  chiegf  tool for m isguidding public interest  ffrom the nature  of their central control, as exemplified _infra_ note {{TODO or  supra  lol.... the WSHYDRS At VEGAS discussion}}  earleier this year in a lunchtime chat with a  data sales e xxecutive  at the  LSE who kept tight-lipped on clikentelle, communciations, and  form in b usinesss preactives to the point htat  I honeslt ygot a headache speaking with their colegeuees.
 
@@ -640,6 +632,8 @@ i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSI
 
 [^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  Response  6  § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
 
+
+i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSIATE setujp
 
 
 
