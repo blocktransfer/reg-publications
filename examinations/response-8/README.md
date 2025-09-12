@@ -566,7 +566,16 @@ What I'm getting at has been deeply intertwiend with my Examnication resposnes s
 
 
 
-##### Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
+##### Proprietary Verses Individual Custody
+
+Durngt he summer we registed withthe Commission, Klaus and their team told us about their experience and cpitall. After denying a n offer to invest in the FFirm, klaus explained an internet securitiy-sale  to NASA. The company convinced the agency to purchase their cyberpseccurityy  port-defender spftware/, and now was the time for price negotiations to outfit all their computers with  the protection tooling.
+
+
+
+
+
+
+Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
 
 based on BTc as world's largest bug bnouinmty
 
