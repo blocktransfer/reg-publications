@@ -574,7 +574,16 @@ Given the novelty  of port protection in the early 2000s., A mentor told him to 
 
 We onyl  had so muh past technology to deal with The flaws of central  closed instuttiional registration.[^paperowrk-crisis] As society  forced costs down  through  infrastrucutre innovation, we unntentionaly centralized legal registers into a single electronc record, akin to a select compoerx service vendor.[^mom-fidl] But today Wall Street sells a product trivially replced by  distriubtedlrdgers for free.
 
-NASA paid th e xorbitatnt rate because there weren't modern decentralized open0sourced  solutions  putting everyone on the same playing field, just as most investors  hadnd untold billions into plumbing enabled by indirect beneficial ownership.  But in a system  of direct excchange with  self-custody wallets,  markets  
+NASA paid th e xorbitatnt rate because there weren't modern decentralized open0sourced  solutions  putting everyone on the same playing field, just as most investors  hadnd untold billions into plumbing enabled by indirect beneficial ownership. In reflectig on CISO reference materials and observation of managed cyber platforms'  growht,[^awscollege] I've concluded the most efficent  systems allows the flexability of decen talized  open  implementaions  with imrpovements  returned to the shared project l.[^agpl-setns] 
+
+
+
+
+Just  as wee caan now run shared secuirrtyy tools, 
+- poorr central cyber
+
+
+But in a system  of direct excchange with  self-custody wallets,  markets  
 
 Dece tra;lyized  cybersecurt tiy  "b;llokchcian strenght"
 
@@ -582,17 +591,21 @@ based on BTc as world's largest bug bnouinmty
 
 err also the Chives private chain sentiment href from 
 
-
-didn't close out the klause sotry:
-- offer investment by team 
 - deny adn request prop 
-- poorr central cyber
 
 
 [^paperowrk-crisis]: _See_ study  commintcated from the  Commission  to Congress  two  years before DTC's formation, examinging ddecades-long  sturcutral changes  to teh capital markets, _available at_ https://www.sechistorical.org/collection/papers/1970/1971_0310_SECInstitutionalInvestor_01.pdf. Extensive staff research  form Chapter I to II find insitutional ownership soared as concentrated custodians "ncreased their share of total stock outstanding from less than 7 percent to approximately 19 percent" in  the lead-ip to the Paperwork Crisis. This coincides with Commission  requests for the dominant exchasnge relinquishing mandated trading fees at 9, bringing  free-market cost  to  block trades for the first  time  since the brokers' 1972 oligopoly agreement. Do we have enough mass-market participants again?
 
 
 [^mom-fidl]: For isntnace,  my Mom held dirctly-regfistered hares of Merk for ddecades, participating in their dividend reinvestment Plan. Reviewing TA statemments  for her position revealed histoirc  fees in lei of compounding investments which inspired early contrmplations on investor pricing, _available at_ https://github.com/JFWooten4/DRIP-fee-impact. Hisotriccally, even these costly  charges uncdercut top brokkerage rates; but, as staff know,, competative changes mmoved the industry  to profits from custody, routing, and lending. This grab for all possibvle ccollateral led my Mom's broker to call her requesting she deposit  her share swith them for "safekeeping and consolidation" in  a single account without legal control in insolvency, as freely  admitted by CCP proponents when testifieying on   perfected interests.
+
+
+[^awscollege]: _See, e.g.,_ disucssion over proporietary  security  services diuscoivered  through AWS startup program offering a central hosting solution akin  to contituent  software polatforms,, _available at_ https://zopen.to/K8CAHO5DfzKCt1eNINvS. Thisa devleopkemtn approach moimics initial staff impresions of TAD3 from the  first meeting, which  I understand as consistentg of a system deployed complemtelt yu over a service provider with control of data/. As we see with questionable  FTD data  rom the TAR  letter  nn. 11,  34–35, and text aqaccompnaying 32; such ce tralizty  rarely wokrs in the long-run. Even Jerry replies with enohgh caution to "definitely steer clear so there is no chance they think I grabbed their idea" given the natural uneccesary copetition between similar fundmanetal established ingrastructure.
+
+
+[^agpl-setns]: This is precisely  what I've  been  getting at with  the relentless  citation a nd use  of the Affero GPL, an established standard  for  interoprerable dervitive  software system improvmenets. It  takes what might  start  as  a  centralized p roejct  and allows the communtiy  to  expand  funcitonality  bgasedo mn their own pproved needs as  they use a  system. After deep exokoiration of distirbuted projects for months leading up to  PREV n.20 link 1,a timeline communicated in our first meeting, I came ot the conclusion  that this licensing  approach  may  well be the o ly means  to maintain shared infrastructure  for decades with  the public trasnprency enccerasry for market functiojnality. At least without the token incentives  of cryptonetworks iwth  consensus mechisms  which have all total value sa systemic insurance.
+
+
 
 ##### Alternate Trading Venue Problemsd
 
