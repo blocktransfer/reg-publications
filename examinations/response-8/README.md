@@ -417,11 +417,13 @@ Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the us
 
  Therefore, BlockTrans should update its AML Policy to reflect its new process for performing and documenting client identity verification
 
+https://github.com/blocktransfer/identity-verification
 
 
 
+- dao bug  bounties for server enviroment in deplyment
 
-
+PII obvious 
 
 ## OFAC Searches
 
@@ -453,7 +455,9 @@ Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC 
 BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
 
 
+s-p policy, disclosure , and noticce
 
+will add ad eploymnetn URL  to rthe repository when it's ready
 
 
 ### Lost Securityholder Search Evidence
@@ -724,7 +728,7 @@ I jut don't see a good reason the world needs to run everything on their antiqua
 
 ### Physical  Securities and Lifeccycle
 
-
+https://www.law.cornell.edu/cfr/text/17/240.17Ad-19
 
 ##### Cancellation and Destruction of Securities Certificates
 
