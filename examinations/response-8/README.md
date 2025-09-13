@@ -209,6 +209,10 @@ If they ask about the differetn WK assets, we have a basiss from the `2022_pegge
 **TODOs** 
 ---
 
+
+
+
+
 # we went to get into the FAC based on a direct webb supplement (intro)
 
 
@@ -393,10 +397,36 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchan
 
 
 
-# II. Weaknesses in Internal Controls, Supervisory Procedures, and Operational
-Processes
 
-~~## A. Written Procedures~~
+
+
+
+
+
+
+
+
+
+##  §2 Internal and Proceduaral Weaknesses
+
+###  Client Identity Verification Procewss
+
+Hadnnking kYC inforation has alwyas been the msot centralized function  I envisioned  for thee SYndicate. It  rleated deepl yto   my aspireaitons in Response 5 note 7  to disintermediate wall Street, because o f a  principle I commonly ccite  called Conway's Law. The rule[^conway=paper]  originateds from a paper on  the innonvative capacity  of committees, w hich I've seen repeatedly fail to ourperform independnet  moeny managers  given the leeway to allocate capital as  they see fit within their own small groups. Put more applcicably, all  my investing  epxerience sccreaams  to  me that  small  teams are the m ost e fficient deployment  of resources, adn as such I've designed all possible posilicies to  support  decentralized  autonomous  teams  of orgnaization memebrs without explicit directive  overhead  or managemnet.
+
+The cchallenge and opporuntiy with KYC lies in the intimate bonding requirements to  proccess PII. Even in the legacy  OPpersona implementation, internal team members needed  to login and authentiaccakte identieis. Thiss processing reality conflicts with my visioon for peromsisioneless working arrangments wheere contributors have  a minnmumal set of sensitive permissions, electing to work on any public repos.
+
+My  intial rememdy was  to outsource this to a proprietary development company abcked by the  titans of Sand Hill. This worked fine while the Syndicate waas still copletely centralized priorr to discovereing the communtiy. But no that we are migrating to open standdards together, a central service provider for such a crucial part of investor onboarding threatens the envisioned 
+
+
+
+
+
+
+
+
+
+
+[^conway=paper]: _See_ su mmary of original paper by the author alongside the source text, _available at_ https://www.melconway.com/Home/Conways_Law.html. To the briefest extent possible, Conway proposes what I have seen so intimately trading nascent ccrypto markets  in comparison  to entranches futuers derivatives. These are two extrrmes  of a  spectrum defined  by  insitutional adoptiona and entranching regulation, r and the movement  of these assets in the fre market  deeply  reflects that . Watching price action subtly change after  the introdfuction  of CME  bitcoin futures really showed me that the thought behind market  strucutre changes ccan have downstream impliccations for ddecades to  come, legitimatley  shaping  society
 
 ### chacnged / neww identity  provider
 
