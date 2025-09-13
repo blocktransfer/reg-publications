@@ -396,7 +396,7 @@ Therefore, BlockTrans is not in compliance with Rule 17Ad-10(e) under the Exchan
 # II. Weaknesses in Internal Controls, Supervisory Procedures, and Operational
 Processes
 
-## A. Written Procedures
+~~## A. Written Procedures~~
 
 ### chacnged / neww identity  provider
 
@@ -423,9 +423,36 @@ Anti-Money Laundering (AML) Policy – BlockTrans’s AML Policy reflects the us
 
 
 
-### Cancellation and Destruction of Securities Certificates
+## OFAC Searches
 
-BlockTrans does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates. Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
+_DC_ form reposnsse 5  note 7 goal
+conflicts with ofac  snctioning an entire country
+
+
+
+
+
+
+
+
+
+
+C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
+
+BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
+
+_thye shoiuyd reach  out  dir_
+
+Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
+
+The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals (“SDNs”), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
+Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
+
+Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
+
+BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
+
+
 
 
 
@@ -664,7 +691,7 @@ interpretive proxy for specific programs
 
 
 
-## B. MSF Certificate Detail
+~~## B. MSF Certificate Detail~~
 
 In writing the prior subsubsection, I noticed a single-brick lego was  ajar on a Mellenium falcon model  in my office. I had a simialr exprience noticng  a single missing brick out of a dozen completed sets while in therapy  for cvonditions disussedd  in the email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET.  Mymind just notices all the little things in  systems, wanting everything in its place.
 
@@ -694,6 +721,19 @@ I jut don't see a good reason the world needs to run everything on their antiqua
 
 
 
+
+### Physical  Securities and Lifeccycle
+
+
+
+##### Cancellation and Destruction of Securities Certificates
+
+BlockTrans does not currently have written procedures pertaining to the cancellation and/or destruction of securities certificates. Rule 17Ad-19(b) under the Exchange Act requires every transfer agent involved in the handling, processing, or storage of securities certificates to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificate. While the Registrant’s business model focuses on uncertificated shares, the Agreement for Transfer Services between BlockTrans and Laylor, dated June 30, 2023, instructed investors to mail prior physical stock certificates to BlockTrans for destruction. Even though BlockTrans did not receive any securities certificates during the Staff’s review period, it should establish written procedures for the cancellation and/or destruction of securities certificates in accordance with the Rule in the event that it does receive them. 
+
+
+
+
+
 ### Securities  Cancellation Dates
 
 This information is required as part of the minimum certificate detail pursuant to Rule 17Ad-9(a) under the Exchange Act. Cancellation dates are reflected on the Stellar blockchain and for securityholders who opened Accounts/Wallets on Stellar (the “Stellar Accounts”) are readily obtainable. However, for those securityholders without Stellar Accounts whose shares are held in the “Distribution Account”, there is no clear audit trail that records the number of shares cancelled by securityholder or the date of cancellation. To obtain this information on a securityholder level, BlockTrans would have to review several sources to determine the number of shares cancelled and the cancel date.
@@ -717,40 +757,6 @@ subsubsec on legacy backups and ledger cachinege
 
 _See also_ re outstanding ledger state Horizon cript repo at https://github.com/blocktransfer/record-dates
 
-
-
-
-
-
-
-## OFAC Searches
-
-_DC_ form reposnsse 5  note 7 goal
-conflicts with ofac  snctioning an entire country
-
-
-
-
-
-
-
-
-
-
-C. U.S. Department of Treasury – Office of Foreign Assets Control (“OFAC”) –
-
-BlockTrans Does Not Maintain or Implement Written Procedures Related to Its OFAC Searches
-
-
-
-Every person or business in the U.S., including all securities transfer agents, must monitor transactions to blocked countries, and to certain identified individuals, by comparing and matching information against current lists (www.treas.gov/ofac) maintained by OFAC.
-
-The Staff’s review of BlockTrans’s procedures revealed that the Registrant does not address OFAC compliance. However, the Registrant verbally disclosed that it utilized the Persona platform for screening against OFAC’s list of specially designated nationals (“SDNs”), which was evidenced by adding a PSNA Reference within the securityholder’s PII. However, the Staff’s review of the output from the Legacy Database disclosed two securityholders, Investors C and D, whose PII did not include a PSNA Reference, indicating they had not been screened.
-Further, based on the Staff’s conversations with BlockTrans, it appears that these screenings were performed only at the time a securityholder was onboarded, rather than periodically which would be more prudent for a dynamic list like OFAC’s SDNs.
-
-Therefore, BlockTrans’ failure to maintain written procedures addressing OFAC regulations, and to conduct OFAC searches for these two securityholders is an internal control weakness.
-
-BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information to review its obligations underOFAC’s mandate and make any changes deemed by the Firm to be necessary for compliance.
 
 
 
