@@ -14,7 +14,6 @@ for the outstanding API modivfiicaiton and update for  legacy internal compariso
 
 a lot ot what Peirce is getting at, and wenee d to makeup political  goodwill from https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3A%22Pending+%F0%9F%92%9C%22&pane=issue&itemId=81176338
 
-[^pre-,arks]: Written prepratory mare
 
 
 
@@ -175,7 +174,7 @@ in _The Psychology of Money_ by Morgan Housel:
 i mena theres som more too it but it's a nice sentiment laying out for the stretch 
 
 
-
+also have tar note 135
 
 
 _See also_ mateirla community insights backing up TAR § V ¶4 at https://x.com/6days1week/status/1930270725119615240
@@ -613,6 +612,7 @@ I prefer public blockchains which, in their own continuing operations, prove the
 
 ASs  laid out in the TAR letter § II.B, DA prposes for the irst time to lower trading  costs byh interleaving margin between participants' CCP accounts. Regarless of trading  venue employed, my  interpertation of the SRO rule changes to date reads  that the industry will afford huge implmentation leeway  to the already-mighty DTCC. Any mishandling has been scoped  as catostophic by Commissioner Peirce in TAR  letter n.21, todo
 
+given ii.b.1
 
 
 
@@ -639,7 +639,7 @@ ASs  laid out in the TAR letter § II.B, DA prposes for the irst time to lower t
 
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
-
+https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
 
 
 
@@ -666,39 +666,24 @@ interpretive proxy for specific programs
 
 ## B. MSF Certificate Detail
 
-missing brick on the Falcon - millenium out of  place  
-aps  disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
+In writing the prior subsubsection, I noticed a single-brick lego was  ajar on a Mellenium falcon model  in my office. I had a simialr exprience noticng  a single missing brick out of a dozen completed sets while in therapy  for cvonditions disussedd  in the email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET.  Mymind just notices all the little things in  systems, wanting everything in its place.
 
+This drive led me to begin all this work because I just don't stand the cclear flaws in legacy clearing / Over  time, this expanded  to  almost all legaccy financciaa lsystems ands I felt the painful innefficiny  again andd again,  before mucch of my bsuiness access was simlpy revoked. IN preparing for the event in {{{{{{Todo: supora.infr idkfk for the discussion/46  Vegas href}}}}}},  I remarked  to  my Dad  frustrations over  ABS offerings bedcaause of thsi same inability to proccess without fixing mistkaes.[^pre-,arks]
 
-
-
-
-
-
-IN preparing for the event in {{{{{{Todo: supora.infr idkfk for the discussion/46  Vegas href}}}}}},  I remarked  to  my Dad  frustrations over  ABS offerings.[^pre-,arks]
-
-**not making sense centralization
-
-
-
-sbwhy things need to only be o n their rails 
-
-
-
-
-
-
-core objective to  facilitate ddecentrlaied exhcange  is PREV  § II.B.2.
+I jut  disagree with large swaths of their business pracctices, and so I decided to find technolgoies that let the market  obviate their roles. Genslar jokes  about how you'd need to reingeer the whole market system to truly implement blockchain  , in hsi first MIT OpenCoursware cclasss. I've refrncedthat so many times in DUNA disucssions becuase I heard  those words and just spent years looking into the "why not" side
 
 
 
 <img width="560" alt="test-rigging" src="imgs/first-release.png">
 
+I jut don't see a good reason the world needs to run everything on their antiquated railroad,  os to speak. And that's hwy I laid out these primative controls for a machine I will endavor to its limits while growing towardss my core objective to  facilitate ddecentrlaied exhcange  is PREV  § II.B.2. It will take much practice to geet steering the different  aspects down perfect, whuch is why I appreciate your help.
 
 
 
 
 
+
+[^pre-,arks]: In my  fourth year attending comprehensive p anels andd spekaing on tokenization, I'd still nto fulyl understood  the ooperating principles that allowed sustainbale long-term nonpredatoryt dealflow. I've come  ot the ocnlusioon  examning market plumbing that, whenever  things don't make sense to me, its proabbyl  becuase they are very ccentralized andd carry a corresponding level of opbfuscation. Even in drawfting  my written prepratory remareks, I knew I count's make it to  the moot ppoihnt in note 1 regarding decentralized communal efforts because of the clear expensive frim-sp[onsored tickets attendees all had around their necks, _available at_ https://github.com/users/JFWooten4/projects/1/views/1?pane=issue&itemId=81176338. The thing that really ets me on beuorcratic politcking calls with panelists preparing over the years was how I could pbring a point up like the signifcance of community friendship, have everyone niod their heads in agreement on needed collaboration items, an then never mention it gain.
 
 
 
@@ -1014,7 +999,7 @@ https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
-Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^
+Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.9
 
 and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
 

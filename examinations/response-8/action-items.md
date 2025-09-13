@@ -1,2 +1,3 @@
-- Sample data  for testnet `DEMO`
-- Reach  out to  Joe  for  utility
+- Sample data plus testnet `DEMO`
+- Reach out to Joe for utility
+- Resp. 7 lessons --> TAD3 `TIPS`
