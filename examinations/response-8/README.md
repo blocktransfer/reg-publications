@@ -11,6 +11,15 @@ for the outstanding API modivfiicaiton and update for  legacy internal compariso
 
 ### {{NAME}}  gameplan
 
+
+a lot ot what Peirce is getting at, and wenee d to makeup political  goodwill from https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3A%22Pending+%F0%9F%92%9C%22&pane=issue&itemId=81176338
+
+[^pre-,arks]: Written prepratory mare
+
+
+
+
+
 we can intro as basis for more indsitutional instrets
 
 DAO  Vvote  appriving  as of  — 07-Jan-25 11:31 AM
@@ -510,7 +519,7 @@ _See_ _supra_ note [^totla-ccontrol]
 
 
 
-##### SCI and Cybersecutity Protections
+###### SCI and Cybersecutity Protections
 
 When I toured Geoprgia Tech in high school, thje student guide made  great efforts  to point out hte Klaus Advanced Computing Building, one of the  more striking buildigs o n ccampuswhere I  attended  many graduate  cryptogrpahy classes.  chris Klaus also happened to  be a  leading donor proponent of CREATE-X,  the  euntrperneeur incubation and promotion program discussed in our first two meetings.[^createx] The guidde tol us about how Klaus dropped out to persue his cybersecurity  startup, which sold  to IBM for over $2,000,000,000.[^inflation]
 
@@ -595,29 +604,14 @@ NASA paid th e xorbitatnt rate because there weren't modern decentralized open0s
 ###### Alternate Trading Venue Problemsd
 
 
-Lastly, the dropped rulemaking dismissed the 2022 amendments to the definition of an exchange, as was so famously subject to comment by the crypto industry.[^pierce] I care  most intimately about the qualiryt of excchange infrasture in the public  markets, bassed on the immense transaction costs Wall Street's taken from me and my mfamily over and over again.[^enda-sewlf] While such a large market-structure change should not be tucked away in a proposal for Treasuries, the fact remains that proponents of central exchanges can view some blockchain systems as silos of liquidity devoid of protection  given inagural implementations which skirted the line between centrally-cntrolled d unregulated exchanges.[^venue-prot] 
+Lastly, the dropped rulemaking dismissed the 2022 amendments to the definition of an exchange, as was so famously subject to comment by the crypto industry.[^Peirce] I care  most intimately about the qualiryt of excchange infrasture in the public  markets, bassed on the immense transaction costs Wall Street's taken from me and my mfamily over and over again.[^enda-sewlf] While such a large market-structure change should not be tucked away in a proposal for Treasuries, the fact remains that proponents of central exchanges can view some blockchain systems as silos of liquidity devoid of protection  given inagural implementations which skirted the line between centrally-cntrolled d unregulated exchanges.[^venue-prot] 
 
 In years of exploration into ATS regulations, history, and operations, much of my interpretation came from a brief email exchange with Anthony Weeresinghe about one year before the Commission brought action against Ustocktrade. In just a brief rejection of bona fide help to our college Design team, thousands of pages of legislative history crystallized into my view understanding these broker-dealers as relentlessly self-interested firms with profits solely derived through intermediating trade.[^fine-fn] Comparatively, my constituents use blockchain market-makers for exemplary fraud investigations using nothing more than block explorers thanks to the public transparency afforded by distributed ledgers using legitimate consensus, a form of indepdenndet decentralized stability not afforded to shahreolders transsacting on central servers.
 
 
-I prefer public blockchains which, in their own continuing operations, prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune. As laid out in the TAR letter n.149, I've seen  this ethods direcltry imrpove our own udnerslying infrastrucure, and I I kknow that we  cna  get the rollout o DDEXes right  over time.  
+I prefer public blockchains which, in their own continuing operations, prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune. As laid out in the TAR letter n.149, I've seen  this ethods direcltry imrpove our own udnerslying infrastrucure, and I I kknow that we  cna  get the rollout o DDEXes right  over time. That's why I''m so concerned over the hastley rollout of DA without due consideration of  its real market-structure and stability risls.
 
-
-missing brick on the Falcon - millenium out of  place  
-aps  disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
-
-
-
-
-
-
-
-IN preparing for the event in {{{{{{Todo: supora.infr idkfk for the discussion/46  Vegas href}}}}}},  I remarked  to  my Dad  frustrations over  ABS offerings.[^pre-,arks]
-
-
-a lot ot what pierce is getting at, and wenee d to makeup political  goodwill from 
-
-[^pre-,arks]: Written prepratory mare
+ASs  laid out in the TAR letter § II.B, DA prposes for the irst time to lower trading  costs byh interleaving margin between participants' CCP accounts. Regarless of trading  venue employed, my  interpertation of the SRO rule changes to date reads  that the industry will afford huge implmentation leeway  to the already-mighty DTCC. Any mishandling has been scoped  as catostophic by Commissioner Peirce in TAR  letter n.21, todo
 
 
 
@@ -626,14 +620,12 @@ a lot ot what pierce is getting at, and wenee d to makeup political  goodwill fr
 
 [^fine-fn]:  _See_ suit  intiaed by the  cCommission  after the treading platform ceased operations and withdrew registration  at ¶  13 of the settled ccase, _available at_ https://www.sec.gov/files/litigation/complaints/2023/comp25799.pdf. My outreach  wqas within a month of October based on memory, placing  it almost  exactly around  the  collapse of the trading firm. Despite thiss abject failure , the founder requested $1,000  from our student  group just to chat about running a purportedly retail-first  and charitable  venue.  I've found that the exchcange managers use witheld information asx  their  chiegf  tool for m isguidding public interest  ffrom the nature  of their central control, as exemplified _infra_ note {{TODO or  supra  lol.... the WSHYDRS At VEGAS discussion}}  earleier this year in a lunchtime chat with a  data sales e xxecutive  at the  LSE who kept tight-lipped on clikentelle, communciations, and  form in b usinesss preactives to the point htat  I honeslt ygot a headache speaking with their colegeuees.
 
-[^pierce]: _See_ orginal dissenting statment from Commissioner Pierce disdaining "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
-, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Pierce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
+[^Peirce]: _See_ orginal dissenting statment from Commissioner Peirce disdaining "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
+, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Peirce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
 , _available at_ https://youtu.be/kl7omhTtERE?t=1427.
 
 [^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  Response  6  § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
 
-
-i w ant the parallel pritkotitons point hit aHARD here because  we h ave IMMEDSIATE setujp
 
 
 
@@ -658,35 +650,62 @@ n
 Department of Government Efficiency cuts
 ^ sole regernce, only aded with a fn
 
-proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
-^^ATSNN^^
+`parallle/side markets`
+
 
 offer through  a decentralized frmaework  for  decentralized market
 
 purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
 
-while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
 
-
-
-
----
-
-
-> The S-P and SCI points are really material because their using "safehandling" as an interpretive proxy for specific programs
-— https://github.com/JFWooten4/agenda/issues/15#issuecomment-3239149051
-
+interpretive proxy for specific programs
 
 
 
 
 
 ## B. MSF Certificate Detail
+
+missing brick on the Falcon - millenium out of  place  
+aps  disussion in email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET
+
+
+
+
+
+
+
+IN preparing for the event in {{{{{{Todo: supora.infr idkfk for the discussion/46  Vegas href}}}}}},  I remarked  to  my Dad  frustrations over  ABS offerings.[^pre-,arks]
+
+**not making sense centralization
+
+
+
+sbwhy things need to only be o n their rails 
+
+
+
+
+
+
 core objective to  facilitate ddecentrlaied exhcange  is PREV  § II.B.2.
 
 
 
 <img width="560" alt="test-rigging" src="imgs/first-release.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
