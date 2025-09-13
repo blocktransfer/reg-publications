@@ -11,6 +11,14 @@ for the outstanding API modivfiicaiton and update for  legacy internal compariso
 
 ### {{NAME}}  gameplan
 
+
+a lot ot what Peirce is getting at, and wenee d to makeup political  goodwill from https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3A%22Pending+%F0%9F%92%9C%22&pane=issue&itemId=81176338
+
+
+
+
+
+
 we can intro as basis for more indsitutional instrets
 
 DAO  Vvote  appriving  as of  — 07-Jan-25 11:31 AM
@@ -74,9 +82,11 @@ basis
 #$  Ex. 1,  a exhange with webb🤝a.cvoim link form , _available at_ 
 
 ### FAC statutory basis (exemplifiexi n the iran implications  of OFACV)
-15 U.S.C. § 78q-1(f)
+15 U.S.C. § 78q-1 (the "NMS Statute")
+subsection (f)
 
-
+Federal Advisory  Committee ("FAC")
+ which  ma y be at any "such times[] as the Commission may determine"  in (f)(4)
 
 I wnant _singular mention_ of "covered securities"
 
@@ -164,7 +174,7 @@ in _The Psychology of Money_ by Morgan Housel:
 i mena theres som more too it but it's a nice sentiment laying out for the stretch 
 
 
-
+also have tar note 135
 
 
 _See also_ mateirla community insights backing up TAR § V ¶4 at https://x.com/6days1week/status/1930270725119615240
@@ -356,7 +366,7 @@ Pursuant to Rule 17Ad-10(a)(2)(i) under the Exchange Act, recordkeeping transfer
 In addition, the Staff’s review of the information maintained on the Legacy Database for Investor A disclosed that the data populating the “from” column (column J) reflected the Memo (HASH) from the transaction issuing another investor’s 300,000 shares. As a result, it appears that this data was mistakenly linked to Investor A’s certificate detail.[^2]
 
 [^2]: subsubsection with start of issue auth convo...]
-
+for excel _See_ TAR n.45
 
 
 2. First Last (“Investor B”): This securityholder’s 1 million shares were revoked/cancelled on December 8, 2023, as a result of the clawback by the issuer. The shares were subsequently re-issued to Investor B pursuant to an email authorization from Laylor to BlockTrans on February 26, 2024. However, the Staff’s review of the information maintained on the Legacy Database for Investor B disclosed that the issue date (“aqAt”), reflected in “holdings” column (column k) corresponded to the original establishment of the cancelled position on September 11, 2023, not February 26, 2024 (authorization date) or March 21, 2024 (date of transaction on the Stellar blockchain)[^3]
@@ -453,7 +463,7 @@ if "Gary Gensler, Clearinghouses Are the Answer", WALL ST. J. (Apr. 21, 2010) th
 
 ### Handling MailSecurities) 
 
-The Staff’s discussions with BlockTransdisclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
+The Staff’s discussions with BlockTrans disclosed that it currently uses PhysicalAddress for receipt and handling of its mail. PhysicalAddress scans envelopes received at the 99 Wall Street address for the Registrant and posts them on its platform for review by BlockTrans. The Registrant will then instruct PhysicalAddress on how to handle the item (i.e., forward, open/scan to pdf, or shred). However, BlockTrans has not established written procedures to define what category/type of mail should receive which treatment.
 
 Rule 17Ad-12(a) under the Exchange Act states that any registered transfer agent that hascustody or possession of any funds or securities related to its transfer agent activities shall assure that (1) all such securities are held in safekeeping and handled, in light of all facts and circumstances, in a manner reasonably free from risk of theft, loss or destruction. As noted above, securityholders had been instructed to mail physical stock certificates to BlockTrans.
 
@@ -462,38 +472,226 @@ Although the Registrant has not received any physical certificates at the 99 Wal
 
 
 
+(start subsubsection  on cert  policing)
+
+
 #### Extendign Safeguarding  Interpretive proxy
 
-Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under EO 14192, as the XYZ_EXISTINGLAW_POLITICS
+Firstr o f all,  I would like to commend the Commission for bringing transfer agentr regualtions back onto the proposed-rule  stage earlier this moonth.[^rin] I partiucally appreciate how this is the only one of  23  agency  rules with an regualtory classification under E.O. 14192. If I might say so, transfer agents offer the perfect outdated regulatory regime to update with the leeway given  by any defregulations.
 
-we  havce now  a complex override  of a lot including Reg SCI changes "SEC emphasized that as market structure evolved, systemic risk also extended beyond traditional exchanges and clearing agencies."
-and  then droopping TA  cybersecuriyty  *and*  Amendments Regarding the Definition of “Exchange” and Alternative Trading Systems(ATSs) That Trade U.S. Treasury and Agency Securities, National Market System (NMS) Stocks,and Other Securitie as cited in File No. S7-02-22[^pierce]
-n https://www.sec.gov/files/rules/final/2025/33-11377.pdf
+NAmely, in jsut a few monhtss we'll reach the ten-year annivaersary of staff  contemplations of TA market structure in S7-27-15.  In this time, the monoply  concerns raised about DTCC  have only strengthened as  they  rollout an industry-encompassing[^totla-ccontrol] ssystem  designed  to encompass all U.S. assets.[^pprev-psure] Unlike other Proposed urlemaking, 3235-AL55 has a single congressional authority.[^dtmnd]
 
-2023 proposed amendments to Reg SCI would not have applied to transfer agents
+I  find this single public-policy  rrpecedence Judiciously relevant  on  the basis of limited past TA operational controls , especialyl  those droppped from June 12th's "regulatyr reset."[^rr-osc] fro time, I'll elaborate on two of  the policy choices impliccated in meeting remarks over ta ijtnenral protections. In contemplating these ideas, I have  to  ask myself, :"might clear, public rules on GitHub Solicit trust?"
+
+
+
+
+
+proponenets o f DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+while  supporting, endorsing, and integrating  DTCC-DA's central  control 
+_See_ _supra_ note [^totla-ccontrol]
+
+
+
+
 
 
 [^rin]: _See_ statmenet  on the o ublic release  pof tSpring's regulatory  fglexability agenda  from Chair Atkins earlier this month, _available at_ https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425.  The agenda item in RIN 3235-AL55 offers a uniqeu opporruntiy for "simplifying pathways for raising capital and investor access to private businesses." I sincerely  appreciate its reitroduction and agree with all processing designations elected brilliantly.
 
-[^pierce]: _See_ Pierce statment "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
-, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126
-Profitt story at  https://lnns.co/rswev9D3A1n/4848  <!-- TAR letter note 119 -->
-I want an Id. taking a direct shot at https://github.com/airswap/airswap-protocols
-No public order book or matching engine
-_See_ point form https://show.zohopublic.com/publish/vhrhy728cf0f0e5c4421aabd23755fb61eed3
+[^totla-ccontrol]: I commented extensively on the horendous unilateral authority implicit in the design of DTCC Digital Assets ("DA"), _available at_ https://lnns.co/O8NUZfc1KGe. _See also_ blog post published the day Dave reahed out to begin the  examination process, subtitled with  a  critiqe  on "keeping control centralized" in whaat the title purports is aa master plan for unchecked power, _available at_ https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover.  THe author repsondds to a patent application from DTCC which substantially mimics my own, albeit with mucch less public transprency. Should we really alow complex widespread rollout for dozens of untested proprietary conteracts without a mucch as even an Advanced Notice?
+
+[^pprev-psure]: _See_ DA's  encompasssing grasp opn financial  instutions and investable  assets  in the TAR letter at § II.D.1 ¶¶ 8, 13, and 16–18. Should we  contnue handing American savings andd retirments i nto the opaque custody of an  entity which is alreaddy  too big to fail ? Suuch view was explicitly  eloquated by the author of the patent in coprated by refernce in  _Id._ _See, e.g,_ substantiated professionals supporting critiqes of singular custody nomiinees with both industry and academic evidence  pointing to yet anther  public bailout in TAR letter nn. 51, 106, and 143–145.
+
+
+[^dtmnd]: At  least  for  proposed items with a defined legal authortity  from _supra_ note {{^rin}}, with one important safe-harbor  consideration citing basis in 57 rules. _See also_ the specific trasnsf-eragnet  item, _available at_ https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AL55. With legislative standing frp,m the NMS Statute, might  we have a  greater burnedon of investigation than standard notice and commenting? Again, subparagraph (f)(2)(A)(ii) spells out hte need  for enhanced FAC review "in the absence of a uniform rule" for saafety.;
+
+
+
+[^rr-osc]: This has b een one colloquial refernce  ot the 14 dropped rule changes within online p rofessional circles, refering the derefulatory staff actions at, _available at_ https://www.sec.gov/files/rules/final/2025/33-11377.pdf. _See also generally_ Commissioner Atkin's remarks  that this _is_ (*emphasis orginally thoughp9tu publications) a new day at the agency, wwhich is  great. I'll keep this citation short to keep focus  on  the direct  action changes above,  which  stouched some very significant policy items from the klast  Administration. Extraordinary  cmmitment to free markets.
+
+
+
+
+
+###### SCI and Cybersecutity Protections
+
+When I toured Geoprgia Tech in high school, thje student guide made  great efforts  to point out hte Klaus Advanced Computing Building, one of the  more striking buildigs o n ccampuswhere I  attended  many graduate  cryptogrpahy classes.  chris Klaus also happened to  be a  leading donor proponent of CREATE-X,  the  euntrperneeur incubation and promotion program discussed in our first two meetings.[^createx] The guidde tol us about how Klaus dropped out to persue his cybersecurity  startup, which sold  to IBM for over $2,000,000,000.[^inflation]
+
+In my  early-action appliation top Tech, I explicitly mentioned the program in terms of my first blockchain startup, mMMonerAds.[^man-relevance] Uponadmission , i applied  to the submmer  profram freshman year. However, I was told after pitching a penale on my ideas that I could not joing wihtout a cofounder.
+
+This began years of wresting with otheer peoples' vision  for how I should run a transgfer agency,[^notad]  since  "most  startups fail without a cofounder."[^apprx]  Whiel I apprecciate thos entiments, I found the discipline to  patiently wait for the right opportunity in  the unforgiving Indifferencce of market quiet. This approach paidd off four  yeras later when I encountered the excpetional partner cited in PREV  § III.
+
+ONe year after m ,eeting Jerry in _supra_ note {{notad}}, he began teaching graduate cyberseucrty  classes. They introduced me  to the  immense centralized  risks  of concerntring market PII and MNPI ,[^intro-frens] exmeplified  in Ex . 8.8,  a report  on the Equifax data breach. Throughout the semester, we'd walk after lecturees disucssing market  structure and contemplateions on ssecuring a self-custody blockchain TAD.
+
+
+[^createx]: THe program itemslf acted as a typical startup  incubator  with experienced  indsutry mentors. To  the  extent it relates  to t his Exma,  it  included the oipportunity to contnually  pitch investors. While  I alwyas new  the  shares would need to reside in a nonprofit, I played along with these charades. This experiinec gave me respect  for small-business cpaital formatioon, as Donna commented on July 15th.
+
+
+[^inflation]: Inn 2025  dollars.
+
+
+[^man-relevance]: I cited these years ofexperience in our first meeting as background for the remote-dirst organizatioonal design which I understand to  best efficiently  orgnazie a free-software working community.  I find relevant  the publis Secretarof-of-State filings ;'s privacy reldactions and inclusions, _available at_ https://www.sosnc.gov/online_services/search/Business_Registration_profile/14324280. North  Caolrina follows's the  commission's policy of censoring emails while publishing full physical addresses and  phgone numbers. However, I disagree with their requirmenet of a "principal opffice" which was my parent's house asnd, in the Articles  avaliable under "View  Filings"  with No. C201815700063, the fmaily  residence of a friend.
+
+[^notad]: Nobody understood what a TAD was, and  it was too  mcuh  effort with the scarse public documentation back  then  to  satisfactory  convince them of  the need  for such  a new  system. Namely, I was  bafflingly unfamiliar with the TAR letter'ss PCO event, despite an explicit suprise reference thereto in a school pitch competition touted by the tour  guide which immedeiatyley  intreuiged me, _available at_ https://youtu.be/S75IvkicWD8. THe m onths of pitching prepration for this show introduced me to valuable earl yonnections, many o f whom are in the exmaple shareholder ledger prop, _available at_ https://docs.google.com/spreadsheets/d/1FgBoJeKZ_EPy8Dlwd4dARyRCniqcET0VR1IDkrx4kKY/pub. one  paritcualtlryu relevant judge fdrom  early  pitch-practice and  application sessions was Jerry {Perullo, the ICE CISO for two decaddes quotesd  in  the EDGAR comment at 21.
+
+[^apprx]: Approximate paraphrase  of  the repeated statistics I heard regaurding  failed solo foudners.  Ex. 8.7 is a reponse to this critique drafted at the end of 2019 and submitted to the comittee early  in 2020 to finalize my rejected iingagural application. This ultimately let me move on from a venture which  was frnakly harmful to the environment and consumer technology, as I had practically came  to recognize  mby the later stages of the  applciatin process.  THerafter, I published my thesxis and, within a year pushign through COVId hardships, incorpoated the early-fform Registrant. 
+
+
+
+[^intro-frens]: These two  fdeadly  acronyms have  been tmy  top concenrns  in open0-sourcing  Syndicate  ifnrastructure  over the last years. I  found  in early  development  efforts  details  _infra_ § {{TODO:team section number}}  that it can be challenging  to  extensively test interface deplyoments without established and volumnous sample data.  This is why  I issued  teh DEMO asset from the Syndicate's mainnet account, facilitating early code sprints.  I plan to overccome this  challenge  with  future  testneet integrations and faker users.
+
+
+###### Exchange Software LIcenccing Decision
+
+The reform  agenda  changes dropped rulemaking propsing new cyberseucity o versights  for trasnfer agents and an expansion of Regulation SCI to  systemic infrastrucure in clduing swaps dat arepositories. LArge b rokers (including those rtunning an ATS) and the uncovered clearing agencies are the backbone of markets, making up the critical NSCC participant-base.  Staff identied  this and sought to  regulate awayt risks.
+
+> [C]losed-source software is just awful, riddled with bugs. It would not stand a day if it was open and bug-bountied, but it has the advantage that no one's looking. And I'm saying that because, if it's open-source, people find the bugs immediately, and people even fix the bugs immediately and it moves a lot faster.
+>
+> [C]losed-source software is just kind of living a lie with its head in the sand.
+
+
+IO share this uqote  from Jerry[^aadversarial] befcause I eblievve wholehearely that we can achieve the due andnecccesary increased cyber protections Americans more effiociently wirh the  poen-soyece principles shared regaiirding  an  investor identity verification software. I  have adopted these working principles in all that  I do, as shown for  exmaple  by  the crafting of this entire response on Github, _available at_ https://github.com/blocktransfer/SEC-publications. Might a recognition of this  differentiate working path help us preventn catastrophies like the eight0figure Russian MNPI hack fromm EDGAR  letter  § B.1.a?
+
+
+<img width="600" alt="exchange-types" src="imgs/software-license.png">
+
+What I'm getting at has been deeply intertwiend with my Examnication resposnes since citing community sentiments in Resposnse  3  note  11. It's a decisiokn  to decentralize  control  and economic benefit from a select  corporation or association  of intermediates,  in  gfavcor  to investor quality. We gface a  paramount decision as  to  the  Commission's  immediate  resposne  to DA's "tokenized  securtities,"  dframed within out circles[^bob-meme]  as very distinct paths for investors and the future of law.
+
+
+
+
+
+[^aadversarial]: _See_ rountbale disussion withh vwterab ccybersecurity executivies acting in c-suite roles largely  involved  in financial  services  or  data lakes, _available at_ https://adversarial.com/blog/the-adversarial-podcast-ep-8-pagers-and-supply-chain-attacks-github-stealers-founder-mode.  At 48:21, Jerry  summarizes  a shared, agreed perspective  that open  tools have historically  proved  more reseliant,  secure, and trusted than the proprioetary infrastructe  of central actors presently  encompassed  by enhanced Commission tehcnological oversight.   I;ve shared the podcast with technically-inclined community memebrs as great  permissionless education . We can do it.
+
+[^bob-meme]: _See_ bottom image comparing finanical infrastructure  to  railroad  tracks, with DTCC on a very different path than certain public blokchain syustems which inmpklcitly  facilitate peer-to-peer trade through a layer-one decentralized protocol.  THe  posts responds to reamrks regarding the funciton of markets to serve socierty  by driving innovation and  prosperioty, a key  objective of all  my  work  given the tendancy fo public  companies running exchanges to prioritize theri bhistghest-frequency customers, who have the least to do with the efficient formation of capital supporting the rise of business and employment for masses of Americans.  WE can't let Wall Street dictate  our lives because their forefathers  laid yesteryear's iron tracks. What if we all had equal access to the market for capital at a local level?
+
+
+
+
+
+###### Proprietary Verses Individual Custody
+
+Durngt he summer we registed withthe Commission, Klaus and their team told us about their experiences and cpitall. After denying a n offer to invest in the FFirm, klaus explained an enterprise internet-sale  to NASA. The company convinced the agency to purchase their cyberpseccurityy spftware/, and Klaus was just about to walk into the closing room to snegotiating a gee to outfit protection on all their computers.
+
+Given the novelty  of port protection in the early 2000s., A mentor told him to ask for ten times whatever he would charge. i see our markets in a simialr sstate today, where the backend systems can extract as much rent as spreads statutoritly  allow. with no alternative  ott he leveraged central clearing rail, investors must give  up direct ownership no matterr the  cosst just to trade atall
+
+We onyl  had so muh past technology to deal with The flaws of central  closed instuttiional registration.[^paperowrk-crisis] As society  forced costs down  through  infrastrucutre innovation, we unntentionaly centralized legal registers into a single electronc record, akin to a select compoerx service vendor.[^mom-fidl] But today Wall Street sells a product trivially replced by  distriubtedlrdgers for free.
+
+NASA paid th e xorbitatnt rate because there weren't modern decentralized open0sourced  solutions  putting everyone on the same playing field, just as most investors  hadnd untold billions into plumbing enabled by indirect beneficial ownership. In reflectig on CISO reference materials and observation of managed cyber platforms'  growht,[^awscollege] I've concluded the most efficent  systems allows the flexability of decen talized  open  implementaions  with imrpovements  returned to the shared project l.[^agpl-setns] I want to bring this decentralized  self-custod y  ethos  from  indepndent code ownership into the market with a DEX.
+
+
+
+
+[^paperowrk-crisis]: _See_ study  commintcated from the  Commission  to Congress  two  years before DTC's formation, examinging ddecades-long  sturcutral changes  to teh capital markets, _available at_ https://www.sechistorical.org/collection/papers/1970/1971_0310_SECInstitutionalInvestor_01.pdf. Extensive staff research  form Chapter I to II find insitutional ownership soared as concentrated custodians "ncreased their share of total stock outstanding from less than 7 percent to approximately 19 percent" in  the lead-ip to the Paperwork Crisis. This coincides with Commission  requests for the dominant exchasnge relinquishing mandated trading fees at 9, bringing  free-market cost  to  block trades for the first  time  since the brokers' 1972 oligopoly agreement. Do we have enough mass-market participants again?
+
+
+[^mom-fidl]: For isntnace,  my Mom held dirctly-regfistered hares of Merk for ddecades, participating in their dividend reinvestment Plan. Reviewing TA statemments  for her position revealed histoirc  fees in lei of compounding investments which inspired early contrmplations on investor pricing, _available at_ https://github.com/JFWooten4/DRIP-fee-impact. Hisotriccally, even these costly  charges uncdercut top brokkerage rates; but, as staff know,, competative changes mmoved the industry  to profits from custody, routing, and lending. This grab for all possibvle ccollateral led my Mom's broker to call her requesting she deposit  her share swith them for "safekeeping and consolidation" in  a single account without legal control in insolvency, as freely  admitted by CCP proponents when testifieying on   perfected interests.
+
+
+[^awscollege]: _See, e.g.,_ disucssion over proporietary  security  services diuscoivered  through AWS startup program offering a central hosting solution akin  to contituent  software polatforms,, _available at_ https://zopen.to/K8CAHO5DfzKCt1eNINvS. Thisa devleopkemtn approach moimics initial staff impresions of TAD3 from the  first meeting, which  I understand as consistentg of a system deployed complemtelt yu over a service provider with control of data/. As we see with questionable  FTD data  rom the TAR  letter  nn. 11,  34–35, and text aqaccompnaying 32; such ce tralizty  rarely wokrs in the long-run. Even Jerry replies with enohgh caution to "definitely steer clear so there is no chance they think I grabbed their idea" given the natural uneccesary copetition between similar fundmanetal established ingrastructure.
+
+
+[^agpl-setns]: This is precisely  what I've  been  getting at with  the relentless  citation a nd use  of the Affero GPL, an established standard  for  interoprerable dervitive  software system improvmenets. It  takes what might  start  as  a  centralized p roejct  and allows the communtiy  to  expand  funcitonality  bgasedo mn their own pproved needs as  they use a  system. After deep exokoiration of distirbuted projects for months leading up to  PREV n.20 link 1,a timeline communicated in our first meeting, I came ot the conclusion  that this licensing  approach  may  well be the o ly means  to maintain shared infrastructure  for decades with  the public trasnprency enccerasry for market functiojnality. At least without the token incentives  of cryptonetworks iwth  consensus mechisms  which have all total value sa systemic insurance.
+
+
+
+###### Alternate Trading Venue Problemsd
+
+
+Lastly, the dropped rulemaking dismissed the 2022 amendments to the definition of an exchange, as was so famously subject to comment by the crypto industry.[^Peirce] I care  most intimately about the qualiryt of excchange infrasture in the public  markets, bassed on the immense transaction costs Wall Street's taken from me and my mfamily over and over again.[^enda-sewlf] While such a large market-structure change should not be tucked away in a proposal for Treasuries, the fact remains that proponents of central exchanges can view some blockchain systems as silos of liquidity devoid of protection  given inagural implementations which skirted the line between centrally-cntrolled d unregulated exchanges.[^venue-prot] 
+
+In years of exploration into ATS regulations, history, and operations, much of my interpretation came from a brief email exchange with Anthony Weeresinghe about one year before the Commission brought action against Ustocktrade. In just a brief rejection of bona fide help to our college Design team, thousands of pages of legislative history crystallized into my view understanding these broker-dealers as relentlessly self-interested firms with profits solely derived through intermediating trade.[^fine-fn] Comparatively, my constituents use blockchain market-makers for exemplary fraud investigations using nothing more than block explorers thanks to the public transparency afforded by distributed ledgers using legitimate consensus, a form of indepdenndet decentralized stability not afforded to shahreolders transsacting on central servers.
+
+
+I prefer public blockchains which, in their own continuing operations, prove themselves as secure with no need for central attestation based on proprietary principles, as adopted in an ecosystem mantra that Bitcoin is the world's largest bug bounty since any vulnerabilities can make you a fortune. As laid out in the TAR letter n.149, I've seen  this ethods direcltry imrpove our own udnerslying infrastrucure, and I I kknow that we  cna  get the rollout o DDEXes right  over time. That's why I''m so concerned over the hastley rollout of DA without due consideration of  its real market-structure and stability risls.
+
+ASs  laid out in the TAR letter § II.B, DA prposes for the irst time to lower trading  costs byh interleaving margin between participants' CCP accounts. Regarless of trading  venue employed, my  interpertation of the SRO rule changes to date reads  that the industry will afford huge implmentation leeway  to the already-mighty DTCC. Any mishandling has been scoped  as catostophic by Commissioner Peirce in TAR  letter n.21, todo
+
+given ii.b.1
+
+
+
+[^enda-sewlf]: I na  last-ditch effort ot buy part of Block Transfr at the end of the program "demo day," Klaus directly ogfered "any help I may need" under the clear and later-verified implication of direcyt economic benefit, a tradeoff I find unnaceptable vassed  on perosnal sentiments well explained in TAR letter n.175  en t oto. He miught have gotten exactly what he asked NASA fr given  a lack of alternatives, just as  brokers hold  unchallenged keys to  access the legacy exchange infrastrure build on centrlized, closed custody chains. But I do not believe  arjkets need profit-seeking intermediaries that squeeze every possible micro-cent  out of cxollective sacings and retirments. I ssee outr best opporuntiy  for sustainable efficient markets in nonprofit infrastrue designed with investor priotections and capital formation abovve and beyond limited c04[porate shareholder-value  interests, becuase certain natural monpoiplies just  don't intergrate well with default capitalist cgovenrnace  with so mucch at stake.
+
+[^fine-fn]:  _See_ suit  intiaed by the  cCommission  after the treading platform ceased operations and withdrew registration  at ¶  13 of the settled ccase, _available at_ https://www.sec.gov/files/litigation/complaints/2023/comp25799.pdf. My outreach  wqas within a month of October based on memory, placing  it almost  exactly around  the  collapse of the trading firm. Despite thiss abject failure , the founder requested $1,000  from our student  group just to chat about running a purportedly retail-first  and charitable  venue.  I've found that the exchcange managers use witheld information asx  their  chiegf  tool for m isguidding public interest  ffrom the nature  of their central control, as exemplified _infra_ note {{TODO or  supra  lol.... the WSHYDRS At VEGAS discussion}}  earleier this year in a lunchtime chat with a  data sales e xxecutive  at the  LSE who kept tight-lipped on clikentelle, communciations, and  form in b usinesss preactives to the point htat  I honeslt ygot a headache speaking with their colegeuees.
+
+[^Peirce]: _See_ orginal dissenting statment from Commissioner Peirce disdaining "an expansion in the definition of exchange that would apply to any trading venue, including so-called communication protocol systems, for any type of security,"
+, _available at_  https://www.sec.gov/newsroom/speeches-statements/peirce-ats-20220126. The removal of this  consideration had indsutry-chaneging agfferts for  the tntity  incorpated in the TAR letter n.119's cacccoimnoapy h text, which I brou ght up in our third meeting as a current context  for discussion  of DEX  regualtory principles. THe Staff did an exccellent job guiding my thoughts,,m  notivated by expriences i n the seccond footnote  link,  motre thorougly ddisused  with the  community on out pofact, _available at_ https://lnns.co/rswev9D3A1n/4848. I sincerely  apprecaite d Commissioner  Peirce's hihglihgt  of EtherDelta's settled enforcment  action in menaingful  public forum as a great  exanoke if tghe needed  differentiation between on-chain transparenct orderbooks and proprietary private servers
+, _available at_ https://youtu.be/kl7omhTtERE?t=1427.
+
+[^venue-prot]: For isntnace,  the  intemreidairt  incorpated by reference at _Id._ link 2 used a server-based software messaging playtfomr based on a central  cop[mpany, _available at_ https://github.com/airswap/airswap-protocols. Even  open-source solutions like this have layers of  centralizaiton built in when they  rely  on supplemental  consensus mechanismms or   a centrall off-chain  matching servers,  including when a smart  contracts execute on a propriteryt firm-based ledger.  I 've epxlored  this in  Response  6  § 0.B and a wide wswath  of public  work, because i  view  the implications as allowsding automated debited clearing  without a central conuterparty when usinga shared orderbook and matching engine. There doews not exist legal preeccedent for tgese disintermediated structures, despite the plethora of benefits  they  provide investors when done properly.
+
+
+
+
+
+
+
+
+
+
+
 
 reg letter adn Don email suppl both quote the FAC _infra_ in 15 USC § 78q-1
 
+https://www.law.cornell.edu/uscode/text/15/78q-1 §§ f4
 
-> The S-P and SCI points are really material because their using "safehandling" as an interpretive proxy for specific programs
-— https://github.com/JFWooten4/agenda/issues/15#issuecomment-3239149051
 
+
+n 
+
+2023 proposed amendments to Reg SCI would not have applied to transfer agents
+
+Department of Government Efficiency cuts
+^ sole regernce, only aded with a fn
+
+`parallle/side markets`
+
+
+offer through  a decentralized frmaework  for  decentralized market
+
+purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
+
+
+interpretive proxy for specific programs
 
 
 
 
 
 ## B. MSF Certificate Detail
+
+In writing the prior subsubsection, I noticed a single-brick lego was  ajar on a Mellenium falcon model  in my office. I had a simialr exprience noticng  a single missing brick out of a dozen completed sets while in therapy  for cvonditions disussedd  in the email submitting Respon #2 sent on 16 Jun 2025 at 4:40pm ET.  Mymind just notices all the little things in  systems, wanting everything in its place.
+
+This drive led me to begin all this work because I just don't stand the cclear flaws in legacy clearing / Over  time, this expanded  to  almost all legaccy financciaa lsystems ands I felt the painful innefficiny  again andd again,  before mucch of my bsuiness access was simlpy revoked. IN preparing for the event in {{{{{{Todo: supora.infr idkfk for the discussion/46  Vegas href}}}}}},  I remarked  to  my Dad  frustrations over  ABS offerings bedcaause of thsi same inability to proccess without fixing mistkaes.[^pre-,arks]
+
+I jut  disagree with large swaths of their business pracctices, and so I decided to find technolgoies that let the market  obviate their roles. Genslar jokes  about how you'd need to reingeer the whole market system to truly implement blockchain  , in hsi first MIT OpenCoursware cclasss. I've refrncedthat so many times in DUNA disucssions becuase I heard  those words and just spent years looking into the "why not" side
+
+
+
+<img width="560" alt="test-rigging" src="imgs/first-release.png">
+
+I jut don't see a good reason the world needs to run everything on their antiquated railroad,  os to speak. And that's hwy I laid out these primative controls for a machine I will endavor to its limits while growing towardss my core objective to  facilitate ddecentrlaied exhcange  is PREV  § II.B.2. It will take much practice to geet steering the different  aspects down perfect, whuch is why I appreciate your help.
+
+
+
+
+
+
+[^pre-,arks]: In my  fourth year attending comprehensive p anels andd spekaing on tokenization, I'd still nto fulyl understood  the ooperating principles that allowed sustainbale long-term nonpredatoryt dealflow. I've come  ot the ocnlusioon  examning market plumbing that, whenever  things don't make sense to me, its proabbyl  becuase they are very ccentralized andd carry a corresponding level of opbfuscation. Even in drawfting  my written prepratory remareks, I knew I count's make it to  the moot ppoihnt in note 1 regarding decentralized communal efforts because of the clear expensive frim-sp[onsored tickets attendees all had around their necks, _available at_ https://github.com/users/JFWooten4/projects/1/views/1?pane=issue&itemId=81176338. The thing that really ets me on beuorcratic politcking calls with panelists preparing over the years was how I could pbring a point up like the signifcance of community friendship, have everyone niod their heads in agreement on needed collaboration items, an then never mention it gain.
+
+
+
+
+
+
+
+
 
 
 ### Securities  Cancellation Dates
@@ -558,7 +756,7 @@ BlockTrans could consult OFAC’s website at http://home.treasury.gov/policy-iss
 
 ---
 
-# § 3 - re Findings § I.A.1
+# § 3 - re Findings § I.A.1 (circle back on the rial point as _DC_)
 hysical address org ijmplementaions
 setup notsl:
 
@@ -713,7 +911,6 @@ s7-2024-05 is  Financial Data Transparency Act Joint Data Standards
 
 ##  standin 'Frinedhsip' shection
 
-MNPI and PII as "top  concerns" as gateway into friendhip
 
 
 
@@ -745,14 +942,6 @@ The Association shall adopt a remote-first operating model, ensuring that all es
 17f2FN:(as a subclass E parent entity)
 
 
-
-proponenets o f DTCC-DA  have remarked that  non-NMS optikons are insecure `parallle/side markets` without  investor protections
-
-offer through  a decentralized frmaework  for  decentralized market
-
-purport ot  uspport  competition (the exchanges, direct  callout  of monoppoily staturing wihtout duoipoly citation)
-
-while  supporting, endorsing, and integrating  DTCC-DA's central  control per fn https://genfinity.io/2025/04/30/dtcc-on-chain-patent-global-finance-takeover/
 
 
 
@@ -802,13 +991,15 @@ Criticallythis  was  the introduction  of  the in IHS via  “ownership of secur
 
 ## other items outstanding
 
+e sixz months pending future for the dealing work 6 months we have "docn not work welll with centralized deadlines" per Response X postfcript (cover eltter ) and so then downto `bvlocking` diction explantion in swe
+
 https://github.com/JFWooten4/agenda/issues/15#issuecomment-3024711494
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2989720732
 (from response 5)
 https://github.com/JFWooten4/agenda/issues/7#issuecomment-2990117590
 
 defernce to nonbuilding on the light Augluiar touch already broecraticsally introucted: 
-Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^
+Frame his intro (with TAR1 cross-ref note 95) as "easy  venture pitch" in re Chives convo after DUNA exhibit chat (cite !!~~// circa cCharleston) **reasonably abstained**^ ex 8.9
 
 and theyne we also ahve bpoth dir below  and  https://discord.com/channels/955819881989808128/1143956254016933920/1220504821589606453
 
@@ -839,10 +1030,9 @@ I d on't think  we need perosnal substantiation, but if i need a  refresher  dur
 
 https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 
-
-
-
 # end (fold)
+
+nove  in parts should be here  at the  close
 
 
 
