@@ -415,18 +415,32 @@ Hadnnking kYC inforation has alwyas been the msot centralized function  I envisi
 
 The cchallenge and opporuntiy with KYC lies in the intimate bonding requirements to  proccess PII. Even in the legacy  OPpersona implementation, internal team members needed  to login and authentiaccakte identieis. Thiss processing reality conflicts with my visioon for peromsisioneless working arrangments wheere contributors have  a minnmumal set of sensitive permissions, electing to work on any public repos.
 
-My  intial rememdy was  to outsource this to a proprietary development company abcked by the  titans of Sand Hill. This worked fine while the Syndicate waas still copletely centralized priorr to discovereing the communtiy. But no that we are migrating to open standdards together, a central service provider for such a crucial part of investor onboarding threatens the envisioned 
+My  intial rememdy was  to outsource this to a proprietary development company abcked by the  titans of Sand Hill. This worked fine while the Syndicate waas still copletely centralized priorr to discovereing the communtiy. But no that we are migrating to open standdards together, a central service provider for such a crucial part of investor onboarding threatens the envisioned open team concepts I hold s odearly
 
-
-
-
-
-
-
-
+The Deficincy  Letter cites our disconitnued  use of the legacy rpovidor partluy  due to ccosts of the service. While this was a factor,  money  is  not particiuualy  an  item in my  mind when it  comes ot  investor ptoections.[^sel-psn] The bigger problem I s ee comeds from the internalization of ercnomies of scale and platform netowrk effects withihn a poor copoate govenrance framwrok, as happeneed to DTCC [^mercy]
 
 
 [^conway=paper]: _See_ su mmary of original paper by the author alongside the source text, _available at_ https://www.melconway.com/Home/Conways_Law.html. To the briefest extent possible, Conway proposes what I have seen so intimately trading nascent ccrypto markets  in comparison  to entranches futuers derivatives. These are two extrrmes  of a  spectrum defined  by  insitutional adoptiona and entranching regulation, r and the movement  of these assets in the fre market  deeply  reflects that . Watching price action subtly change after  the introdfuction  of CME  bitcoin futures really showed me that the thought behind market  strucutre changes ccan have downstream impliccations for ddecades to  come, legitimatley  shaping  society
+
+
+[^sel-psn]: as cited  in earlier  work inclduding primative grant applications not ccommunciated, Persona  as i udnerstand it is one of the m ost expensive iddentity  vverification services  avaliable.  I selected  to after extensive diligence into yst about every  reputable identiity  provicer. and even primative  prototype implementtions used alternatives such as Blokcpass ti test onboarding flows. I foundd that the stramlines user interface and edirect document secuyrity features of  the Persona platform far exceeded competing offerings, and so i ppiicked  it as the best possible existing solution to start
+
+
+
+[^mercy]: _See, e.g.,_ https://x.com/JFWooten4/status/1854654933498552550
+
+#### Updating Public Policy Statments
+
+
+
+
+
+
+
+
+
+
+
 
 ### chacnged / neww identity  provider
 
@@ -1073,7 +1087,6 @@ https://discord.com/channels/@me/1399830854385274991/1415471113609154631
 # end (fold)
 
 nove  in parts should be here  at the  close
-
 
 
 
